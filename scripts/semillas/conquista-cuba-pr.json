@@ -1,0 +1,27 @@
+{
+  "personajes": [
+    {
+      "id": "ponce-leon",
+      "titulo": "Juan Ponce de León",
+      "rol": "Conquistador y gobernador",
+      "periodoRelevancia": [1508, 1521]
+    },
+    {
+      "id": "velazquez-cuellar",
+      "titulo": "Diego Velázquez de Cuéllar",
+      "rol": "Gobernador de Cuba",
+      "periodoRelevancia": [1511, 1524]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-baracoa",
+      "titulo": "Baracoa",
+      "tipo": "fundacion",
+      "fechaAprox": 1511.6,
+      "coordenadas": [-74.5, 20.35],
+      "personajeIds": ["velazquez-cuellar"],
+      "rutaId": "conquista-cuba-pr"
+    }
+  ]
+}

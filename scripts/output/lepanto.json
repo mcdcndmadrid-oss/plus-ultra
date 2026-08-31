@@ -1,0 +1,41 @@
+{
+  "personajes": [
+    {
+      "id": "juan-austria",
+      "nombre": "Juan de Austria",
+      "nacimiento": 1547.0833333333333,
+      "muerte": 1578.75,
+      "periodoRelevancia": [
+        1571,
+        1578
+      ],
+      "rol": "Capitán general de la Liga Santa",
+      "resumen": "Don Juan de Austria (Ratisbona, 24 de febrero de 1545 o 1547-Bouge, 1 de octubre de 1578), hijo ilegítimo del rey Carlos I de España y V del Sacro Imperio Romano Germánico y de Bárbara Blomberg. Fue miembro de la familia real española, además de militar y diplomático durante el reinado de su hermano (por vía paterna) Felipe II de España.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Alonso_S%C3%A1nchez_Coello_-_Don_Juan_de_Austria_armado_%281567%29.jpg/960px-Alonso_S%C3%A1nchez_Coello_-_Don_Juan_de_Austria_armado_%281567%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_de_Austria",
+      "eventoIds": [
+        "batalla-lepanto"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-lepanto",
+      "titulo": "Batalla de Lepanto",
+      "tipo": "batalla",
+      "fecha": 1571.77,
+      "coordenadas": [
+        21.13,
+        38.31
+      ],
+      "resumen": "La batalla de Lepanto (en italiano: Battaglia di Lepanto; en turco: İnebahtı deniz muharebesi, 'batalla naval de İnebahtı') fue un combate naval que tuvo lugar el 7 de octubre de 1571 en el golfo de Patras, cerca de la ciudad griega de Naupacto, en ese entonces conocida como Lepanto.​\nSe enfrentaron en ella la armada del Imperio otomano contra la coalición católica organizada por el papa Pío V, llamada Liga Santa, formada por el Imperio español, los Estados Pontificios, la República de Venecia, la Orden de Malta, la República de Génova y el Ducado de Saboya. Las fuerzas otomanas navegaban hacia el oeste desde su estación naval en Lepanto cuando se encontraron con la flota de la Liga Santa que navegaba hacia el este desde Mesina, en Sicilia. El Imperio español y la República veneciana eran las principales potencias de la coalición, ya que la liga estaba financiada en gran parte por Felipe II de España, y Venecia era el principal contribuyente de barcos.​\nLos católicos, liderados por Juan de Austria, resultaron victoriosos, y se salvaron tan solo treinta galeras otomanas. Se frenó así el expansionismo otomano en el Mediterráneo oriental durante algunas décadas y se provocó que los corsarios aliados de los otomanos abandonaran sus ataques y expansiones hacia el Mediterráneo occidental.​ Los turcos reconstruyeron rápidamente su flota, pero las enormes pérdidas de tripulaciones experimentadas en Lepanto ocasionaron que la marina otomana perdiera su iniciativa naval a partir de la década de 1580.​\nFue la mayor batalla naval de la historia occidental desde la antigüedad clásica, con más de 400 barcos de guerra. Marcó además el último gran enfrentamiento en el mundo occidental que se libró casi en su totalidad entre naves de remo,​ específicamente las galeras y galeazas, descendientes directas de los antiguos barcos de guerra trirreme. La batalla fue en esencia una «batalla de infantería sobre plataformas flotantes».​ En las décadas siguientes, el galeón desplazaría a la galera como principal navío de guerra de su época, demonstrado de nuevo por españoles e italianos en la batalla del cabo Celidonia, que fue considerada un epílogo para Lepanto.​\n\nLa victoria de la Liga Santa es de gran importancia en la historia de Europa y del Imperio Otomano, ya que marcó el punto de inflexión de la expansión militar otomana en el Mediterráneo, si bien las guerras otomanas en Europa continuarían durante otro siglo. Durante mucho tiempo se le ha comparado con la batalla de Salamina, tanto por los paralelismos tácticos como por su importancia crucial en la defensa de Europa contra la expansión imperial.​ También tuvo una gran importancia simbólica en un periodo en el que Europa estaba desgarrada por sus propias guerras de religión tras la Reforma Protestante. El Papa Pío V instituyó la fiesta de Nuestra Señora de la Victoria, y Felipe II de España utilizó la victoria para reforzar su posición como «Rey Católico» y defensor de la cristiandad contra la incursión musulmana.​ El historiador Paul K. Davis escribe que:Más que una victoria militar, Lepanto fue una victoria moral. Durante décadas, los turcos otomanos habían aterrorizado a Europa, y las victorias de Solimán el Magnífico provocaron una gran preocupación en la Europa cristiana. La derrota en Lepanto ejemplificó aún más el rápido deterioro del poderío otomano bajo Selim II, y los cristianos se regocijaron de este revés para los otomanos. La mística del poder otomano se vio empañada significativamente por esta batalla, y la Europa cristiana se animó.​En esta batalla participó Miguel de Cervantes, que resultó herido y perdió la movilidad de su mano izquierda, lo que le valió el sobrenombre de «manco de Lepanto». Este escritor, que estaba muy orgulloso de haber combatido allí, la calificó como «la más memorable y alta ocasión que vieron los pasados siglos, ni esperan ver los venideros».​​​ También introdujo la historia en el Quijote, a través de la narración del cautivo, como típica obra de literatura de frontera.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Spanish_School_-_Battle_of_Lepanto_Victorious_ships_entering_the_Port_of_Messina_%28oil_on_canvas%29_-_%28MeisterDrucke-1423651%29.jpg/960px-Spanish_School_-_Battle_of_Lepanto_Victorious_ships_entering_the_Port_of_Messina_%28oil_on_canvas%29_-_%28MeisterDrucke-1423651%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Lepanto",
+      "personajeIds": [
+        "juan-austria"
+      ],
+      "rutaId": "lepanto"
+    }
+  ],
+  "avisos": []
+}

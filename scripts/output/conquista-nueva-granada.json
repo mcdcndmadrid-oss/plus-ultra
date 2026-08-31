@@ -1,0 +1,59 @@
+{
+  "personajes": [
+    {
+      "id": "jimenez-quesada",
+      "nombre": "Gonzalo Jiménez de Quesada",
+      "nacimiento": 1508.9166666666667,
+      "muerte": 1579.0833333333333,
+      "periodoRelevancia": [
+        1536,
+        1538
+      ],
+      "rol": "Conquistador y adelantado",
+      "resumen": "Gonzalo Jiménez de Quesada (Granada o Córdoba,​ España, 1509-Mariquita, Provincia de Mariquita, Nuevo Reino de Granada, 16 de febrero de 1579) fue un abogado, adelantado y conquistador español con el rango de Teniente General que conquistó el territorio al que llamó Nuevo Reino de Granada, en la Conquista de la Nueva Granada (actual Colombia). Quesada es considerado como uno de los conquistadores más importantes del Imperio Español, entre otras cosas porque es el único conquistador abogado que llegó al continente americano.  \nFundó, entre otras, la ciudad de Santafé de Bogotá, actual capital de Colombia, el 6 de agosto de 1538. Gobernó Cartagena entre 1556 y 1557, y su última expedición la realizó entre 1569 y 1572 en busca de El Dorado.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/0/07/El_Licenciado_Gonzalo_Jim%C3%A9nez_de_Quesada.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Gonzalo_Jim%C3%A9nez_de_Quesada",
+      "eventoIds": [
+        "expedicion-jimenez-quesada",
+        "fundacion-bogota"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "expedicion-jimenez-quesada",
+      "titulo": "Nuevo Reino de Granada",
+      "tipo": "batalla",
+      "fecha": 1537.3,
+      "coordenadas": [
+        -73.6,
+        5.2
+      ],
+      "resumen": "El Nuevo Reino de Granada o Reino de la Nueva Granada fue una provincia virreinal establecida por el Imperio español en el norte de Sudamérica. Pronto tomo centro en Santafé, que con el tiempo se torno en un eje político, económico, y cultural propia, antecedente a la actual República de Colombia.\nNueva Granada correspondió al territorio bajo la jurisdicción de la Real Audiencia de Santafé de Bogotá (1550-1717) y posteriormente correspondiente al Virreinato de Nueva Granada (1717-1819) cuya sede fue Santafé de Bogotá.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Cross_of_Burgundy.svg/960px-Flag_of_Cross_of_Burgundy.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Nuevo_Reino_de_Granada",
+      "personajeIds": [
+        "jimenez-quesada"
+      ],
+      "rutaId": "conquista-nueva-granada"
+    },
+    {
+      "id": "fundacion-bogota",
+      "titulo": "Bogotá",
+      "tipo": "fundacion",
+      "fecha": 1538.65,
+      "coordenadas": [
+        -74.08,
+        4.71
+      ],
+      "resumen": "Bogotá, oficialmente Bogotá, Distrito Capital​​ (antiguamente conocida como Santafé de Bogotá),​​ es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.​​ A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos.​ Está constituida por 20 localidades, cada una con su propio alcalde local y una Junta Administradora Local (JAL).​ Es el epicentro político, económico, administrativo, industrial, artístico, cultural, deportivo y turístico del país.​​​​\nBogotá fue fundada como capital del Nuevo Reino de Granada el 6 de agosto de 1538 por el conquistador español Gonzalo Jiménez de Quesada después de una dura expedición a los Andes.\nEs la tercera capital más alta del mundo después de Sucre (2790 m s. n. m.) y Quito (2850 m s. n. m.). Se encuentra a un promedio de 2625 m s. n. m. Está ubicada en el centro de Colombia, en la región natural conocida como la sabana de Bogotá, que forma parte del altiplano cundiboyacense, formación ubicada en la cordillera Oriental de los Andes.\nSu área urbana tiene una longitud de 33 km de sur a norte, y 16 km de oriente a occidente. Como capital, alberga los organismos de mayor jerarquía de la rama ejecutiva (Presidencia de la República), legislativa (Congreso de Colombia) y judicial (Corte Suprema de Justicia, Corte Constitucional, Consejo de Estado y el Consejo Superior de la Judicatura).\nSegún The Economist, en el plano económico, Bogotá se destaca por su fortaleza económica asociada al tamaño de su producción, las facilidades para crear empresas y hacer negocios, la madurez financiera, la atracción de empresas globales y la calidad de su capital humano.​​ Es el principal mercado de Colombia y de la región andina, y el primer destino de la inversión extranjera directa que llega a Colombia (70 %).​​ Tiene el mayor PIB nominal y per cápita del país, aportando la mayor parte al total nacional (24,5 %),​ y es la sexta ciudad por tamaño del PIB en Latinoamérica (de unos 106 678 millones de dólares) con un PIB per cápita nominal de 11 594 dólares y un PIB PPA per cápita de 20 120 dólares,​ igualmente es la plataforma empresarial más grande de Colombia en donde ocurren la mayoría de los emprendimientos de alto impacto.​\nEl aeropuerto de la ciudad, Aeropuerto Internacional El Dorado, llamado así por el mítico El Dorado, tiene el mayor volumen de carga transportada en Iberoamerica, y es el primero en Sudamérica en cantidad de personas.​ Es la ciudad de Colombia con el mayor número de universidades (114) y centros de investigación.​ Cuenta con una amplia oferta cultural representada en una gran cantidad de museos, teatros y bibliotecas públicas (BibloRed), que le ha otorgado el reconocimiento de la «Atenas de Suramérica».​ La ciudad de Bogotá ocupa el lugar 55 en el Global Cities Index 2018,​ y es considerada una ciudad global tipo Beta + por el GaWC.​\nEl Foro Económico Mundial (WEF) Organización Internacional con sede en Ginebra (Suiza) destacó a Bogotá dentro de las cinco ciudades del mundo, por promover, en medio de la pandemia de COVID-19, el uso de la bicicleta. Aunque ya disponía de 550 km de infraestructura ciclista, a mediados de marzo de 2020 se le habían añadido de manera temporal 117 km más.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/960px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+      "personajeIds": [
+        "jimenez-quesada"
+      ],
+      "rutaId": "conquista-nueva-granada"
+    }
+  ],
+  "avisos": []
+}

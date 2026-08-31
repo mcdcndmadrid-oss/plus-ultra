@@ -1,0 +1,36 @@
+{
+  "personajes": [
+    {
+      "id": "duque-alba",
+      "titulo": "Fernando Álvarez de Toledo duque de Alba",
+      "rol": "Duque de Alba, general",
+      "periodoRelevancia": [1580, 1583]
+    },
+    {
+      "id": "felipe-ii",
+      "titulo": "Felipe II de España",
+      "rol": "Rey de España",
+      "periodoRelevancia": [1556, 1598]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-alcantara-1580",
+      "titulo": "Batalla de Alcántara (1580)",
+      "tipo": "batalla",
+      "fechaAprox": 1580.65,
+      "coordenadas": [-9.13, 38.72],
+      "personajeIds": ["duque-alba"],
+      "rutaId": "union-iberica"
+    },
+    {
+      "id": "cortes-tomar",
+      "titulo": "Cortes de Tomar",
+      "tipo": "tratado",
+      "fechaAprox": 1581.3,
+      "coordenadas": [-8.42, 39.6],
+      "personajeIds": ["felipe-ii"],
+      "rutaId": "union-iberica"
+    }
+  ]
+}

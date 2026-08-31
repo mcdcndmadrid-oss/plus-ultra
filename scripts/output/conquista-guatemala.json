@@ -1,0 +1,59 @@
+{
+  "personajes": [
+    {
+      "id": "pedro-alvarado",
+      "nombre": "Pedro de Alvarado",
+      "nacimiento": 1485.9166666666667,
+      "muerte": 1541.5,
+      "periodoRelevancia": [
+        1523,
+        1541
+      ],
+      "rol": "Conquistador y gobernador",
+      "resumen": "Pedro de Alvarado y Contreras «Tonatiuh» (Lobón, Extremadura, Reino de Castilla; 1485-Guadalajara, Reino de la Nueva Galicia, Virreinato de la Nueva España: 4 de julio de 1541), I adelantado, gobernador y capitán general del Reino de Guatemala, caballero de la Orden de Santiago, fue un conquistador español que participó en la conquista de Cuba, en la exploración por Juan de Grijalva del golfo de México y de las costas de Yucatán, y en la conquista de México-Tenochtitlán dirigida por Hernán Cortés, así como en la conquista del área maya en gran parte de América Central (Guatemala, Honduras, El Salvador y partes de Nicaragua),​ pudiéndolo haberlo sido también del Perú, si no fuera por su renuncia a favor del adelantado Diego de Almagro. Fue conocido por el sobrenombre de Tonatiuh, que significa el Sol en lengua náhuatl.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pedro_de_Alvarado_%28Tom%C3%A1s_Povedano%29.jpg/960px-Pedro_de_Alvarado_%28Tom%C3%A1s_Povedano%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_de_Alvarado",
+      "eventoIds": [
+        "batalla-pinar",
+        "fundacion-santiago-guatemala"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-pinar",
+      "titulo": "Conquista de Guatemala",
+      "tipo": "batalla",
+      "fecha": 1524.1,
+      "coordenadas": [
+        -91.52,
+        14.83
+      ],
+      "resumen": "La conquista de Guatemala fue un conflicto que forma parte de la colonización española de América en el territorio de lo que hoy es la república de Guatemala en Centroamérica. Antes de la conquista, este territorio comprendía varios reinos mesoamericanos, la mayoría de los cuales pertenecía a la civilización maya.\nEl primer contacto entre los mayas y los exploradores españoles se dio en el siglo xvi, cuando un barco español que navegaba de Panamá a Santo Domingo, naufragó en la costa este de la península de Yucatán en 1511. En 1517 y 1519 siguieron varias expediciones españolas que tocaron tierra en diferentes partes de la costa de Yucatán. La conquista española del territorio de los mayas fue un conflicto prolongado que duró casi dos siglos por la tenacidad de la resistencia de los reinos mayas a su integración en el imperio español.\nLa tecnología y las tácticas españolas y nativas eran muy diferentes. Los pueblos indígenas de Guatemala no solamente carecían de elementos claves de la tecnología del Viejo Mundo como una rueda funcional, caballos, hierro, acero y pólvora, sino que también eran muy susceptibles a las enfermedades del Viejo Mundo contra las cuales no tenían resistencia alguna. Muchos mayas preferían las incursiones y la emboscada a la guerra a gran escala, y utilizaban lanzas, flechas y espadas de madera con hojas de obsidiana. En respuesta a la caballería española, los mayas del altiplano recurrieron a cavar hoyos con estacas de madera. Los xincas de la llanura costera del sur utilizaban flechas envenenadas. Los españoles vieron la toma de prisioneros como un estorbo para la victoria final; en cambio, los mayas dieron prioridad a la captura de prisioneros vivos y la apropiación de botín.\nPedro de Alvarado llegó a Guatemala a principios de 1524 al mando de una fuerza mixta compuesta de conquistadores españoles y sus aliados nativos, en su mayoría de Tlaxcala y Cholula. Los nombres geográficos a lo largo de Guatemala tienen topónimos en náhuatl debido a la influencia de estos aliados mexicanos que también sirvieron como guías y traductores para los españoles. Los kakchiqueles se les unieron. Mientras tanto, cada uno de los demás reinos mayas del altiplano había sido derrotado por los españoles y sus guerreros aliados, tanto de México como de los reinos mayas previamente subyugados. El pueblo itza' y otros pueblos mayas de las tierras bajas en la cuenca del Petén establecieron contacto con Hernán Cortés por primera vez en 1525, pero el reino itza' era hostil a la invasión de los españoles y mantuvo su independencia hasta 1697, cuando un resuelto ataque de los españoles finalmente derrotó el último reino maya independiente.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Map_of_the_Spanish_Conquest_of_Guatemala-es.svg/960px-Map_of_the_Spanish_Conquest_of_Guatemala-es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Conquista_de_Guatemala",
+      "personajeIds": [
+        "pedro-alvarado"
+      ],
+      "rutaId": "conquista-guatemala"
+    },
+    {
+      "id": "fundacion-santiago-guatemala",
+      "titulo": "Antigua Guatemala",
+      "tipo": "fundacion",
+      "fecha": 1524.6,
+      "coordenadas": [
+        -90.73,
+        14.62
+      ],
+      "resumen": "Antigua Guatemala (usualmente abreviada  como Antigua) es una ciudad de origen colonial en el antiplano central de Guatemala, en las faldas del Volcán de Agua, aproximadamente a 40 km al suroeste de la Ciudad de Guatemala. Fue la capital de la Capitanía General de Guatemala entre 1542 y 1773, periodo durante la cual se desarrolló gran parte de su arquitectura y trazado urbano de marcada influencia barroca. Estas características históricas y culturales llevaron que la ciudad fuera declarada Patrimonio Cultural de la Humanidad por la UNESCO en 1979.​ En la actualidad, Antigua Guatemala es la cabecera del departamento de Sacatepéquez.\nDurante la época virreinal el espacio geográfico era conocido como Santiago de los Caballeros de Guatemala, nombre que llevaba la capital de la Capitanía General de Guatemala, que estuvo asentada allí entre 1541 y 1776, año en que la ciudad fue trasladada al Valle de la Ermita luego de que los terremotos de Santa Marta derrumbaran la ciudad por tercera vez en el mismo siglo.​ Se cree que este hecho fue aprovechado por las autoridades civiles como excusa para debilitar a las autoridades eclesiásticas —siguiendo las recomendaciones de las Reformas Borbónicas emprendidas por la Corona española en la segunda mitad del siglo xviii—​ obligando a las órdenes regulares a trasladarse de sus majestuosos conventos destruidos a frágiles estructuras temporales en la nueva ciudad.​\nA partir de la tragedia, la ciudad pasó a llamarse «arruinada Guatemala», «Santiago de Guatemala antiguo» y la «antigua ciudad».  Fue abandonada por todas las autoridades reales y municipales, y en 1784 por las dos últimas parroquias: Candelaria y Nuestra Señora de los Remedios, quedándose también sin autoridades eclesiásticas.​ Sin embargo, el 4 de agosto de 1786 fue declarada como Villa de la Antigua Guatemala oficializándose su creación.​ Pocos años después, el arzobispo Cayetano Francos y Monroy autorizó el funcionamiento de tres parroquias interinas que llevaron el nombre de sus antecesoras: San Sebastián, Candelaria y Los Remedios, en donde se guardó la mayor cantidad de obras de arte religioso que permaneció en la Antigua Guatemala desde ese período.​\nTras la Independencia de Centroamérica, en 1821, Antigua recuperó la categoría de ciudad y fue nombrada como cabecera del departamento de Sacatepéquez.​ Así mismo, el Estado de Guatemala estableció circuitos y distritos para la aplicación de justicia por medio de juicios de jurados en 1825, y la Antigua Guatemala fue asignada como sede del circuito homónimo en el distrito n.º 8 (Sacatepéquez).​\nPosterior al terremoto de 1976, y el deseo de su preservación, la ciudad fue designada como Patrimonio de la Humanidad por la UNESCO en 1979.​​ Su desarrollo posterior se ha marcado por un boom del mercado inmobiliario y una migración de las familias locales a las afueras,​ a comunidades como Ciudad Vieja, San Juan del Obispo, Jocotenango, San Lucas y San Pedro, Las Huertas. \nEn el siglo xxi, es un importante destino turístico guatemalteco por su bien preservada arquitectura barroca española con fachadas barrocas del Nuevo Mundo, así como un gran número de ruinas de iglesias católicas, incluso aún después de los severos daños que sus estructuras sufrieron por el abandono en que estuvieron entre 1776 y 1940​​ y por los terremotos de 1874,​ de 1917​ y de 1976.​ También es reconocida por las solemnes procesiones de Semana Santa, que se han realizado anualmente desde antes del traslado de la capital a la Nueva Guatemala.​ De acuerdo con el censo oficial de 2018, tiene una población de 46 054 habitantes.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Antigua_-_Arco.jpg/960px-Antigua_-_Arco.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Antigua_Guatemala",
+      "personajeIds": [
+        "pedro-alvarado"
+      ],
+      "rutaId": "conquista-guatemala"
+    }
+  ],
+  "avisos": []
+}

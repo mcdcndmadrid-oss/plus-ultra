@@ -1,0 +1,14 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "conquista-michoacan",
+      "titulo": "Conquista de Michoacán",
+      "tipo": "batalla",
+      "fechaAprox": 1522.35,
+      "coordenadas": [-101.19, 19.7],
+      "personajeIds": ["cristobal-olid"],
+      "rutaId": "conquista-michoacan"
+    }
+  ]
+}

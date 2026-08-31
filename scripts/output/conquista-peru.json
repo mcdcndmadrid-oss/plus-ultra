@@ -1,0 +1,180 @@
+{
+  "personajes": [
+    {
+      "id": "pizarro",
+      "nombre": "Francisco Pizarro",
+      "nacimiento": 1478.1666666666667,
+      "muerte": 1541.4166666666667,
+      "periodoRelevancia": [
+        1531,
+        1541
+      ],
+      "rol": "Conquistador",
+      "resumen": "Francisco Pizarro González (Trujillo, Extremadura, c. 1478​ - Lima, 26 de junio de 1541)​ fue un conquistador español que lideró durante la primera mitad del siglo XVI la expedición que desembocaría en el inicio de la conquista del imperio incaico, a través del derrocamiento del inca Atahualpa, y el establecimiento de un nuevo orden político y religioso en la región. Posteriormente sería nombrado gobernador de Nueva Castilla, con sede de gobierno en Ciudad de los Reyes (Lima).\nPizarro integró la expedición que descubrió el Mar del Sur (Océano Pacífico), empresa liderada por Vasco Núñez de Balboa en 1516. En 1535, tras capturar y ajusticiar al inca Atahualpa, pudo imponerse sobre el Imperio incaico con ayuda de diversos rebeldes locales, conquistando el mencionado estado imperial cuyo centro de gobierno se ubicaba en el actual Cuzco, Perú, además de establecer una dependencia española sobre él. Obtuvo el título de marqués y sus descendientes tuvieron el título de marqueses de la Conquista, siendo este el título utilizado por el cronista don Francisco López de Gómara en su Historia General de las Indias, capítulo CXXXII. También fue referido como marqués por Pedro Cieza de León en su libro Crónica del Perú. Para sus huestes indígenas era conocido como apu (‘jefe’, ‘señor’, ‘general’) o machu capitán (‘viejo’ capitán).​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Portrait_of_Francisco_Pizarro.jpg/960px-Portrait_of_Francisco_Pizarro.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Francisco_Pizarro",
+      "eventoIds": [
+        "captura-atahualpa",
+        "conquista-cuzco",
+        "fundacion-lima"
+      ]
+    },
+    {
+      "id": "almagro",
+      "nombre": "Diego de Almagro",
+      "nacimiento": 1475,
+      "muerte": 1538.5,
+      "periodoRelevancia": [
+        1532,
+        1538
+      ],
+      "rol": "Conquistador",
+      "resumen": "Diego de Almagro (nacido como Diego de Montenegro Gutiérrez; Almagro o Malagón,​ 1487-Cuzco, Imperio español, 8 de julio de 1538), fue un conquistador español. Se enfrentó al Imperio incaico, donde participó en la conquista de Perú después de la captura de Atahualpa, y también en la conquista de Ecuador, donde fundó San Francisco de Quito. Se le considera el primer español en llegar oficialmente a Chile; fue también el primer europeo en llegar al actual territorio de Bolivia.​ No se sabe donde nació exactamente, según algunos historiadores pudo ser en Almagro o en Malagón, ciudades de la actual provincia de Ciudad Real, según relata Agustín de Zárate en su Historia del descubrimiento y conquista del Perú nació en la villa de Malagón,​ siendo hijo ilegítimo de Juan de Montenegro y de Elvira Gutiérrez. Ambos progenitores se habían dado la promesa de matrimonio, pero terminaron su noviazgo sin realizar este compromiso. Cuando rompieron, Elvira estaba embarazada de Diego, razón por la que sus familiares la ocultaron hasta que naciese el niño, que vio la luz en 1475. La historia lo considera el primer conquistador español rebelde del Perú.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/7/70/Diego_de_Almagro.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Diego_de_Almagro",
+      "eventoIds": [
+        "conquista-cuzco",
+        "batalla-salinas"
+      ]
+    },
+    {
+      "id": "hernando-pizarro",
+      "nombre": "Hernando Pizarro",
+      "nacimiento": 1502,
+      "muerte": 1578,
+      "periodoRelevancia": [
+        1532,
+        1538
+      ],
+      "rol": "Capitán, hermano de Francisco Pizarro",
+      "resumen": "Hernando Pizarro o bien Hernando Pizarro y Vargas (Trujillo, Extremadura, Corona de Castilla, 1504-ib., Corona de España, 1580) fue un explorador y conquistador español. Era uno de los hermanos de Francisco Pizarro con quien pasó al Perú y tomó parte de las primeras acciones de la conquista del Imperio incaico.​\nTambién era pariente lejano de Hernán Cortés, conquistador de México.​ Encabezó al bando pizarrista durante la primera guerra civil entre los conquistadores del Perú, enfrentando a los almagristas, a quienes derrotó en la batalla de las Salinas. Apresó a Diego de Almagro, a quien hizo estrangular en su celda, para luego decapitar su cadáver en la plaza principal del Cuzco. Ello le valió ser sometido a juicio en España, permaneciendo encarcelado durante veinte años en el Castillo de La Mota. Liberado, se instaló en su natal Trujillo, donde construyó el Palacio de la Conquista.\nAdemás financió mediante la fundación de un mayorazgo la iglesia san francisco de trujillo y el hospital de la Inmaculada Concepción.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Historia_de_la_conquista_del_Per%C3%BA%2C_1851_%22Hernando_Pizarro_herido_en_Pun%C3%A1%22._%283971678154%29.jpg/960px-Historia_de_la_conquista_del_Per%C3%BA%2C_1851_%22Hernando_Pizarro_herido_en_Pun%C3%A1%22._%283971678154%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Hernando_Pizarro",
+      "eventoIds": [
+        "sitio-cuzco",
+        "batalla-salinas"
+      ]
+    },
+    {
+      "id": "soto",
+      "nombre": "Hernando de Soto",
+      "nacimiento": 1499.9166666666667,
+      "muerte": 1542.3333333333333,
+      "periodoRelevancia": [
+        1532,
+        1535
+      ],
+      "rol": "Capitán de Pizarro",
+      "resumen": "Hernando de Soto y García de Paredes[cita requerida] (Jerez de los Caballeros Extremadura; 1500 - río Misisipi; 21 de mayo de 1542) fue un adelantado, explorador y conquistador español que viajó a la América española y participó en 1524 en la expedición de Francisco Hernández de Córdoba que descubrió la costa de la provincia de Nicaragua. Además participó en la conquista de Perú, y fue uno de los primeros europeos en adentrarse en el territorio de los actuales Estados Unidos. Se lo conoce como el conquistador de las tres Américas. \nEn 1532, pasó a las órdenes de Francisco Pizarro en la conquista del Perú. Fue gobernador de la isla de Cuba entre 1538 y 1539, año en que partió a la conquista de la Florida.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/7/72/Hernando_de_Soto.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Hernando_de_Soto",
+      "eventoIds": [
+        "captura-atahualpa"
+      ]
+    },
+    {
+      "id": "felipillo",
+      "nombre": "Felipillo",
+      "nacimiento": 1504.9166666666667,
+      "muerte": 1535.9166666666667,
+      "periodoRelevancia": [
+        1532,
+        1534
+      ],
+      "rol": "Intérprete de la expedición",
+      "resumen": "Felipillo o Felipe fue un intérprete de lenguas y traductor nativo tallán que acompañó a Francisco Pizarro y Diego de Almagro en sus varias expediciones al Perú durante la conquista del Imperio inca. Su nombre real es desconocido.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/0/09/Guaman_Poma_-_Ataw_Wallpa.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Felipillo",
+      "eventoIds": [
+        "captura-atahualpa"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "captura-atahualpa",
+      "titulo": "Captura de Atahualpa",
+      "tipo": "batalla",
+      "fecha": 1532.87,
+      "coordenadas": [
+        -78.52,
+        -7.16
+      ],
+      "resumen": "La captura de Atahualpa,​ batalla de Cajamarca,​​ matanza de Cajamarca,​​ o masacre de Cajamarca​​ fue un ataque sorpresa realizado por el contingente de Francisco Pizarro contra la comitiva de Atahualpa. Ocurrió en la tarde del 16 de noviembre de 1532 en la Plaza de Armas de Cajamarca, donde los españoles lograron apresar al inca. La captura de Atahualpa marcó el inicio de la conquista del Tahuantinsuyo.​\nLa emboscada tuvo una duración breve de 30 minutos. La acción derivó en una avalancha humana que produjo una estampida de enorme mortandad entre los presentes dentro del recinto.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png/960px-La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Captura_de_Atahualpa",
+      "personajeIds": [
+        "pizarro",
+        "soto",
+        "felipillo"
+      ]
+    },
+    {
+      "id": "conquista-cuzco",
+      "titulo": "Conquista del Imperio incaico",
+      "tipo": "descubrimiento",
+      "fecha": 1533.9,
+      "coordenadas": [
+        -71.97,
+        -13.52
+      ],
+      "resumen": "La conquista del Imperio incaico, también conocida como conquista del Perú​​​ o del Tahuantinsuyo,​fue el proceso mediante el cual la Monarquía Hispánica incorporó los territorios del Imperio incaico a sus dominios en América durante el siglo XVI. Formó parte de la expansión española en el continente y condujo al establecimiento de las gobernaciones de Nueva Castilla y Nueva Toledo, antecedentes del posterior Virreinato del Perú.\nLas primeras expediciones españolas hacia los Andes partieron desde Panamá durante la década de 1520. Inicialmente fueron encabezadas por Pascual de Andagoya, y después por Francisco Pizarro, Diego de Almagro y Hernando de Luque. La conquista se desarrolló en un contexto de crisis interna del Tahuantinsuyo, marcada por el conflicto entre Huáscar y Atahualpa. Después de la captura de Atahualpa en Cajamarca el 16 de noviembre de 1532 y la ejecución del Sapa Inca al año siguiente, los conquistadores marcharon en dirección al Cuzco con el apoyo de diversos pueblos indígenas, así como sectores de la nobleza cusqueña, logrando ocupar la ciudad el 15 de noviembre de 1533. La derrota definitiva de los partidarios de Atahualpa no se completó hasta finales de 1534 y comienzos de 1535, con la muerte de Quizquiz a manos de su propia soldadesca, la captura y ejecución de Rumiñahui, y la ocupación de las regiones septentrionales del antiguo imperio.\nAunque los españoles gobernaron inicialmente en alianza con una facción de la nobleza incaica, pronto surgieron tensiones entre conquistadores e incas, así como entre los propios españoles. Estas culminaron en la rebelión de Manco Inca en 1536. Tras el fracaso de los sitios de Cuzco y Lima, el soberano inca se retiró primero a Vitcos y posteriormente a Vilcabamba, desde donde dirigió la resistencia contra el dominio español y promovió levantamientos en diferentes regiones andinas. Paralelamente, el control de los europeos se vio debilitado por una serie de guerras civiles entre los propios conquistadores.\nLa autoridad de la Corona se consolidó tras la derrota de los rebeldes españoles a mediados del siglo XVI. No obstante, la resistencia de Vilcabamba perduró hasta 1572, cuando las fuerzas del virrey Francisco de Toledo ocuparon el territorio y ejecutaron a Túpac Amaru I, poniendo fin al último Estado inca independiente. Este acontecimiento se considera el cierre definitivo de la conquista del Tahuantinsuyo.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Montaje_2_conquista_del_Peru.png/960px-Montaje_2_conquista_del_Peru.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Conquista_del_Imperio_incaico",
+      "personajeIds": [
+        "pizarro",
+        "almagro"
+      ]
+    },
+    {
+      "id": "fundacion-lima",
+      "titulo": "Lima",
+      "tipo": "fundacion",
+      "fecha": 1535.05,
+      "coordenadas": [
+        -77.03,
+        -12.05
+      ],
+      "resumen": "Lima, llamada originalmente Ciudad de los Reyes, es la capital y ciudad más poblada del Perú. Está situada en los valles de los ríos Chillón, Rímac y Lurín, en la zona desértica de la costa central del país, frente al océano Pacífico. La ciudad es considerada el centro político, cultural, económico, financiero, comercial y gastronómico del Perú. Por su importancia geoestratégica, ha sido definida como una ciudad global de «clase beta+».​Jurisdiccionalmente, se extiende principalmente dentro de la provincia de Lima y en una porción menor, al oeste, dentro de la provincia constitucional del Callao, donde se ubican el puerto marítimo y el Aeropuerto Internacional Jorge Chávez. Ambas provincias cuentan con autonomía regional desde el año 2002.\nLa proyección censal de 2023 indica que la ciudad de Lima tiene una población estimada de 10 092 000 habitantes, lo que la convierte en la ciudad más poblada del país. Junto con la ciudad del Callao, forma un área urbana contigua conocida como área metropolitana de Lima-Callao, que abarca un total de 10 151 200 habitantes. Al considerar la provincia constitucional del Callao, la aglomeración total alcanza una población de 11 342 100 habitantes, haciéndola una de las treinta aglomeraciones urbanas más pobladas del mundo.​​\nLa historia de Lima se remonta a miles de años atrás, cuando estuvo habitada por los lima, los ichma y posteriormente los incas. El 18 de enero de 1535, el conquistador español Francisco Pizarro estableció la «Ciudad de los Reyes» sobre el fértil valle del Rímac, cerca del océano Pacífico. Como capital del Virreinato del Perú, Lima se convirtió rápidamente en el centro político, cultural y económico de la América del Sur española. Tras la Guerra de Independencia del Perú, Lima se convirtió en la capital de la recién formada república. En los siglos XX y XXI, la ciudad experimentó una importante modernización y expansión urbana, albergando a casi un tercio de la población peruana y convirtiéndose en un crisol de culturas con tradiciones, festivales, música y gastronomía que la caracterizan.\nEn octubre de 2013, Lima fue elegida para albergar los Juegos Panamericanos de 2019; estos juegos se llevaron a cabo en sedes de Lima y sus alrededores, y fueron el evento deportivo más grande jamás organizado por el país. También fue sede de las reuniones de la Cooperación Económica Asia-Pacífico (APEC) de 2008 y 2016, las reuniones anuales del Fondo Monetario Internacional y el Grupo del Banco Mundial en octubre de 2015, la Conferencia de las Naciones Unidas sobre el Cambio Climático en diciembre de 2014 y el concurso Miss Universo 1982. En noviembre de 2024, fue sede de las reuniones de la APEC por tercera vez.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/960px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Lima",
+      "personajeIds": [
+        "pizarro"
+      ]
+    },
+    {
+      "id": "sitio-cuzco",
+      "titulo": "Sitio del Cuzco",
+      "tipo": "rebelion",
+      "fecha": 1536.3,
+      "coordenadas": [
+        -71.97,
+        -13.52
+      ],
+      "resumen": "El sitio de Cusco, también conocido como el cerco de Cusco, fue un prolongado asedio de 10 meses iniciado el 6 de mayo de 1536 por Manco Inca Yupanqui, en el contexto de la Conquista del Imperio Incaico.\nTácticamente, el resultado fue un estancamiento militar:​ los conquistadores españoles  no lograron romper el cerco, ni siquiera tras la recaptura de Sacsayhuamán, mientras que las tropas incas tampoco consiguieron tomar la ciudad. Sin embargo, estratégicamente, el desenlace favoreció a los europeos, quienes resistieron el tiempo suficiente para que regrese la expedición de Diego de Almagro desde Chile y se aproximen los refuerzos españoles al mando de Alonso de Alvarado.\nAnte la inminente llegada de estas tropas,​ la desaparición del ejército encargado de controlar la sierra central​ y la creciente escasez de suministros, Manco Inca decidió levantar el sitio el 18 de abril de 1537 y replegarse hacia Ollantaytambo para reorganizar sus fuerzas.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cusco_bat.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Sitio_del_Cuzco",
+      "personajeIds": [
+        "hernando-pizarro"
+      ]
+    },
+    {
+      "id": "batalla-salinas",
+      "titulo": "Batalla de las Salinas",
+      "tipo": "batalla",
+      "fecha": 1538.3,
+      "coordenadas": [
+        -71.9,
+        -13.6
+      ],
+      "resumen": "La batalla de las Salinas fue un decisivo conflicto militar entre las fuerzas de Hernando y Gonzalo Pizarro contra las de Diego de Almagro, el 6 de abril de 1538. El enfrentamiento entre Francisco Pizarro y Diego de Almagro durante el proceso de la conquista española del Tahuantinsuyo se originó en la disputa por la posesión de la ciudad de Cuzco, que ambos consideraban bajo su jurisdicción y que estaba en poder de Almagro desde 1537. \nLa batalla tuvo lugar en las antiguas salinas incas de Cachipampa, situadas a 5 km al sur de Cuzco, ciudad que fue ocupada por los almagristas después de su victoria en Abancay. Ambos líderes afirmaron representar la autoridad de la Corona española; los de Pizarro controlaban la provincia de Nueva Castilla, mientras que los de Almagro operaban en Nueva Toledo.\nLuego de una hora de masacre, la batalla se resolvió con una victoria de los pizarristas: gracias a la captura de Almagro y sus lugartenientes, y la muerte de Rodrigo Orgóñez en el campo de batalla, los Pizarro persiguió al enemigo tomando posesión del Cuzco. Almagro fue ejecutado en julio de 1538.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Diego-de-Almagro.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_las_Salinas",
+      "personajeIds": [
+        "hernando-pizarro",
+        "almagro"
+      ]
+    }
+  ],
+  "avisos": []
+}

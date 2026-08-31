@@ -1,0 +1,48 @@
+{
+  "personajes": [
+    {
+      "id": "isabel-i",
+      "titulo": "Isabel I de Castilla",
+      "rol": "Reina de Castilla",
+      "periodoRelevancia": [1474, 1504]
+    },
+    {
+      "id": "fernando-ii",
+      "titulo": "Fernando II de Aragón",
+      "rol": "Rey de Aragón",
+      "periodoRelevancia": [1479, 1516]
+    },
+    {
+      "id": "gran-capitan",
+      "titulo": "Gonzalo Fernández de Córdoba",
+      "rol": "Capitán, «El Gran Capitán»",
+      "periodoRelevancia": [1482, 1492]
+    },
+    {
+      "id": "marques-cadiz",
+      "titulo": "Rodrigo Ponce de León (1443-1492)",
+      "rol": "Marqués de Cádiz",
+      "periodoRelevancia": [1482, 1492]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "sitio-malaga",
+      "titulo": "Sitio de Málaga (1487)",
+      "tipo": "batalla",
+      "fechaAprox": 1487.65,
+      "coordenadas": [-4.42, 36.72],
+      "personajeIds": ["fernando-ii", "isabel-i"],
+      "rutaId": "guerra-granada"
+    },
+    {
+      "id": "toma-granada",
+      "titulo": "Toma de Granada",
+      "tipo": "tratado",
+      "fechaAprox": 1492.04,
+      "coordenadas": [-3.6, 37.18],
+      "personajeIds": ["fernando-ii", "isabel-i", "gran-capitan"],
+      "rutaId": "guerra-granada"
+    }
+  ]
+}

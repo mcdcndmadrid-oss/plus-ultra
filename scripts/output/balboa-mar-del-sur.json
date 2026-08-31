@@ -1,0 +1,21 @@
+{
+  "personajes": [
+    {
+      "id": "balboa",
+      "nombre": "Vasco Núñez de Balboa",
+      "nacimiento": 1475,
+      "muerte": 1519,
+      "periodoRelevancia": [
+        1510,
+        1519
+      ],
+      "rol": "Explorador y adelantado",
+      "resumen": "Vasco Núñez de Balboa (Jerez de los Caballeros, provincia de Badajoz, ca. 1475-Acla, actual Panamá, 15 de enero de 1519) fue un adelantado, explorador, gobernante y conquistador español. Tras ser Andrés Contero el primer europeo en divisar el océano Pacífico desde un acantilado de su costa oriental, fue el primero en tomar posesión de esas tierras​ y el primer europeo en haber fundado una ciudad estable en solares continentales del Nuevo Mundo. Después de cruzar el istmo de Panamá (1513) dio a la idea de que la Indias eran otro continente.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Retrato_de_Vasco_Nu%C3%B1ez_de_Balboa_%281475-1517%29_-_An%C3%B3nimo.jpg/960px-Retrato_de_Vasco_Nu%C3%B1ez_de_Balboa_%281475-1517%29_-_An%C3%B3nimo.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Vasco_N%C3%BA%C3%B1ez_de_Balboa",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [],
+  "avisos": []
+}

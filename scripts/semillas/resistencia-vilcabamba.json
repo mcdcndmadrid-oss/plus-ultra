@@ -1,0 +1,21 @@
+{
+  "personajes": [
+    {
+      "id": "onez-loyola",
+      "titulo": "Martín García Óñez de Loyola",
+      "rol": "Capitán, gobernador de Chile",
+      "periodoRelevancia": [1572, 1598]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "caida-vilcabamba",
+      "titulo": "Vilcabamba",
+      "tipo": "batalla",
+      "fechaAprox": 1572.5,
+      "coordenadas": [-73.03, -13.13],
+      "personajeIds": ["onez-loyola"],
+      "rutaId": "resistencia-vilcabamba"
+    }
+  ]
+}

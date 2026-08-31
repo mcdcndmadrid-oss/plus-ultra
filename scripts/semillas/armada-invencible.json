@@ -1,0 +1,21 @@
+{
+  "personajes": [
+    {
+      "id": "medina-sidonia",
+      "titulo": "Alonso Pérez de Guzmán, séptimo duque de Medinasidonia",
+      "rol": "Capitán general de la Armada",
+      "periodoRelevancia": [1588, 1588]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-gravelinas",
+      "titulo": "Batalla de Gravelinas",
+      "tipo": "batalla",
+      "fechaAprox": 1588.6,
+      "coordenadas": [2.1, 51.0],
+      "personajeIds": ["medina-sidonia"],
+      "rutaId": "armada-invencible"
+    }
+  ]
+}

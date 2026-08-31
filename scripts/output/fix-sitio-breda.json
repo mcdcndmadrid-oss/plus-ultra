@@ -1,0 +1,22 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "sitio-breda",
+      "titulo": "Sitio de Breda",
+      "tipo": "batalla",
+      "fecha": 1624.7,
+      "coordenadas": [
+        4.78,
+        51.59
+      ],
+      "resumen": "Sitio de Breda puede referirse a diversos asedios sufridos por esta ciudad neerlandesa, en la provincia de Brabante:\n\nAsedio de Breda de 1577: las fuerzas de los Estados Generales de los Países Bajos sitian la ciudad y pactan su rendición.\nToma de Breda de 1581: los tercios españoles de Claude de Berlaymont toman la ciudad con la connivencia de Charles de Gavre, del consejo de estado holandés.\nToma de Breda de 1590: un pequeño grupo de soldados holandeses bajo el mando de Charles de Heraugiere, con el apoyo de Mauricio de Nassau, toman la ciudad por asalto, dispersando a los soldados italianos de la guarnición defensora.\nAsedio de Breda de 1625: Ambrosio Spinola, al frente de los tercios españoles, rinde la ciudad bajo el gobierno del holandés Justino de Nassau.\nAsedio de Breda de 1637: Federico Enrique de Orange-Nassau, al mando del ejército holandés, sitia y rinde la ciudad.\nAsedio de Breda de 1813. Entre el 19-22 diciembre. Victoria tropas ruso-neerlandesas. Frente al ejército francés que había abandonado la ciudad el día 10 y que fracasa en su intento de recuperarla. Durante la guerra de la sexta coalición.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Sitio_de_Breda",
+      "personajeIds": [
+        "spinola"
+      ],
+      "rutaId": "treinta-anos"
+    }
+  ],
+  "avisos": []
+}

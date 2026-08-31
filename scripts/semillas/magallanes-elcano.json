@@ -1,0 +1,56 @@
+{
+  "personajes": [
+    {
+      "id": "magallanes",
+      "titulo": "Fernando de Magallanes",
+      "rol": "Navegante al servicio de la Corona de Castilla",
+      "periodoRelevancia": [1519, 1521]
+    },
+    {
+      "id": "elcano",
+      "titulo": "Juan Sebastián Elcano",
+      "rol": "Navegante, completó la primera vuelta al mundo",
+      "periodoRelevancia": [1519, 1522]
+    },
+    {
+      "id": "pigafetta",
+      "titulo": "Antonio Pigafetta",
+      "rol": "Cronista de la expedición",
+      "periodoRelevancia": [1519, 1522]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "partida-expedicion",
+      "titulo": "Expedición de Magallanes y Elcano",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1519.65,
+      "coordenadas": [-6.35, 36.78],
+      "personajeIds": ["magallanes", "elcano", "pigafetta"]
+    },
+    {
+      "id": "paso-estrecho",
+      "titulo": "Estrecho de Magallanes",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1520.85,
+      "coordenadas": [-70.0, -53.5],
+      "personajeIds": ["magallanes"]
+    },
+    {
+      "id": "batalla-mactan",
+      "titulo": "Batalla de Mactán",
+      "tipo": "batalla",
+      "fechaAprox": 1521.3,
+      "coordenadas": [123.97, 10.31],
+      "personajeIds": ["magallanes"]
+    },
+    {
+      "id": "regreso-elcano",
+      "titulo": "Nao Victoria",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1522.68,
+      "coordenadas": [-6.35, 36.78],
+      "personajeIds": ["elcano", "pigafetta"]
+    }
+  ]
+}

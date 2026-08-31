@@ -1,0 +1,41 @@
+{
+  "personajes": [
+    {
+      "id": "medina-sidonia",
+      "nombre": "Alonso de Guzmán y Sotomayor",
+      "nacimiento": 1550.6666666666667,
+      "muerte": 1619.5,
+      "periodoRelevancia": [
+        1588,
+        1588
+      ],
+      "rol": "Capitán general de la Armada",
+      "resumen": "Alonso Pérez de Guzmán el Bueno (Sanlúcar de Barrameda, 10 de septiembre de 1550 - ibídem, 1615), VII duque de Medina Sidonia y grande de España, fue un noble y militar español perteneciente a la casa de Medina Sidonia. Fue comandante en jefe de la Armada Española y la dirigió durante la trágica aventura de la conocida Grande y Felicísima Armada (Armada Invencible). Hijo de Juan Claros de Guzmán, IX conde de Niebla y de Leonor de Sotomayor y Zúñiga, se convirtió en X conde de Niebla a la muerte de su padre en 1556.\nEn 1558, cuando falleció su abuelo Juan Alonso Pérez de Guzmán, VI duque de Medina Sidonia, se convirtió en el VII duque, XII señor de Sanlúcar, V marqués de Cazaza en África y poseedor de una de las mayores fortunas de Europa. Como duque de Medina Sidonia, además de una competente carrera militar en tierra, Guzmán destacó especialmente por su gran capacidad organizativa en los recursos navales, encargándose del comercio y la defensa del sur de la península y siendo pionero en el uso de fragatas.​ Sin embargo, no se prodigó personalmente en el mando de flotas, lo que contribuyó al fracaso de la llamada Armada Invencible, encomendada a él contra su voluntad en 1588. Este tropiezo caracterizaría su figura en la historiografía posterior.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Alonso_P%C3%A9rez_de_Guzm%C3%A1n.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Alonso_de_Guzm%C3%A1n_y_Sotomayor",
+      "eventoIds": [
+        "batalla-gravelinas"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-gravelinas",
+      "titulo": "Batalla de Gravelinas",
+      "tipo": "batalla",
+      "fecha": 1588.6,
+      "coordenadas": [
+        2.1,
+        51
+      ],
+      "resumen": "La batalla de Gravelinas tuvo lugar el 13 de julio de 1558, en el pueblo de Gravelinas, cerca de Calais, marcando el final de la guerra entre Francia y el Imperio español, que se prolongó desde el año 1547 hasta 1559.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pieter_Snayers_Siege_of_Gravelines.jpg/960px-Pieter_Snayers_Siege_of_Gravelines.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Gravelinas",
+      "personajeIds": [
+        "medina-sidonia"
+      ],
+      "rutaId": "armada-invencible"
+    }
+  ],
+  "avisos": []
+}

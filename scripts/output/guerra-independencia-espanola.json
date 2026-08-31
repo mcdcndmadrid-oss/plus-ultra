@@ -1,0 +1,86 @@
+{
+  "personajes": [
+    {
+      "id": "palafox",
+      "nombre": "José de Palafox",
+      "nacimiento": 1775.75,
+      "muerte": 1847.0833333333333,
+      "periodoRelevancia": [
+        1808,
+        1814
+      ],
+      "rol": "General, defensor de Zaragoza",
+      "resumen": "José Rebolledo de Palafox y Melzi (Zaragoza, 28 de octubre de 1775-Madrid, 15 de febrero de 1847)​ fue un militar español de tendencia política liberal. Por su destacada participación como capitán general durante el sitio de Zaragoza en la guerra de la Independencia recibió el título nobiliario de duque de Zaragoza.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Jos%C3%A9_de_Palafox_por_Goya_%28Prado%29.jpg/960px-Jos%C3%A9_de_Palafox_por_Goya_%28Prado%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_de_Palafox",
+      "eventoIds": [
+        "sitio-zaragoza"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "dos-mayo-1808",
+      "titulo": "Levantamiento del 2 de Mayo",
+      "tipo": "rebelion",
+      "fecha": 1808.33,
+      "coordenadas": [
+        -3.7,
+        40.42
+      ],
+      "resumen": "El Levantamiento del 2 de Mayo​ es el nombre por el que se conocen los hechos acontecidos ese día de 1808 contra la invasión francesa de España en la ciudad de Madrid.​​ Posteriormente a que se reprimiera la protesta por las fuerzas napoleónicas presentes en la ciudad, por todo el país se extendió una ola de proclamas de indignación y llamamientos públicos a la insurrección armada, que desembocarían en la guerra de la Independencia española.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/El_dos_de_mayo_de_1808_en_Madrid.jpg/960px-El_dos_de_mayo_de_1808_en_Madrid.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Levantamiento_del_2_de_Mayo",
+      "personajeIds": [],
+      "rutaId": "guerra-independencia-espanola"
+    },
+    {
+      "id": "sitio-zaragoza",
+      "titulo": "Sitio de Zaragoza (1808)",
+      "tipo": "batalla",
+      "fecha": 1808.5,
+      "coordenadas": [
+        -0.88,
+        41.65
+      ],
+      "resumen": "Los sitios de Zaragoza fueron dos asedios sufridos por la ciudad aragonesa de Zaragoza durante la guerra de la Independencia española, que enfrentó a los ejércitos de ocupación del Primer Imperio francés de Napoleón Bonaparte y a fuerzas españolas leales a la dinastía Borbón.\nLa plaza era clave para garantizar las comunicaciones del noreste y el abastecimiento de las tropas en Cataluña, así como para controlar Aragón. Por ello, tras la sublevación de la ciudad a consecuencia de los sucesos del Dos de mayo de 1808, se envió a un ejército a restablecer el control de la ciudad. Aunque las tropas francesas eran superiores en número y armamento, la ciudad resistió.\nSin embargo, a finales de año, los franceses regresaron en mayor número, reanudándose el sitio. A pesar de la feroz resistencia de la ciudad, inmortalizada por varios cronistas, la ciudad, diezmada por la guerra y las epidemias derivadas del sitio, capituló finalmente el 21 de febrero de 1809.\nLos sitios de Zaragoza fueron uno de los acontecimientos más representativos de la guerra de Independencia española, legando un gran número de héroes y leyendas a la tradición popular, y siendo fuente de inspiración para varios escritores.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/La_defensa_de_Zaragoza.jpg/960px-La_defensa_de_Zaragoza.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Sitio_de_Zaragoza_(1808)",
+      "personajeIds": [
+        "palafox"
+      ],
+      "rutaId": "guerra-independencia-espanola"
+    },
+    {
+      "id": "batalla-bailen",
+      "titulo": "Batalla de Bailén",
+      "tipo": "batalla",
+      "fecha": 1808.58,
+      "coordenadas": [
+        -3.78,
+        38.1
+      ],
+      "resumen": "La batalla de Bailén se libró durante la guerra de la Independencia española y supuso la primera derrota en campo abierto de la historia del ejército napoleónico. Tuvo lugar el 19 de julio de 1808 junto a la ciudad jienense de Bailén. Enfrentó a un ejército francés de unos 22 000 soldados al mando del general Dupont con otro español más numeroso (unos 29 770) a las órdenes del general Teodoro Reding, aunque el general en jefe del llamado Ejército de Andalucía era el general Castaños. Aunque la primera derrota del Ejército de Napoleón en territorio español ocurrió entre el 8 y el 14 de junio de 1808, en la batalla de la Poza de Santa Isabel, en la bahía de Cádiz.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/La_Rendici%C3%B3n_de_Bail%C3%A9n_%28Casado_del_Alisal%29.jpg/960px-La_Rendici%C3%B3n_de_Bail%C3%A9n_%28Casado_del_Alisal%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Bail%C3%A9n",
+      "personajeIds": [],
+      "rutaId": "guerra-independencia-espanola"
+    },
+    {
+      "id": "batalla-vitoria",
+      "titulo": "Batalla de Vitoria",
+      "tipo": "batalla",
+      "fecha": 1813.48,
+      "coordenadas": [
+        -2.67,
+        42.85
+      ],
+      "resumen": "La batalla de Vitoria (en euskera: Gasteizko gudua) fue librada el 21 de junio de 1813 entre las tropas francesas que escoltaban a José Bonaparte en su huida y un conglomerado de tropas españolas, británicas y portuguesas al mando de Arthur Wellesley, el futuro duque de Wellington.\nLa victoria aliada sancionó la retirada definitiva de las tropas francesas de España (con la excepción de Cataluña) y forzó a Napoleón a devolver la corona del país a Fernando VII por el tratado de Valençay de 1813.\nEl acuerdo definitivo de paz entre la España del ya rey Fernando VII y el nuevo rey de Francia Luis XVIII se firmó el 20 de julio de 1814. Previamente, el 30 de mayo se firmaba un primer acuerdo en París —aunque el embajador español no lo pudo firmar a no tener poderes plenipotenciarios—, finalizando así la guerra de la Independencia española.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Vitoria_-_Plaza_Virgen_Blanca_02.jpg/960px-Vitoria_-_Plaza_Virgen_Blanca_02.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Vitoria",
+      "personajeIds": [],
+      "rutaId": "guerra-independencia-espanola"
+    }
+  ],
+  "avisos": []
+}

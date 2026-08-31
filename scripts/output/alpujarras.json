@@ -1,0 +1,23 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "rebelion-alpujarras",
+      "titulo": "Rebelión de las Alpujarras",
+      "tipo": "rebelion",
+      "fecha": 1568.98,
+      "coordenadas": [
+        -3.35,
+        36.95
+      ],
+      "resumen": "La rebelión de las Alpujarras fue un conflicto acontecido en España entre 1568 y 1571 durante el reinado de Felipe II. La abundante población morisca del Reino de Granada se alzó en armas en protesta contra la Pragmática Sanción de 1567, que limitaba sus libertades culturales. Cuando el poder real consiguió vencer a los sublevados, se decidió deportar a los moriscos supervivientes a varios puntos del resto de la Corona de Castilla, cuya población morisca pasó de veinte mil a cien mil personas.​ Por la gravedad y la intensidad de sus combates también se le conoce como la Guerra de las Alpujarras. Felipe II quedó sobrecogido ante las masacres de sacerdotes llevadas a cabo por los rebeldes. Aparte de las muertes y de las expulsiones, miles fueron vendidos como esclavos dentro de España. En la Córdoba de 1573 había unos mil quinientos esclavos moriscos.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rebeli%C3%B3n_de_Las_Alpujarras.svg/960px-Rebeli%C3%B3n_de_Las_Alpujarras.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Rebeli%C3%B3n_de_las_Alpujarras",
+      "personajeIds": [
+        "juan-austria"
+      ],
+      "rutaId": "alpujarras"
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,39 @@
+{
+  "personajes": [
+    {
+      "id": "bartolome-colon",
+      "titulo": "Bartolomé Colón",
+      "rol": "Adelantado de las Indias",
+      "periodoRelevancia": [1493, 1506]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-isabela",
+      "titulo": "La Isabela",
+      "tipo": "fundacion",
+      "fechaAprox": 1493.9,
+      "coordenadas": [-70.99, 19.9],
+      "personajeIds": ["colon"],
+      "rutaId": "viajes-colon-2-4"
+    },
+    {
+      "id": "fundacion-santo-domingo",
+      "titulo": "Santo Domingo",
+      "tipo": "fundacion",
+      "fechaAprox": 1496.6,
+      "coordenadas": [-69.9, 18.48],
+      "personajeIds": ["bartolome-colon"],
+      "rutaId": "viajes-colon-2-4"
+    },
+    {
+      "id": "tercer-viaje-colon",
+      "titulo": "Tercer viaje de Cristóbal Colón",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1498.55,
+      "coordenadas": [-61.4, 10.5],
+      "personajeIds": ["colon"],
+      "rutaId": "viajes-colon-2-4"
+    }
+  ]
+}

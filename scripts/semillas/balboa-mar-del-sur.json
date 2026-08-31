@@ -1,0 +1,11 @@
+{
+  "personajes": [
+    {
+      "id": "balboa",
+      "titulo": "Vasco Núñez de Balboa",
+      "rol": "Explorador y adelantado",
+      "periodoRelevancia": [1510, 1519]
+    }
+  ],
+  "eventos": []
+}

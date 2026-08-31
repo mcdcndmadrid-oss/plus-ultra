@@ -1,0 +1,75 @@
+{
+  "personajes": [
+    {
+      "id": "duque-alba",
+      "nombre": "Fernando Álvarez de Toledo y Pimentel",
+      "nacimiento": 1507.75,
+      "muerte": 1582.9166666666667,
+      "periodoRelevancia": [
+        1580,
+        1583
+      ],
+      "rol": "Duque de Alba, general",
+      "resumen": "Fernando Álvarez de Toledo y Pimentel, también Ferdinandus Toletanus Dux Albanus​ (Piedrahíta, 29 de octubre de 1507-Tomar, 11 de diciembre de 1582), llamado «el Gran Duque de Alba»​ y «el Grande»,​ fue un noble, militar y diplomático español, III duque de Alba de Tormes, IV marqués de Coria, III conde de Salvatierra de Tormes, II conde de Piedrahíta y VIII señor de Valdecorneja, grande de España y caballero de la Insigne Orden del Toisón de Oro. Fue el más importante de los representantes de la Casa de Toledo o Casa de Álvarez de Toledo.​​\nFue el hombre de mayor confianza y obediencia del rey Carlos I de España y de su hijo y sucesor, Felipe II de España, mayordomo mayor de ambos, miembro de sus Consejos de Estado y de Guerra, gobernador del Ducado de Milán (1555-1556), virrey del reino de Nápoles (1556-1558), gobernador de los Países Bajos de los Habsburgo (1567-1573) y virrey y condestable del Reino de Portugal (1580-1582). Representó a Felipe II en sus esponsales con Isabel de Valois y con Ana de Austria, quienes fueron la tercera y la cuarta —y última— esposas del monarca respectivamente.\nEs considerado por los historiadores como el mejor general de su época​​ y uno de los mejores de la historia.​ Se distinguió en la Jornada de Túnez (1535), participando en la victoria de Carlos I sobre el pirata otomano Barbarroja que devolvió el predominio de la Monarquía Hispánica sobre el occidente del mar Mediterráneo—, y en batallas como Mühlberg (1547), en la que el ejército del emperador Carlos venció a los príncipes protestantes alemanes—.\nEternizó su memoria reprimiendo la rebelión de los Países Bajos, donde actuó con gran rigor castigando a los rebeldes, instituyendo el Tribunal de los Tumultos y derrotando totalmente a las tropas de Luis de Nassau en la Batalla de Jemmingen y a Guillermo de Orange en la Batalla de Jodoigne en los primeros momentos de la Guerra de los Ochenta Años.\nCoronó su carrera ya anciano con la crisis sucesoria en Portugal de 1580, venciendo a las tropas portuguesas del pretendiente Antonio, prior de Crato, en la Batalla de Alcántara y conquistando ese reino para Felipe II. Gracias a su genio militar España logró la unificación de todos los reinos de la península ibérica y la consecuente ampliación de los territorios de ultramar.\nEl 26 de diciembre de 1566 recibió la Rosa de Oro, el estoque y capelo benditos otorgados por el papa Pío V, a través del breve Solent Romani Pontifices, en premio a sus singulares esfuerzos en favor del catolicismo y por ser considerado como uno de sus campeones.​\nFue camarada de armas, amigo y protector del poeta y soldado Garcilaso de la Vega, que dedicó parte de su Égloga II a ensalzar a la casa de Alba y su duque.\nSu divisa en latín era Deo patrum nostrorum, que en español significa Al Dios de nuestros padres.\nSu figura constituye una de las más importantes de la leyenda negra española, que lo describe como un auténtico señor de la guerra, famoso e intrépido pero, al mismo tiempo, brutal, implacable y severo al extremo.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Willem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo%2C_III_duque_de_Alba%2C_Fundaci%C3%B3n_Casa_de_Alba.jpg/960px-Willem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo%2C_III_duque_de_Alba%2C_Fundaci%C3%B3n_Casa_de_Alba.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Fernando_%C3%81lvarez_de_Toledo_y_Pimentel",
+      "eventoIds": [
+        "batalla-alcantara-1580"
+      ]
+    },
+    {
+      "id": "felipe-ii",
+      "nombre": "Felipe II de España",
+      "nacimiento": 1527.3333333333333,
+      "muerte": 1598.6666666666667,
+      "periodoRelevancia": [
+        1556,
+        1598
+      ],
+      "rol": "Rey de España",
+      "resumen": "Felipe II de España, llamado «el Prudente» (Valladolid, 21 de mayo de 1527-San Lorenzo de El Escorial, 13 de septiembre de 1598), fue rey de España​ desde el 15 de enero de 1556 hasta su muerte; de Nápoles y Sicilia desde 1554; y de Portugal y los Algarbes —como Felipe I— desde 1580, logrando una unión dinástica que duró sesenta años. Fue asimismo rey de Inglaterra e Irlanda iure uxoris, por su matrimonio con María I, entre 1554 y 1558.\nFue hijo y heredero de Carlos I de España e Isabel de Portugal, hermano de María de Austria y Juana de Austria, nieto por vía paterna de Juana I de Castilla y Felipe I de Castilla, y de Manuel I de Portugal y María de Aragón por vía materna. Felipe heredó el Imperio español de su padre en 1556 y ascendió al trono portugués en 1580 tras una crisis dinástica, formando la Unión Ibérica. Las conquistas españolas del Imperio inca y de Filipinas, nombradas en su honor por Ruy López de Villalobos, se completaron durante su reinado. Terminó de construir el palacio real de El Escorial en 1584. Bajo Felipe II, España alcanzó la cima de su influencia y poder, avanzando hacia el Siglo de Oro español y gobernó territorios en todos los continentes conocidos entonces por los europeos. Profundamente devoto, Felipe se veía a sí mismo como el defensor de la Europa católica contra el Imperio otomano y la Reforma protestante, e invirtió la hegemonía europea de España en múltiples esfuerzos bélicos simultáneos.\nDurante su reinado, España participó en grandes victorias contra los otomanos en Orán, Malta y Lepanto. En 1584, durante la guerra de los Ochenta Años, Felipe firmó el Tratado de Joinville, financiando la Liga Católica Francesa durante la década siguiente contra los hugonotes franceses. En 1588 envió la posteriormente conocida como «Armada Invencible» para invadir la Inglaterra protestante, con el objetivo estratégico de derrocar a Isabel I y restablecer el catolicismo allí, pero su flota fue rechazada en una escaramuza y naufragó por las tormentas en su retorno a España. El poder naval de Felipe se recuperó después de la fallida invasión de la Invencible Inglesa en 1589, de un tamaño similar a la anterior invencible española. También se consideró, pero no se realizó un ambicioso plan para extender sus conquistas a China y a través de Asia. Como consecuencia de estos conflictos, Felipe lideró un régimen en profunda deuda pública, llegando a declarar bancarrotas en 1557, 1560, 1569, 1575 y 1596.\nMurió el 13 de septiembre de 1598 a los setenta y un años de edad, en el monasterio de San Lorenzo de El Escorial, para lo cual se hizo llevar desde Madrid en una silla-tumbona fabricada para tal ocasión. Su muerte puso fin a un reinado en el que la Monarquía Hispánica alcanzó su apogeo y llegó a ser la primera potencia de Europa. Por primera vez en la historia, un imperio integraba territorios de todos los continentes habitados y en las costas de todos los océanos.\nDesde su muerte fue presentado por sus defensores como arquetipo de virtudes, y por sus enemigos como una persona fanática y despótica. Esta dicotomía entre la leyenda blanca o rosa y leyenda negra fue favorecida por sus propios actos, ya que se negó a que se publicaran biografías suyas en vida y ordenó la destrucción de su correspondencia, y jamás se defendió de la propaganda enemiga. Como resultado, el hispanista Helmut Koenigsberger escribiría de él que:",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/960px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Felipe_II_de_Espa%C3%B1a",
+      "eventoIds": [
+        "cortes-tomar"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-alcantara-1580",
+      "titulo": "Batalla de Alcántara (1580)",
+      "tipo": "batalla",
+      "fecha": 1580.65,
+      "coordenadas": [
+        -9.13,
+        38.72
+      ],
+      "resumen": "La batalla de Alcántara, librada el 25 de agosto de 1580, fue una victoria del ejército español, con portugueses leales, comandado por Fernando Álvarez de Toledo y Pimentel, III duque de Alba de Tormes, sobre las tropas portuguesas del pretendiente Antonio, prior de Crato, en la freguesia de Alcântara, cerca de Lisboa, Portugal.\nComo consecuencia de esta batalla, el rey Felipe II de España fue reconocido rey de Portugal como Felipe I, en una unión dinástica con los demás reinos hispánicos que se prolongó hasta 1640, y que significó el apogeo del Imperio español.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Batalha_de_Alc%C3%A2ntara.jpg/960px-Batalha_de_Alc%C3%A2ntara.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Alc%C3%A1ntara_(1580)",
+      "personajeIds": [
+        "duque-alba"
+      ],
+      "rutaId": "union-iberica"
+    },
+    {
+      "id": "cortes-tomar",
+      "titulo": "Cortes de Tomar",
+      "tipo": "tratado",
+      "fecha": 1581.3,
+      "coordenadas": [
+        -8.42,
+        39.6
+      ],
+      "resumen": "Las Cortes de Tomar de 1581 fueron concebidas por el Rey Felipe II de España para tranquilizar a los tres estados de Portugal que en aquellos momentos no tenían plena confianza en el soberano.\nRestablecido de una epidemia, Felipe II partió de Badajoz a Elvas en 1580. El monarca estaba inquieto en lo que respecta al tercer estado, el pueblo. Al partir de Elvas ya en 1581 y pasando por Arronches, Crato y Ponte de Sor llegó a Tomar, donde iban a ser establecidas las Cortes.\nEl rey estaba asediado por los que le pedían el pago de sus servicios políticos que lo elevaron a su condición distinguida. Así veía Felipe II realizado su sueño ibérico. Días después aparecía en la puerta del Convento de Cristo el famoso edicto en el cual Felipe II indultaba a las personas relacionadas con la rebelión del prior de Crato contra su legítima autoridad. A raíz de esto los tres estados le pidieron al rey que les concediese los privilegios que les había prometido anteriormente. El rey les respondió diciendo que les haría llegar la respectiva carta de registro. \nEn las Cortes de Tomar de 1581, Felipe II intentó obtener el apoyo de los tres estados y para concretar la unión dinástica con Portugal tuvo que someterse a lo siguiente:\n\nRespetar las libertades, privilegios, usos y costumbres de la monarquía portuguesa.\nReunir las Cortes siempre en Portugal y mantener las leyes portuguesas.\nLos cargos de virrey o gobernador de Portugal deberán ser mantenidos por portugueses o miembros de la familia real.\nLos cargos previstos para la Corte y la administración general del Reino serán siempre ocupados por portugueses.\nLos portugueses podrán también ocupar funciones públicas en Castilla.\nEl comercio de la India y Guinea solo podrá llevarse a cabo por portugueses.\nNo podrán ser concedidos títulos de ciudades o villas si no son a portugueses.\nLa lengua de las actas y documentos oficiales será en portugués.\nTodos los años serán creadas doscientas nuevas viviendas (serán entregadas a los hidalgos a partir de los doce años) y la Reina deberá tener siempre como damas nobles portuguesas.\nLas guarniciones castellanas serán retiradas.\nAsí quedaron acautelados los intereses de las clases altas, y Portugal pasará a ser gobernada bajo la forma de unión personal, manteniendo su soberanía, instituciones y privilegios. Se trata, pues, de una unión dinástica, no territorial, ya que no se producirá una homogeneización administrativa y jurídica.\nDespués de las Cortes de Tomar, Felipe II de Habsburgo fue proclamado Felipe I de Portugal logrando una unión dinástica.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Philip_II.jpg/960px-Philip_II.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Cortes_de_Tomar",
+      "personajeIds": [
+        "felipe-ii"
+      ],
+      "rutaId": "union-iberica"
+    }
+  ],
+  "avisos": []
+}

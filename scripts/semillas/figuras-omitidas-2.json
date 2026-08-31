@@ -1,0 +1,66 @@
+{
+  "personajes": [
+    {
+      "id": "antonio-mendoza",
+      "titulo": "Antonio de Mendoza y Pacheco",
+      "rol": "Primer virrey de Nueva España",
+      "periodoRelevancia": [1535, 1550]
+    },
+    {
+      "id": "nuno-guzman",
+      "titulo": "Nuño Beltrán de Guzmán",
+      "rol": "Conquistador de Nueva Galicia",
+      "periodoRelevancia": [1529, 1536]
+    },
+    {
+      "id": "vazquez-coronado",
+      "titulo": "Francisco Vázquez de Coronado",
+      "rol": "Explorador y gobernador de Nueva Galicia",
+      "periodoRelevancia": [1540, 1542]
+    },
+    {
+      "id": "belalcazar",
+      "titulo": "Sebastián de Belalcázar",
+      "rol": "Conquistador de Quito y Popayán",
+      "periodoRelevancia": [1534, 1538]
+    },
+    {
+      "id": "alvaro-bazan",
+      "titulo": "Álvaro de Bazán y Guzmán",
+      "rol": "Almirante, marqués de Santa Cruz",
+      "periodoRelevancia": [1571, 1588]
+    },
+    {
+      "id": "cabeza-vaca",
+      "titulo": "Álvar Núñez Cabeza de Vaca",
+      "rol": "Explorador y adelantado",
+      "periodoRelevancia": [1528, 1542]
+    },
+    {
+      "id": "panfilo-narvaez",
+      "titulo": "Pánfilo de Narváez",
+      "rol": "Conquistador, jefe de la expedición a la Florida",
+      "periodoRelevancia": [1528, 1528]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "conquista-nueva-galicia",
+      "titulo": "Nueva Galicia",
+      "tipo": "batalla",
+      "fechaAprox": 1530.4,
+      "coordenadas": [-103.35, 20.68],
+      "personajeIds": ["nuno-guzman"],
+      "rutaId": "conquista-nueva-galicia"
+    },
+    {
+      "id": "expedicion-narvaez-florida",
+      "titulo": "Pánfilo de Narváez",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1528.3,
+      "coordenadas": [-82.7, 27.5],
+      "personajeIds": ["panfilo-narvaez", "cabeza-vaca"],
+      "rutaId": "expedicion-cabeza-vaca"
+    }
+  ]
+}

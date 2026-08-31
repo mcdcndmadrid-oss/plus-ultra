@@ -1,0 +1,76 @@
+{
+  "personajes": [
+    {
+      "id": "pizarro",
+      "titulo": "Francisco Pizarro",
+      "rol": "Conquistador",
+      "periodoRelevancia": [1531, 1541]
+    },
+    {
+      "id": "almagro",
+      "titulo": "Diego de Almagro",
+      "rol": "Conquistador",
+      "periodoRelevancia": [1532, 1538]
+    },
+    {
+      "id": "hernando-pizarro",
+      "titulo": "Hernando Pizarro",
+      "rol": "Capitán, hermano de Francisco Pizarro",
+      "periodoRelevancia": [1532, 1538]
+    },
+    {
+      "id": "soto",
+      "titulo": "Hernando de Soto",
+      "rol": "Capitán de Pizarro",
+      "periodoRelevancia": [1532, 1535]
+    },
+    {
+      "id": "felipillo",
+      "titulo": "Felipillo",
+      "rol": "Intérprete de la expedición",
+      "periodoRelevancia": [1532, 1534]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "captura-atahualpa",
+      "titulo": "Batalla de Cajamarca",
+      "tipo": "batalla",
+      "fechaAprox": 1532.87,
+      "coordenadas": [-78.52, -7.16],
+      "personajeIds": ["pizarro", "soto", "felipillo"]
+    },
+    {
+      "id": "conquista-cuzco",
+      "titulo": "Conquista del Imperio incaico",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1533.9,
+      "coordenadas": [-71.97, -13.52],
+      "personajeIds": ["pizarro", "almagro"]
+    },
+    {
+      "id": "fundacion-lima",
+      "titulo": "Lima",
+      "tipo": "fundacion",
+      "fechaAprox": 1535.05,
+      "coordenadas": [-77.03, -12.05],
+      "personajeIds": ["pizarro"]
+    },
+    {
+      "id": "sitio-cuzco",
+      "titulo": "Sitio del Cuzco",
+      "tipo": "rebelion",
+      "fechaAprox": 1536.3,
+      "coordenadas": [-71.97, -13.52],
+      "personajeIds": ["hernando-pizarro"]
+    },
+    {
+      "id": "batalla-salinas",
+      "titulo": "Batalla de las Salinas",
+      "tipo": "batalla",
+      "fechaAprox": 1538.3,
+      "coordenadas": [-71.9, -13.6],
+      "personajeIds": ["hernando-pizarro", "almagro"]
+    }
+  ]
+}

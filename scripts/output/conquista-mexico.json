@@ -1,0 +1,235 @@
+{
+  "personajes": [
+    {
+      "id": "cortes",
+      "nombre": "Hernán Cortés",
+      "nacimiento": 1484.9166666666667,
+      "muerte": 1547.9166666666667,
+      "periodoRelevancia": [
+        1519,
+        1521
+      ],
+      "rol": "Conquistador",
+      "resumen": "Hernán Cortés de Monroy y Pizarro Altamirano (Medellín, 1485-Castilleja de la Cuesta, 2 de diciembre de 1547),​ primer marqués del Valle de Oaxaca, fue un militar, conquistador, explorador, fundador, capitán general y escritor español que, a principios del siglo XVI, lideró la conquista del Imperio azteca, conocida como conquista de México-Tenochtitlan, que significó el fin de dicho imperio, poniéndolo bajo dominio de la Corona de Castilla y dando lugar a la creación del Virreinato de Nueva España.​\nNació en la ciudad extremeña de Medellín, en el seno de una familia noble (hidalga), cuya riqueza ha sido tema de debate historiográfico.​​​​ Decidió buscar fortuna en el Nuevo Mundo viajando a La Española y Cuba, donde en 1512 fue alcalde de Baracoa, la segunda ciudad fundada por los españoles durante la tercera expedición a tierra firme, la cual financió parcialmente. Entre 1504 y 1519 se desarrolló como tesorero, escribano, ganadero, encomendero y hasta se dedicó a la extracción de oro. La ruptura en la relación con su socio y compadre, el gobernador de Cuba, Diego Velázquez de Cuéllar, provocó la cancelación de su viaje a las recién descubiertas costas occidentales, una orden que Cortés ignoró.​\nLlegando al continente, Cortés realizó una exitosa estrategia de aliarse con determinados grupos indígenas para derrotar a otros. Fue de inestimable ayuda su relación con una mujer nativa, doña Marina (la Malinche), que le sirvió de intérprete y con quien tuvo un hijo llamado Martín. Cuando el gobernador de Cuba mandó emisarios para apresar a Cortés, este se enfrentó a ellos y los derrotó, al tiempo que enroló a la tropa que iba a arrestarlo como refuerzos para su expedición. Cortés mandó varias cartas al rey Carlos I a fin de que fuese reconocido su éxito de conquista en lugar de ser penalizado por su amotinamiento. Finalmente le fue concedido el título de marqués del Valle de Oaxaca, si bien el más prestigioso título de virrey le fue dado a un aristócrata de alto rango, Antonio de Mendoza y Pacheco. En 1541, Cortés retornó a España, donde falleció seis años después. Sus restos fueron exhumados y hubo intenciones hostiles/simbólicas contra él.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "eventoIds": [
+        "fundacion-veracruz",
+        "alianza-tlaxcala",
+        "matanza-cholula",
+        "entrada-tenochtitlan",
+        "noche-triste",
+        "batalla-otumba",
+        "caida-tenochtitlan"
+      ]
+    },
+    {
+      "id": "moctezuma",
+      "nombre": "Moctezuma Xocoyotzin",
+      "nacimiento": 1466,
+      "muerte": 1520.4166666666667,
+      "periodoRelevancia": [
+        1502,
+        1520
+      ],
+      "rol": "Tlatoani de Tenochtitlan",
+      "resumen": "Moctezuma Xocoyotzin (en náhuatl clásico: Motēuczōmah Xōcoyōtzin;​ AFI [moteːkʷˈsoːmaḁ ʃoːkoˈjoːt͡sin̥] (): ‘Moctezuma, el Joven’; México-Tenochtitlan, c. 1466-México-Tenochtitlan, 29 de junio de 1520), también llamado Moctezuma II, fue el noveno huey tlahtoani de México-Tenochtitlán y, por ende, emperador de facto del Imperio mexica entre 1502 o 1503 hasta su magnicidio el 29 de junio de 1520. También fue rey consorte de Ecatepec, a través de su matrimonio con la reina Tlapalizquixochtzin, una de sus dos esposas, aunque muy pocos en el imperio mexica sabían de este rol, según describen cronistas españoles como Bernal Díaz del Castillo.​\nSu reinado fue principalmente caracterizado por el primer contacto establecido entre una nación europea, la Corona de Castilla, y naciones mesoamericanas, que finalmente resultaría en su imperio siendo conquistado por los españoles y los tlaxcaltecas bajo el mando principal del capitán Hernán Cortés, a quien conoció en el año de 1519. Inicialmente, el contacto entre los europeos y los mexicas fue pacífico, pero hostilidades empezaron prontamente después de que Moctezuma se volvió prisionero de los castellanos en su propio palacio en noviembre de 1519. A lo largo de los siglos se ha pensado comúnmente que la conquista fue causada porque Moctezuma, de alguna forma, relacionó a los españoles con la deidad Quetzalcóatl a causa de una antigua profecía. Sin embargo, esta creencia ha sido puesta en duda por varios investigadores en años más recientes, y actualmente se piensa que esto es poco probable o incluso un mito.\nDesde joven, Moctezuma se destacó militar y religiosamente a partir de su carrera como guerrero y sacerdote, desempeñándose durante el reinado de su predecesor Ahuízotl como un tlacochcalcatl (más o menos equivalente a general) y convirtiéndose finalmente en el sumo sacerdote del templo de Huitzilopochtli, dios de la guerra y deidad principal de los mexicas. Por su educación, se le consideró un experto en la lectura de los códices antiguos desde que era adolescente, y empezó su carrera religiosa y militar durante esta etapa de su vida.\nDurante su reinado, el imperio alcanzó su máxima expansión territorial, capturando múltiples territorios a través de la guerra principalmente en los actuales estados de Oaxaca y Guerrero. Se trató de una de las figuras más militarmente activas en la historia de México. Sin embargo, la mayoría de las actividades militares de Moctezuma se centraron en la estabilización del imperio a través de la supresión de rebeliones a partir de la acción militar. Sus acciones militares resultaron también en un fuerte aumento de hostilidades entre Tlaxcala y México-Tenochtitlan, resultando en una serie de guerras devastadoras entre estos dos bandos que luego provocaría la alianza entre los castellanos y los tlaxcaltecas en septiembre de 1519, uno de los puntos clave en la conquista de México.\nEstableció políticas económicas severas las cuales incluyeron un mayor pago de tributos para ciertas provincias[cita requerida] (altépetl), lo cual causó descontento en varias de estas, y causaría una ventaja a las fuerzas castellanas y tlaxcaltecas durante la conquista de México al ser una causa principal de varias rebeliones a lo largo del imperio. También instaló varias políticas elitistas que aumentaron la división social entre la nobleza (pipiltin) y los plebeyos (macehualtin).\nAdemás, también intentó reformar el sistema político del imperio para centrar el gobierno en su persona. Estos intentos causaron descontento en sitios como Tetzcuco, uno de los miembros de la Triple Alianza mexica, dándole una reputación de tirano en parte de la población, lo cual resultó en una breve guerra civil cuando un príncipe de la región, Ixtlilxóchitl II,[cita requerida] se rebeló en contra suya, usando apoyos de la nación de Metztitlán, volviéndose uno de sus más importantes rivales, y quien terminaría aliándose con los españoles en 1520. La mayoría de sus políticas, sin embargo, no durarían mucho después de su muerte, ya que castellanos y tlaxcaltecas, con el apoyo de los varios pueblos rebelados, lograron vencer a las fuerzas del imperio y tomaron el control sobre él, implementando sus propias leyes que destruyeron la mayoría de establecimientos políticos de la época prehispánica.\nTras su muerte, hubo otros dos monarcas quienes gobernaron el imperio, siendo su sucesor su hermano Cuitláhuac, y el último, su sobrino Cuauhtémoc. Sin embargo, sus gobiernos no duraron mucho tiempo, pues el imperio caería bajo control español en agosto de 1521, un año después de su muerte.\nSu figura se ha mantenido controvertida y enigmática a lo largo del tiempo, siendo descrito de maneras totalmente distintas entre sus contemporáneos. Algunos de éstos lo han descrito como uno de los mejores líderes en la historia mexicana, describiéndolo como un líder noble que intentaba mantener su imperio estable en tiempos de crisis y que realizó grandes conquistas. Otros lo han descrito como un tirano quien quería usurpar bajo cualquier medio posible el control absoluto del imperio y conquistar a cualquier pueblo posible. Otras fuentes lo describen como un líder indeciso y supersticioso. Las razones de varias de las decisiones tomadas durante su gobierno, especialmente tras contactar a los europeos, continúan siendo un tema de debate en la actualidad. De lo que no hay duda es que, para el final del reinado de Moctezuma, antes de la llegada de los europeos, el imperio se encontraba fragmentado a causa de la guerra civil, el descontento en gran parte del imperio por sus políticas económicas y los fuertes rivales que terminó haciendo a través de sus campañas militares. A pesar de esto, el imperio seguía siendo el más poderoso de Mesoamérica hasta que los españoles llegaron, y se piensa que es posible que el imperio hubiera podido sobrepasar estos problemas de no ser por su llegada.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Moctezuma_II.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Moctezuma_Xocoyotzin",
+      "eventoIds": [
+        "entrada-tenochtitlan",
+        "matanza-toxcatl"
+      ]
+    },
+    {
+      "id": "malinche",
+      "nombre": "La Malinche",
+      "periodoRelevancia": [
+        1519,
+        1521
+      ],
+      "rol": "Intérprete y mediadora",
+      "resumen": "La Malinche (c. 1500-1529\n), también conocida como Marina, Doña Marina o Malintzin, fue una mujer nahua que desempeñó un papel fundamental durante la conquista española del Imperio mexica. Tras haber sido entregada como esclava a los españoles en 1519, pasó a formar parte de la expedición de Hernán Cortés, para quien actuó como intérprete, traductora y asesora en las negociaciones con distintos pueblos indígenas. Su dominio del náhuatl y el maya permitió establecer la comunicación entre los conquistadores y las sociedades mesoamericanas, convirtiéndola en una de las figuras más relevantes de la conquista de México.\nSe conocen pocos datos sobre sus primeros años. Las fuentes coloniales coinciden en que nació en la región del actual sur de Veracruz y que pertenecía a una familia noble antes de ser vendida o entregada como prisionera durante su infancia. Después de ser bautizada con el nombre de Marina, acompañó a Cortés durante gran parte de la campaña militar, participó en encuentros diplomáticos con diversos señoríos indígenas y estuvo presente en acontecimientos decisivos, como la llegada a Tenochtitlan, la matanza de Cholula y la caída del Imperio mexica. De su relación con Cortés nació Martín, considerado uno de los primeros mestizos de la Nueva España.\nSu actuación durante la conquista ha sido objeto de interpretaciones contrapuestas desde el siglo XVI. Mientras algunos cronistas españoles destacaron su inteligencia, habilidad lingüística y capacidad diplomática, con el tiempo surgió una imagen que la identificó como responsable de la derrota mexica y símbolo de la traición. Esta visión se consolidó especialmente tras la publicación de El laberinto de la soledad (1950), de Octavio Paz, aunque investigaciones historiográficas posteriores han cuestionado esa interpretación al señalar las limitaciones de las fuentes y el contexto de violencia y subordinación en el que desarrolló su actuación. \nA partir de la segunda mitad del siglo XX, historiadoras, escritoras y estudiosas feministas y chicanas comenzaron a reinterpretarla desde nuevas perspectivas. En lugar de presentarla exclusivamente como una traidora, la describieron como una mujer que sobrevivió a circunstancias extraordinarias y cuya capacidad como intérprete y negociadora le permitió desenvolverse entre dos mundos enfrentados. Estas revisiones también han analizado su construcción simbólica en relación con la Virgen de Guadalupe y la Llorona, así como su influencia en los debates sobre el mestizaje, la identidad nacional y el papel de las mujeres en la historia de México. Su figura ha ejercido una amplia influencia en la cultura mexicana e hispanoamericana. Ha sido representada en la literatura, la pintura, la danza, la ópera, el teatro musical, el cine, la televisión y la música popular, además de dar nombre a uno de los volcanes más emblemáticos de México. En el siglo XXI, su legado ha continuado siendo objeto de atención académica e institucional, reflejado en iniciativas de reconocimiento público como la inauguración, en 2026, de una escultura dedicada a Malintzin en el Paseo de las Heroínas de la Ciudad de México, dentro de un proceso más amplio de resignificación histórica de su legado.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg/960px-MOM_D093_Donna_Marina_%28La_Malinche%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/La_Malinche",
+      "eventoIds": [
+        "alianza-tlaxcala",
+        "matanza-cholula",
+        "entrada-tenochtitlan"
+      ]
+    },
+    {
+      "id": "cuauhtemoc",
+      "nombre": "Cuauhtémoc",
+      "nacimiento": 1495,
+      "muerte": 1525.0833333333333,
+      "periodoRelevancia": [
+        1520,
+        1521
+      ],
+      "rol": "Último tlatoani mexica",
+      "resumen": "Cuauhtémoc (en náhuatl clásico: Cuāuhtemōc,​ náhuatl moderno: Kwāwtemōk​ ‘el águila que desciende’; México-Tenochtitlan, 14 de julio de 1496-Hibueras, 28 de febrero de 1525),​​ conocido por los conquistadores españoles como Guatemuz,​ fue el undécimo y último Huey Tlatoani independiente del Imperio Mexica desde 1520, un año antes de la toma de Tenochtitlán por Hernán Cortés y sus tropas, hasta su asesinato el 28 de febrero de 1525.\nEl nombre Cuauhtémoc significa literalmente \"águila que desciende\" (del náhuatl clásico: cuāuhtli \"águila\", temō \"descender\", -c PRETÉRITO). La forma honorífica de Cuauhtémoc es Cuauhtemoctzin (el sufijo -tzin se usa para designar una dignidad similar a \"Don\" o \"Señor\" en español).\nCuauhtémoc, hijo de Ahuízotl y primo de Moctezuma Xocoyotzin y Tecuichpo, al llegar ésta a la nubilidad. Cuando asumió el poder, los conquistadores ya habían sido expulsados de Tenochtitlán, pero la ciudad estaba devastada por el hambre, la viruela, y la falta de agua potable. Cuauhtémoc llegaba a este momento tras haber sido tlakatekohtli (jefe de armas) de la resistencia a los conquistadores dado que, desde la muerte de Moctezuma previo a la llamada por los españoles \"Noche Triste\", se le identifica como líder militar de los mexicas.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Relieve_de_Cuauht%C3%A9moc_%28Jes%C3%BAs_F._Contreras%29_09.jpg/960px-Relieve_de_Cuauht%C3%A9moc_%28Jes%C3%BAs_F._Contreras%29_09.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Cuauht%C3%A9moc",
+      "eventoIds": [
+        "caida-tenochtitlan"
+      ]
+    },
+    {
+      "id": "alvarado",
+      "nombre": "Pedro de Alvarado",
+      "nacimiento": 1485.9166666666667,
+      "muerte": 1541.5,
+      "periodoRelevancia": [
+        1519,
+        1521
+      ],
+      "rol": "Capitán de Cortés",
+      "resumen": "Pedro de Alvarado y Contreras «Tonatiuh» (Lobón, Extremadura, Reino de Castilla; 1485-Guadalajara, Reino de la Nueva Galicia, Virreinato de la Nueva España: 4 de julio de 1541), I adelantado, gobernador y capitán general del Reino de Guatemala, caballero de la Orden de Santiago, fue un conquistador español que participó en la conquista de Cuba, en la exploración por Juan de Grijalva del golfo de México y de las costas de Yucatán, y en la conquista de México-Tenochtitlán dirigida por Hernán Cortés, así como en la conquista del área maya en gran parte de América Central (Guatemala, Honduras, El Salvador y partes de Nicaragua),​ pudiéndolo haberlo sido también del Perú, si no fuera por su renuncia a favor del adelantado Diego de Almagro. Fue conocido por el sobrenombre de Tonatiuh, que significa el Sol en lengua náhuatl.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pedro_de_Alvarado_%28Tom%C3%A1s_Povedano%29.jpg/960px-Pedro_de_Alvarado_%28Tom%C3%A1s_Povedano%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_de_Alvarado",
+      "eventoIds": [
+        "matanza-toxcatl"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-veracruz",
+      "titulo": "Veracruz",
+      "tipo": "fundacion",
+      "fecha": 1519.15,
+      "coordenadas": [
+        -96.13,
+        19.2
+      ],
+      "resumen": "Heroica Veracruz es una ciudad mexicana, cabecera del municipio de Veracruz, situada en el Estado de Veracruz. Forma parte de la  zona metropolitana de Veracruz.​​ Tiene el segundo puerto marítimo comercial más importante de México. En 2020 contaba con una población de 405 953 habitantes.​\nEstá ubicada a 90 km de distancia de la capital del estado, Xalapa y a 400 km de distancia de la Ciudad de México. Su clima es tropical cálido, con una temperatura media anual de 25.3 °C y con una precipitación media anual de 1500 mm.\nFue fundada por el explorador Hernán Cortés el 22 de abril de 1519 con el nombre de Villa Rica de la Vera Cruz, siendo el primer ayuntamiento de la América continental. Durante tres siglos fue el puerto monopolístico de la Carrera de Indias. Además, ha recibido el nombramiento de Cuatro veces heroica por decreto presidencial, a raíz de haber enfrentado cuatro distintas invasiones extranjeras.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/VeracruzCityCollage.jpg/960px-VeracruzCityCollage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Veracruz",
+      "personajeIds": [
+        "cortes"
+      ]
+    },
+    {
+      "id": "alianza-tlaxcala",
+      "titulo": "República de Tlaxcallan",
+      "tipo": "tratado",
+      "fecha": 1519.65,
+      "coordenadas": [
+        -98.24,
+        19.32
+      ],
+      "resumen": "La República de Tlaxcallan —también denominada Confederación de Tlaxcala o Tlaxkallan Altepeyotl— fue una unión político-militar de cuatro altépetl nahuas (Tepeticpac, Tizatlán, Ocotelulco y Quiahuiztlán) que mantuvo su independencia frente al Imperio mexica durante el Período Posclásico Tardío (1200-1521 d. C.) y desempeñó un papel decisivo en la Conquista de México al aliarse con Hernán Cortés en 1519.​ Se trata de uno de los pocos ejemplos mesoamericanos documentados de gobierno colegiado sin monarquía hereditaria centralizada y ha sido calificada como «república indígena» por la investigación arqueológica y etnohistórica reciente.​\nLa singularidad de Tlaxcallan radica en su estructura política descentralizada, basada en el consenso entre múltiples casas señoriales, su resistencia exitosa contra el expansionismo mexica durante casi un siglo, y su posterior alianza estratégica con los conquistadores españoles que le permitió conservar privilegios únicos durante el período colonial temprano.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tlaxcala_Peoples.png/960px-Tlaxcala_Peoples.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_de_Tlaxcallan",
+      "personajeIds": [
+        "cortes",
+        "malinche"
+      ]
+    },
+    {
+      "id": "matanza-cholula",
+      "titulo": "Matanza de Cholula",
+      "tipo": "batalla",
+      "fecha": 1519.75,
+      "coordenadas": [
+        -98.3,
+        19.06
+      ],
+      "resumen": "La matanza de Cholula fue un ataque realizado por las fuerzas militares de Hernán Cortés en su trayecto a la ciudad de México-Tenochtitlan en 1519. Francisco López de Gómara​ indica que la matanza de Cholula inició después de que Cortés apresara y asesinara a líderes cholultecas, desatando con este acto la matanza de 6000 personas en menos de dos horas.[cita requerida] Acorde con sus cartas de relación,​ Cortés afirma que tomó dicha decisión como una acción preventiva ante una posible emboscada por parte de 20 000 soldados mexicas.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%27La_Conquista_de_Cholula%27_ca._1670-1730._Workshop_of_Los_Gonzalez_%281670-1730%29_-_Museo_Franz_Mayer_-_Mexico_2024_%282%29.jpg/960px-%27La_Conquista_de_Cholula%27_ca._1670-1730._Workshop_of_Los_Gonzalez_%281670-1730%29_-_Museo_Franz_Mayer_-_Mexico_2024_%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Matanza_de_Cholula",
+      "personajeIds": [
+        "cortes",
+        "malinche"
+      ]
+    },
+    {
+      "id": "entrada-tenochtitlan",
+      "titulo": "Conquista de México",
+      "tipo": "descubrimiento",
+      "fecha": 1519.85,
+      "coordenadas": [
+        -99.13,
+        19.43
+      ],
+      "resumen": "La conquista de México, conquista de México-Tenochtitlan o conquista del Imperio mexica (1519–1521)​​​ fue una serie de campañas militares dirigidas por Hernán Cortés en alianza con los pueblos originarios del valle de México, con el objetivo de sitiar, derrocar y ocupar la capital del Imperio Mexica acontecidos entre los años 1519 y 1521; que concluyeron con el asalto final y la toma de la ciudad de México-Tenochtitlan, el 13 de agosto de 1521. Este hecho marcó el inicio de un largo proceso de colonización, evangelización y mestizaje de Mesoamérica y el resto de lo que hoy es México y el sur de Estados Unidos por parte de los conquistadores españoles.​ No sería hasta tres siglos más tarde que luego de la independencia de México se entenderá a «México» como la totalidad del territorio heredado del anterior Virreinato de la Nueva España.\nPosteriormente se desarrollaron otras expediciones y campañas militares, tanto de Hernán Cortés como de sus capitanes, entre 1521 y 1525 en la zona central, norte y sur del territorio de los actuales México y Centroamérica, las cuales fueron sentando los primeros límites del Virreinato de Nueva España. Desde esta base inicial, el proceso continuó con la incorporación de otros territorios por diversos conquistadores y adelantados españoles: California, la península de Yucatán, la zona occidental conocida como Nueva Galicia, la zona noreste conocida como Nuevo Reino de León, la zona norte​ donde se encontraba la Nueva Vizcaya y otros territorios de América del Norte y Central. A partir de estos acontecimientos, que modificaron drásticamente la geopolítica mundial en los albores del siglo XVI, discurrirían aproximadamente tres siglos de dominación territorial española​ y resistencia indígena.\nLas fuentes principales de información de las campañas de Cortés y sus capitanes son las crónicas de Indias redactadas en el siglo XVI, de las que destacan la Historia verdadera de la conquista de la Nueva España de Bernal Díaz del Castillo, quien participó en las campañas bélicas, las cartas de relación​ de Hernán Cortés al rey Carlos I de España, y la obra de Francisco López de Gómara, conocida como Historia general de las Indias, quien nunca pisó el continente americano pero pasó los últimos momentos de la vida de Hernán Cortés escuchando sus memorias.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png/960px-Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Conquista_de_M%C3%A9xico",
+      "personajeIds": [
+        "cortes",
+        "moctezuma",
+        "malinche"
+      ]
+    },
+    {
+      "id": "matanza-toxcatl",
+      "titulo": "Matanza de Tóxcatl",
+      "tipo": "batalla",
+      "fecha": 1520.3,
+      "coordenadas": [
+        -99.13,
+        19.435
+      ],
+      "resumen": "La matanza de Tóxcatl, también llamada la Matanza del Templo Mayor, fue un episodio de la conquista de México en que los españoles dieron muerte a cuatrocientos nobles mexicas en el momento en que estos se encontraban haciendo una ceremonia religiosa.​​ El responsable de la masacre fue Pedro de Alvarado —apodado Tonatiuh, El Sol por los mexicas—,​ ya que había pensado que se trataba de una trampa de parte de los mexicas. Estaba a cargo de las tropas españolas ya que Hernán Cortés se encontraba en las costas del Golfo de México combatiendo a Pánfilo Narváez que zarpó desde Cuba con la misión de capturarlo.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Matanza_templo2.jpg/960px-Matanza_templo2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Matanza_de_T%C3%B3xcatl",
+      "personajeIds": [
+        "alvarado",
+        "moctezuma"
+      ]
+    },
+    {
+      "id": "noche-triste",
+      "titulo": "Noche Triste",
+      "tipo": "batalla",
+      "fecha": 1520.5,
+      "coordenadas": [
+        -99.15,
+        19.44
+      ],
+      "resumen": "La Noche Triste (llamada «Noche Victoriosa» por algunos sectores en México)​​​​ es el nombre de la derrota sufrida por las tropas españolas de Hernán Cortés​​​​ a manos del ejército mexica la noche del 30 de junio al 1 de julio de 1520, último día del mes Tecuilhuitontli,​ en las afueras de Tenochtitlan, en Tacuba bajo un frondoso árbol de ahuehuete en lo que hoy es la Ciudad de México.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/The_Sad_Night_%28Noche_Triste%29_%28Conquest_of_Mexico%29_Painting.jpg/960px-The_Sad_Night_%28Noche_Triste%29_%28Conquest_of_Mexico%29_Painting.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Noche_Triste",
+      "personajeIds": [
+        "cortes"
+      ]
+    },
+    {
+      "id": "batalla-otumba",
+      "titulo": "Batalla de Otumba",
+      "tipo": "batalla",
+      "fecha": 1520.55,
+      "coordenadas": [
+        -98.76,
+        19.7
+      ],
+      "resumen": "La batalla de Otumba fue un enfrentamiento entre las fuerzas mexicas y aliadas encabezadas por el cihuacóatl Matlatzincátzin y las de Hernán Cortés conformadas por los conquistadores españoles y sus aliados tlaxcaltecas, que se llevó a cabo el 7 de julio​ de 1520 en Temalcatitlán​ —una llanura cercana a Otumba— durante el desarrollo de la conquista de México. El resultado de la batalla fue una victoria para los españoles y sus aliados tlaxcaltecas, la cual permitió a Cortés volver a reorganizar su ejército, el cual había sufrido bajas unos días antes en el episodio conocido como la Noche Triste. Un año más tarde, mediante el refuerzo de su ejército con nuevos hombres y pertrechos, y la creación de alianzas con los pueblos indígenas que habían sido sojuzgados por los mexicas, Cortés logró sitiar y conquistar México-Tenochtitlan.\nLa victoria del ejército de Hernán Cortés (españoles y aliados tlaxcaltecas), en extrema inferioridad numérica, cambió el rumbo de la conquista de Mesoamérica y ha sido reconocida como una de las más grandes hazañas bélicas en la historia del Imperio español.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/De_la_conquista_de_M%C3%A9jico_%28Otumba%29_-_Manuel_Ram%C3%ADrez_Ib%C3%A1%C3%B1ez.jpg/960px-De_la_conquista_de_M%C3%A9jico_%28Otumba%29_-_Manuel_Ram%C3%ADrez_Ib%C3%A1%C3%B1ez.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Otumba",
+      "personajeIds": [
+        "cortes"
+      ]
+    },
+    {
+      "id": "caida-tenochtitlan",
+      "titulo": "Sitio de Tenochtitlan",
+      "tipo": "batalla",
+      "fecha": 1521.65,
+      "coordenadas": [
+        -99.13,
+        19.43
+      ],
+      "resumen": "El sitio de Tenochtitlan (1521), fue un evento mayor en la conquista española de América, marcando el final de la era mexica. El Sitio duró del 26 de mayo al 13 de agosto de 1521.​\nMuchas batallas se dieron entre los mexicas y los conquistadores durante el Asedio.\nEl sitio de Tenochtitlan fue la fase final y definitiva de la conquista del Imperio mexica. La victoria española marcó la caída de su hegemonía en Mesoamérica y el inicio del Virreinato de la Nueva España. Igualmente representa el final de la primera etapa de la unión del mundo europeo y el mesoamericano, siendo parte de la colonización española de América.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png/960px-Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Sitio_de_Tenochtitlan",
+      "personajeIds": [
+        "cortes",
+        "cuauhtemoc"
+      ]
+    }
+  ],
+  "avisos": [
+    "malinche: sin fechas estructuradas en Wikidata"
+  ]
+}

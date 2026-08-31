@@ -1,0 +1,14 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "rebelion-alpujarras",
+      "titulo": "Rebelión de las Alpujarras",
+      "tipo": "rebelion",
+      "fechaAprox": 1568.98,
+      "coordenadas": [-3.35, 36.95],
+      "personajeIds": ["juan-austria"],
+      "rutaId": "alpujarras"
+    }
+  ]
+}

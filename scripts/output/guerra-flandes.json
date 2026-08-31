@@ -1,0 +1,23 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "ejecucion-egmont-horn",
+      "titulo": "Guerra de los Ochenta Años",
+      "tipo": "rebelion",
+      "fecha": 1568.42,
+      "coordenadas": [
+        4.35,
+        50.85
+      ],
+      "resumen": "La guerra de los Ochenta Años (también conocida como la revuelta neerlandesa, o en España como la guerra de Flandes) fue un conflicto que enfrentó a algunas de las Diecisiete Provincias de los Países Bajos contra su soberano Felipe II de España. La rebelión comenzó en el año 1568, en tiempos de Margarita de Parma, gobernadora de los Países Bajos españoles, y finalizó en el 1648 con el reconocimiento de la independencia de las siete Provincias Unidas, hoy conocidas como los Países Bajos. Como pretexto, las relaciones de Margarita con la nobleza neerlandesa protestante nunca fueron del todo fluidas. Este hecho, sumado a su inoperancia y a la distancia existente entre ambos países, hizo que se fueran alejando cada vez más de la política española en busca de sus intereses económicos y políticos con un aire de independencia que comenzaba a gestarse en el ambiente. Los países que hoy se conocen como Bélgica y Luxemburgo formaban parte de las Diecisiete Provincias, pero permanecieron leales a la Corona (los territorios bajo el dominio del Obispado de Lieja no formaban parte de las Diecisiete Provincias, sino directamente estaban en el Sacro Imperio Romano Germánico).\nEl resultado final de la guerra de los Ochenta Años fue la independencia oficial de los Países Bajos tras la Paz de Westfalia; pero no está tan claro que esta fuera la causa de la guerra. Esta fue el resultado final de las discrepancias entre la Monarquía Hispánica y la parte de los súbditos a los que tenían que gobernar en estas provincias. \nLas Provincias Unidas emergieron de la guerra como una potencia mundial gracias a su poderosa armada y flota mercante, y experimentaron un importante auge económico y cultural.\nPara la Corona española, la independencia de las Provincias Unidas representó una gran pérdida de prestigio. El mantenimiento económico de la guerra durante un periodo tan prolongado contribuyó en gran parte a provocar las sucesivas bancarrotas de la Corona española a lo largo de los siglos XVI y XVII, y al hundimiento de la economía de España.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Vel%C3%A1zquez_-_de_Breda_o_Las_Lanzas_%28Museo_del_Prado%2C_1634-35%29.jpg/960px-Vel%C3%A1zquez_-_de_Breda_o_Las_Lanzas_%28Museo_del_Prado%2C_1634-35%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Guerra_de_los_Ochenta_A%C3%B1os",
+      "personajeIds": [
+        "duque-alba"
+      ],
+      "rutaId": "guerra-flandes"
+    }
+  ],
+  "avisos": []
+}

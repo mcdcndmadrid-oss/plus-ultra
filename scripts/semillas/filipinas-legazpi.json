@@ -1,0 +1,45 @@
+{
+  "personajes": [
+    {
+      "id": "legazpi",
+      "titulo": "Miguel López de Legazpi",
+      "rol": "Adelantado y gobernador de Filipinas",
+      "periodoRelevancia": [1564, 1572]
+    },
+    {
+      "id": "urdaneta",
+      "titulo": "Andrés de Urdaneta",
+      "rol": "Navegante y religioso",
+      "periodoRelevancia": [1564, 1565]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-san-miguel-cebu",
+      "titulo": "Capitanía General de las Filipinas",
+      "tipo": "fundacion",
+      "fechaAprox": 1565.3,
+      "coordenadas": [123.89, 10.32],
+      "personajeIds": ["legazpi"],
+      "rutaId": "filipinas-legazpi"
+    },
+    {
+      "id": "descubrimiento-tornaviaje",
+      "titulo": "Tornaviaje",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1565.45,
+      "coordenadas": [-121.9, 36.6],
+      "personajeIds": ["urdaneta"],
+      "rutaId": "filipinas-legazpi"
+    },
+    {
+      "id": "fundacion-manila",
+      "titulo": "Manila",
+      "tipo": "fundacion",
+      "fechaAprox": 1571.45,
+      "coordenadas": [120.98, 14.6],
+      "personajeIds": ["legazpi"],
+      "rutaId": "filipinas-legazpi"
+    }
+  ]
+}

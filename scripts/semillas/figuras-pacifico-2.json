@@ -1,0 +1,42 @@
+{
+  "personajes": [
+    {
+      "id": "ruy-lopez-villalobos",
+      "titulo": "Ruy López de Villalobos",
+      "rol": "Explorador, dio nombre a las Filipinas",
+      "periodoRelevancia": [1542, 1546]
+    },
+    {
+      "id": "inigo-ortiz-retes",
+      "titulo": "Íñigo Ortiz de Retes",
+      "rol": "Explorador, descubridor de Nueva Guinea",
+      "periodoRelevancia": [1545, 1545]
+    },
+    {
+      "id": "sarmiento-gamboa",
+      "titulo": "Pedro Sarmiento de Gamboa",
+      "rol": "Explorador e historiador, fortificador del estrecho de Magallanes",
+      "periodoRelevancia": [1579, 1584]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "expedicion-villalobos",
+      "titulo": "Ruy López de Villalobos",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1543.1,
+      "coordenadas": [124.65, 8.95],
+      "personajeIds": ["ruy-lopez-villalobos", "inigo-ortiz-retes"],
+      "rutaId": "expedicion-villalobos"
+    },
+    {
+      "id": "fortificacion-estrecho-magallanes",
+      "titulo": "Pedro Sarmiento de Gamboa",
+      "tipo": "fundacion",
+      "fechaAprox": 1584.05,
+      "coordenadas": [-70.85, -52.65],
+      "personajeIds": ["sarmiento-gamboa"],
+      "rutaId": "fortificacion-estrecho-magallanes"
+    }
+  ]
+}

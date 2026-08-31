@@ -1,0 +1,30 @@
+{
+  "personajes": [
+    {
+      "id": "jimenez-quesada",
+      "titulo": "Gonzalo Jiménez de Quesada",
+      "rol": "Conquistador y adelantado",
+      "periodoRelevancia": [1536, 1538]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "expedicion-jimenez-quesada",
+      "titulo": "Nuevo Reino de Granada",
+      "tipo": "batalla",
+      "fechaAprox": 1537.3,
+      "coordenadas": [-73.6, 5.2],
+      "personajeIds": ["jimenez-quesada"],
+      "rutaId": "conquista-nueva-granada"
+    },
+    {
+      "id": "fundacion-bogota",
+      "titulo": "Bogotá",
+      "tipo": "fundacion",
+      "fechaAprox": 1538.65,
+      "coordenadas": [-74.08, 4.71],
+      "personajeIds": ["jimenez-quesada"],
+      "rutaId": "conquista-nueva-granada"
+    }
+  ]
+}

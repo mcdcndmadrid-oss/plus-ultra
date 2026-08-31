@@ -1,0 +1,22 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "conquista-michoacan",
+      "titulo": "Historia de Michoacán",
+      "tipo": "batalla",
+      "fecha": 1522.35,
+      "coordenadas": [
+        -101.19,
+        19.7
+      ],
+      "resumen": "La historia de Michoacán es la narración cronológica y demostrable de los acontecimientos del pasado relacionados con la gente que habita en el actual estado mexicano de Michoacán. Se ha estudiado a partir de los vestigios arqueológicos y otros recursos históricos, como la obra literaria Relación de Michoacán escrita en 1542.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Historia_de_Michoac%C3%A1n",
+      "personajeIds": [
+        "cristobal-olid"
+      ],
+      "rutaId": "conquista-michoacan"
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,77 @@
+{
+  "personajes": [
+    {
+      "id": "pedro-valdivia",
+      "nombre": "Pedro de Valdivia",
+      "nacimiento": 1497.25,
+      "muerte": 1553.9166666666667,
+      "periodoRelevancia": [
+        1540,
+        1553
+      ],
+      "rol": "Conquistador y gobernador",
+      "resumen": "Pedro Gutiérrez de Valdivia (Castuera, Corona de Castilla, 17 de abril de 1497-Tucapel, Chile, 25 de diciembre de 1553) fue un militar y conquistador español de origen extremeño.\nTras participar en diversas campañas militares en Europa, viajó a América, donde formó parte de las huestes de Francisco Pizarro, gobernador de Perú. Con el título de teniente gobernador otorgado por Pizarro, lideró la Conquista de Chile a partir de 1540. Fundó las ciudades más antiguas de Chile, incluyendo la capital Santiago (1541), La Serena (1544), Concepción (1550), Valdivia (1552) y La Imperial (1552). Además, dispuso la fundación de las ciudades de Villarrica y Los Confines (Angol).\nDe parte de sus compañeros conquistadores organizados en un cabildo, recibió en 1541 el título de gobernador y capitán general del Reino de Chile, siendo el primero en ostentar dicho cargo. Después de contener la resistencia indígena y algunas conspiraciones en su contra, regresó en 1548 al Virreinato del Perú, donde Pedro de la Gasca le confirmó el título. De regreso a Chile, emprendió contra el pueblo mapuche la llamada guerra de Arauco, en la cual murió en la batalla de Tucapel (1553).\nEn varias oportunidades estuvo acompañado de Francisco Martínez Vegaso o Francisco Pérez de Valenzuela, entre otros conquistadores españoles. En las primeras campañas de la fundación de Santiago estuvo presente con Juan Jufré y Juan Martín de Candia con quienes había viajado desde el Alto Perú.​ También estuvo con el posterior toqui mapuche Lautaro.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Pedro_de_Valdivia.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_de_Valdivia",
+      "eventoIds": [
+        "fundacion-santiago-chile",
+        "fundacion-concepcion",
+        "batalla-tucapel"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-santiago-chile",
+      "titulo": "Santiago de Chile",
+      "tipo": "fundacion",
+      "fecha": 1541.15,
+      "coordenadas": [
+        -70.65,
+        -33.45
+      ],
+      "resumen": "Santiago, también conocido como Santiago de Chile, es la capital y ciudad más poblada del país. Ubicada en la región Metropolitana de Santiago y situada a orillas del río Mapocho, Santiago fue fundada por el español extremeño Pedro Gutiérrez de Valdivia, bajo el nombre de Santiago de la Nueva Extremadura, en honor al apóstol Santiago, convirtiéndose así en la capital de la Gobernación de la Nueva Extremadura,​ en el siglo XVI. Es el centro económico y administrativo del país, además de ser la aglomeración urbana más grande.\nLa ciudad alberga los principales organismos públicos (palacio de gobierno, Poder Judicial y una serie de organizaciones internacionales), comerciales, culturales y financieros del país, a excepción del Congreso Nacional,​ la Armada Nacional, el Sernapesca y el Ministerio de las Culturas, las Artes y el Patrimonio, ubicados en la ciudad de Valparaíso. Es sede, también, de la Comisión Económica para América Latina y el Caribe (CEPAL).\nAunque generalmente se concibe como una única ciudad, Santiago no constituye una sola unidad político-administrativa, puesto que sus distritos son llamados comunas, que en Chile comuna es el concepto político-administrativo homólogo de ciudad, contando cada comuna santiaguina con su propio municipio, alcalde y concejo municipal. La ciudad está dividida en al menos 43 comunas, de las cuales 28 se encuentran completamente dentro del radio urbano y 15 comunas fuera de este, pero todas muy conectadas a través de modernas autopistas y avenidas. La mayor parte de la metrópoli se encuentra dentro de la provincia de Santiago, y partes de ella se encuentran en comunas pertenecientes a otras provincias de la Región Metropolitana, estas son San Bernardo, Calera de Tango, Buin, Puente Alto, Talagante, Peñaflor, Padre Hurtado, El Monte, Melipilla e Isla de Maipo.\nSantiago se encuentra aproximadamente en las coordenadas 33°26′16″S 70°39′01″O (a similar latitud que Ciudad del Cabo y Sídney) y a una altitud media de 567 m s. n. m.​ Con una extensión de 837,89 km²,​ Santiago contaba en 2017 con una población de 6 254 314 habitantes, lo que equivalía al 35,6 % de la población total del país.​ Santiago es la séptima área metropolitana más poblada de Hispanoamérica, también la séptima ciudad más habitada de América Latina y del hemisferio sur​ y, según algunas estimaciones, una de las 50 aglomeraciones urbanas más pobladas del mundo.​ Con sus más de 7 millones de habitantes, es el núcleo urbano más poblado de Chile, muy por delante del Gran Concepción, el Gran Valparaíso, la conurbación de La Serena-Coquimbo, el área metropolitana de Temuco y Antofagasta, que son los siguientes más poblados.\nSantiago se posiciona habitualmente como una ciudad líder en América Latina en una serie de factores sociales, económicos y ambientales. La capital chilena es la segunda ciudad más competitiva de América Latina, solo superada por São Paulo,​​ así como la tercera con mejor calidad de vida (la segunda de Sudamérica y la 90.ª del mundo)​ y la más segura de Latinoamérica. Además, es considerada como una «ciudad global de clase Alfa-»,​ y la 53.ª ciudad con mayores ingresos del mundo, con un PIB (PPA) de 91 000 millones de USD en 2005 y una estimación de 160 000 millones de USD hacia 2020.​\nAsimismo, en 2012 fue calificada como la tercera ciudad latinoamericana más competitiva —también la tercera sudamericana y la 68.ª mundial—​​ y en 2013 fue clasificada como la ciudad más inteligente de la región.​ Finalmente, según un estudio global divulgado por la Economist Intelligence Unit, Santiago sería la segunda mejor ciudad latinoamericana para vivir, luego de Buenos Aires.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Montaje_de_Santiago_de_Chile_%28202103220%29.jpg/960px-Montaje_de_Santiago_de_Chile_%28202103220%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Santiago_de_Chile",
+      "personajeIds": [
+        "pedro-valdivia"
+      ],
+      "rutaId": "conquista-chile"
+    },
+    {
+      "id": "fundacion-concepcion",
+      "titulo": "Concepción (Chile)",
+      "tipo": "fundacion",
+      "fecha": 1550.2,
+      "coordenadas": [
+        -72.6,
+        -36.68
+      ],
+      "resumen": "Concepción es una ciudad y comuna ubicada en la zona central de Chile, a aproximadamente 450 km al sur de la capital, Santiago, y a unos 30 km al norte del Centro Geográfico de Chile continental, ubicado en la comuna de Coronel. Concepción es también el centro geográfico y demográfico del área metropolitana de Concepción, así como la capital de la provincia homónima y de la Región del Biobío. El núcleo urbano de Concepción ejerce un significativo impacto en el comercio nacional​ al ser parte de una de las regiones con mayor industrialización del país,​ y es una de las tres urbes chilenas más pobladas de la zona central, junto con la de Valparaíso, después de Santiago. Limita al norte con las comunas de Talcahuano y Penco; al sur con las comunas Chiguayante y Hualqui; al este con la comuna de Florida, al oeste con Hualpén, con el río Biobío y la comuna de San Pedro de la Paz.​\nLa ciudad fue emplazada, en primera instancia, en la Bahía de Concepción, en el territorio que después se convirtió en la comuna de Penco, actualmente parte de la conurbación de Concepción. El gentilicio de la ciudad, «penquista», hace alusión al lugar de su fundación original. El centro y casco histórico de la ciudad se encuentra en el Valle de la Mocha, donde se trasladó luego de ser destruida por un terremoto.\nEl origen de Concepción se remonta al año 1550, cuando fue fundada por Pedro de Valdivia a título de la Corona española, bajo el nombre de La Concepción de María Purísima del Nuevo Extremo, y fue la capital del Reino de Chile entre 1565 y 1573, manteniéndose luego como el centro militar y político del reino por todo el resto del periodo colonial chileno.​ Posteriormente, formó parte del primer intento independentista de Chile en 1810, a manos del abogado Juan Martínez de Rozas.​ Ha sido el centro de la conurbación más poblada del centro del país desde inicios del siglo XX, y posee como símbolo cultural la Plaza de la Independencia, lugar donde se llevó a cabo la declaración solemne sobre la secesión chilena del realismo español.\nConcepción concentra su actividad en el área de servicios y funciona como el centro financiero de toda la metrópoli.​ Es conocida por ser una ciudad universitaria, ya que posee numerosas instituciones educacionales, entre las que destacan la Universidad de Concepción, la Universidad del Bío-Bío y la Universidad Católica de la Santísima Concepción.​  La comuna alberga además variados puentes históricos, murales, parques y lagunas, así como importantes centros culturales como el Teatro Biobío, la Casa del Arte, el Museo de Historia Natural y el Teatro Universidad de Concepción. Dentro de su oferta turística, también destaca la variedad de bares y locales de entretenimiento que le brinda una activa vida nocturna a la ciudad.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nuevos_trenes_Biotren.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Concepci%C3%B3n_(Chile)",
+      "personajeIds": [
+        "pedro-valdivia"
+      ],
+      "rutaId": "conquista-chile"
+    },
+    {
+      "id": "batalla-tucapel",
+      "titulo": "Batalla de Tucapel",
+      "tipo": "batalla",
+      "fecha": 1553.98,
+      "coordenadas": [
+        -73.15,
+        -37.75
+      ],
+      "resumen": "La batalla de Tucapel (también conocido como el desastre de Tucapel) fue una pelea decisiva efectuada dentro del contexto de la guerra de Arauco entre los mapuches liderados por Lautaro y las huestes de Pedro de Valdivia en la loma de Tucapel, Chile el 25 de diciembre de 1553​ o el 1 de enero de 1554.​ Resultó en una derrota para los españoles y la captura y muerte de Valdivia. Acabó el mito de la invencibilidad española en batallas campales entre los mapuches.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%C3%9Altimos_momentos_Valdivia.jpg/960px-%C3%9Altimos_momentos_Valdivia.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Tucapel",
+      "personajeIds": [
+        "pedro-valdivia"
+      ],
+      "rutaId": "conquista-chile"
+    }
+  ],
+  "avisos": []
+}

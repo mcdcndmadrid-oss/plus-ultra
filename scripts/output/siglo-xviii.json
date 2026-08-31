@@ -1,0 +1,90 @@
+{
+  "personajes": [
+    {
+      "id": "carlos-iii",
+      "nombre": "Carlos III de España",
+      "nacimiento": 1716,
+      "muerte": 1788.9166666666667,
+      "periodoRelevancia": [
+        1759,
+        1788
+      ],
+      "rol": "Rey de España",
+      "resumen": "Carlos III de España (Madrid, 20 de enero de 1716-Madrid, 14 de diciembre de 1788), llamado «el Político»​ o «el Mejor Alcalde de Madrid», fue rey de España desde 1759 hasta su muerte en 1788; duque de Parma y Plasencia —como Carlos I— entre 1731 y 1735; y rey de Nápoles —como Carlos VII— y de Sicilia —como Carlos V— entre 1734 y 1759.\nCarlos fue el quinto hijo varón de Felipe V y el tercero en llegar a la edad adulta. Además, al ser el primogénito del segundo matrimonio del rey con Isabel Farnesio, fueron sus medios hermanos Luis I y Fernando VI los que sucedieron a su padre en un primer momento. Sin embargo, la muerte prematura de Luis y la falta de descendencia de ambos llevaron finalmente a Carlos a ocupar el trono español.\nCarlos sirvió a la política familiar como una pieza en la lucha por recuperar la influencia española en Italia: heredó inicialmente de su madre los ducados de Parma y Plasencia en 1731; pero más tarde, al reconquistar Felipe V el Reino de Nápoles y Sicilia en el curso de la Guerra de Sucesión polaca (1733-1738), pasó a ser rey de aquellos territorios bajo el nombre de Carlos V -- para Sicilia -- y Carlos VII -- para Nápoles --. Contrajo matrimonio el 9 de junio de 1738 con María Amalia de Sajonia, hija del elector Federico Augusto II, duque de Sajonia y de Lituania y rey de Polonia --bajo el nombre de Augusto III -- y de la archiduquesa María Josefa de Austria.\nEncarnó el despotismo ilustrado en España con una serie de profundas reformas económicas, militares, científicas, políticas y religiosas, con hondas tribulaciones pero también notables éxitos. Bajo su mando, el imperio español obtuvo un desarrollo sin precedentes en la dinastía borbónica.​ Entre sus huellas modernas se hallan el primer establecimiento de la bandera de España y la Marcha Real como futuro himno nacional.\nFue partidario de un pacifismo defensivo que no le evitó participar en varios conflictos. Durante su reinado se neutralizó temporalmente al sultanato de Marruecos y el centenario corso berberisco, se recuperó Menorca y se adquirió la Luisiana española. Apoyó con renuencia pero de forma decisiva la Revolución de las Trece Colonias contra los británicos,​ situación que se consideró prevenir en sus propios territorios mediante planes para una independencia hispánica controlada, los cuales sin embargo nunca llegaron a realizarse.​\nEl hispanista Stanley G. Payne le consideró el monarca más exitoso de su generación, capaz en el liderazgo y la elección de sus ministros a la vez que popular entre el pueblo,​ mientras que John Lynch diría de él: «los españoles debieron esperar medio siglo antes de ser rescatados por Carlos III».​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Charles_III_of_Spain_high_resolution.jpg/960px-Charles_III_of_Spain_high_resolution.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Carlos_III_de_Espa%C3%B1a",
+      "eventoIds": [
+        "expulsion-jesuitas"
+      ]
+    },
+    {
+      "id": "malaspina",
+      "nombre": "Alejandro Malaspina",
+      "nacimiento": 1754.8333333333333,
+      "muerte": 1809.25,
+      "periodoRelevancia": [
+        1789,
+        1794
+      ],
+      "rol": "Marino y explorador",
+      "resumen": "Alessandro Malaspina, conocido en español como Alejandro Malaspina (Mulazzo, 5 de noviembre de 1754-Pontremoli, 9 de abril de 1810) fue un noble y marino italiano al servicio de España, brigadier de la Real Armada, célebre por protagonizar uno de los grandes viajes científicos de la era ilustrada, la llamada Expedición Malaspina (1788-94). Tras conspirar para derribar a Godoy, cayó en desgracia, lo que llevó al olvido de sus grandes logros.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Alejandro_%28Alessandro%29_Malaspina.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Alejandro_Malaspina",
+      "eventoIds": [
+        "expedicion-malaspina"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "expulsion-jesuitas",
+      "titulo": "Expulsión de los jesuitas de España de 1767",
+      "tipo": "tratado",
+      "fecha": 1767.15,
+      "coordenadas": [
+        -3.7,
+        40.42
+      ],
+      "resumen": "La expulsión de los jesuitas de España de 1767 fue ordenada por el rey Carlos III, siguiendo los ejemplos recientes portugués de 1759 y francés de 1762, bajo la acusación de haber sido los instigadores de los motines populares del año anterior, conocidos con el nombre de Motín de Esquilache. Seis años después el monarca español consiguió que el papa Clemente XIV suprimiera la orden de los jesuitas. No obstante, sería restablecida por Pío VII el 7 de agosto de 1814 y el rey Fernando VII les permitió el regreso a España el 15 de mayo de 1815.​ Los jesuitas serían expulsados de España tres veces más: en 1820, durante el Trienio Liberal; en 1835, durante la Regencia de María Cristina de Borbón; y en 1932, bajo la Segunda República.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/3/39/Retrato_de_Carlos_III_de_Espa%C3%B1a.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Expulsi%C3%B3n_de_los_jesuitas_de_Espa%C3%B1a_de_1767",
+      "personajeIds": [
+        "carlos-iii"
+      ],
+      "rutaId": "reformas-borbonicas"
+    },
+    {
+      "id": "expedicion-malaspina",
+      "titulo": "Expedición Malaspina",
+      "tipo": "descubrimiento",
+      "fecha": 1789.6,
+      "coordenadas": [
+        -6.28,
+        36.53
+      ],
+      "resumen": "El Viaje científico y político alrededor del mundo, más conocido como Expedición Malaspina o Malaspina-Bustamante, en honor a Alejandro Malaspina y José de Bustamante y Guerra, fue una expedición financiada por la Corona española en la época ilustrada de Carlos IV. La expedición se prolongó a lo largo del periodo entre 1789-1794. Recorrió las costas de toda América desde Buenos Aires a Alaska, las Filipinas y Marianas, Vavao, Nueva Zelanda y Australia. El 21 de septiembre de 1794, la expedición regresó a España habiendo generado un ingente patrimonio de conocimiento sobre historia natural, cartografía, etnografía, astronomía, hidrografía, medicina —todas ellas ramas de conocimiento de gran importancia geopolítica—, así como sobre los aspectos políticos, económicos y sociales de estos territorios. La mayor parte de los fondos se conservan en el Museo de América, Museo Naval de Madrid, el Real Observatorio de la Armada, el Real Jardín Botánico y el Museo Nacional de Ciencias Naturales. En la actualidad, siguen siendo objeto de estudio por parte de historiadores y biólogos.​​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Descubiertaatrevida.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Expedici%C3%B3n_Malaspina",
+      "personajeIds": [
+        "malaspina"
+      ],
+      "rutaId": "expedicion-malaspina"
+    },
+    {
+      "id": "toma-habana-1762",
+      "titulo": "Toma de La Habana",
+      "tipo": "batalla",
+      "fecha": 1762.5,
+      "coordenadas": [
+        -82.35,
+        23.13
+      ],
+      "resumen": "La toma de La Habana por los británicos fue un enfrentamiento militar librado en agosto de 1762, en el contexto de la guerra de los Siete Años. En ella, las fuerzas inglesas al mando del teniente general George Keppel derrotaron a los defensores liderados por el gobernador de Cuba, el mariscal de campo Juan de Prado y Portocarrero.\nEste hecho dejó al descubierto las debilidades de las defensas españolas en el mar Caribe y fue consecuencia de la entrada en conflicto del Reino de Gran Bretaña con la Corona española, aliada del Reino de Francia, otro tradicional enemigo de los británicos. \nEn un principio los británicos intentaron establecer una especie de colonia llamada «Cumberland» que sirviera de punto de apoyo a una invasión en la isla, por el sur, en lo que hoy es la provincia de Guantánamo, pero las condiciones fueron muy hostiles tanto por el terreno, como el constante hostigamiento de los lugareños, por lo que finalmente desistieron.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/British_fleet_entering_Havana.jpg/960px-British_fleet_entering_Havana.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Toma_de_La_Habana",
+      "personajeIds": [],
+      "rutaId": "guerra-siete-anos"
+    }
+  ],
+  "avisos": []
+}

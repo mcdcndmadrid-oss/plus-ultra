@@ -1,0 +1,75 @@
+{
+  "personajes": [
+    {
+      "id": "alonso-ojeda",
+      "nombre": "Alonso de Ojeda",
+      "nacimiento": 1466,
+      "muerte": 1515,
+      "periodoRelevancia": [
+        1509,
+        1511
+      ],
+      "rol": "Gobernador de Nueva Andalucía",
+      "resumen": "Alonso de Ojeda (Torrejoncillo del Rey, Cuenca, 1466-Santo Domingo, 1515) fue un navegante, gobernador y conquistador español. \nParticipó en el segundo viaje de Colón y, posteriormente, dirigió dos expediciones marítimas (1499 y 1502) por las costas caribeñas que luego serían Colombia, Guyana, Trinidad, Tobago, Curazao, Aruba y Venezuela. Además, encabezó el primer intento de colonización de Nueva Andalucía y Urabá (1509). Conocido por el descubrimiento del lago de Maracaibo (1499) y la fundación del fuerte de San Sebastián de Urabá (1510).",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/6/63/Conquistador_Alonso_de_Ojeda.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Alonso_de_Ojeda",
+      "eventoIds": [
+        "fundacion-san-sebastian-uraba",
+        "fundacion-santa-maria-darien"
+      ]
+    },
+    {
+      "id": "diego-nicuesa",
+      "nombre": "Diego de Nicuesa",
+      "nacimiento": 1464,
+      "muerte": 1511,
+      "periodoRelevancia": [
+        1509,
+        1511
+      ],
+      "rol": "Gobernador de Castilla de Oro",
+      "resumen": "Diego de Nicuesa (Torredonjimeno, Reino de Jaén de la Corona castellana, ca. 1478 – mar Caribe de la gobernación de Veragua, Corona de Castilla, marzo de 1511) fue un explorador y conquistador español que ocupaba el cargo efectivo como primer gobernador de Veragua en Tierra Firme desde 1510 hasta 1511, y que a su vez formaría parte como una entidad autónoma dentro del Virreinato colombino.\nEn el extremo oriental de su territorio, Vasco Núñez de Balboa fundó ilegalmente a finales de 1510 la nueva ciudad de Santa María la Antigua del Darién, al trasladar el efímero fuerte de San Sebastián de Urabá que había sido construido el 20 de enero del mismo año y ubicado en la jurisdicción de la vecina gobernación de Nueva Andalucía, adjudicada a Alonso de Ojeda. De esta forma Balboa se proclamó de forma fáctica como alcalde mayor del Darién y reconocido por la Corona el 23 de diciembre de 1511 como primer gobernador y capitán general de la provincia del Darién que llegaba hasta el istmo, incluyendo la ciudad de Nombre de Dios.\nPosteriormente el conjunto de estos territorios fueron causa de un largo pleito de la familia Colón con la Corona castellana. Finalmente en su territorio oriental se erigiría en el año 1514 la nueva gobernación de Castilla del Oro, siendo su capital Santa María la Antigua, aunque dicho pleito continuaría durante la ya conformada Corona de España.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Diego_de_Nicuesa",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-san-sebastian-uraba",
+      "titulo": "San Sebastián de Urabá",
+      "tipo": "fundacion",
+      "fecha": 1509.85,
+      "coordenadas": [
+        -77.35,
+        8.65
+      ],
+      "resumen": "San Sebastián de Urabá fue un fuerte español del siglo XVI situado en Necoclí, en Antioquia, en Colombia.  \nFundado el 20 de enero de 1510 por Alonso de Ojeda, fue el primer intento de asentamiento español en suelo continental americano. Fue abandonado poco después ante el ataque de los indígenas y un aprovisionamiento deficiente, dando lugar a la fundación de la población de Santa María de la Antigua del Darién.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Conquest_of_Colombia.png/960px-Conquest_of_Colombia.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/San_Sebasti%C3%A1n_de_Urab%C3%A1",
+      "personajeIds": [
+        "alonso-ojeda"
+      ],
+      "rutaId": "tierra-firme-ojeda-nicuesa"
+    },
+    {
+      "id": "fundacion-santa-maria-darien",
+      "titulo": "Santa María la Antigua del Darién",
+      "tipo": "fundacion",
+      "fecha": 1510.75,
+      "coordenadas": [
+        -77.13,
+        8.13
+      ],
+      "resumen": "Santa María la Antigua del Darién fue una ciudad fundada en 1510 al este del istmo de Panamá, en la región del Darién en territorio actual de Colombia durante la colonización española de América, por Martín Fernández de Enciso y Vasco Núñez de Balboa en honor a la Virgen de la Antigua, de la que Núñez era devoto.​​Fue la capital de la Gobernación de Castilla de Oro hasta 1520, cuando la población se traslada  completamente al actual sitio de Panamá Viejo en la actual  Ciudad de Panamá por orden de Pedrarias Dávila.​\nSanta María la Antigua del Darién fue la precursora de la actual Ciudad de Panamá, es considerada la primera ciudad fundada por los españoles en tierra firme americana,​ constituyendo el punto de partida para la conquista del continente y en la que participaron Francisco Pizarro, Sebastián de Belalcázar, Diego de Almagro, Gonzalo Fernández de Oviedo y Pedro Arias Dávila.​  \nSus restos se encuentran en Colombia, en la costa occidental del golfo de Urabá, en el departamento colombiano del Chocó (vereda Santuario, municipio de Unguía).",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Cross_of_Burgundy.svg/960px-Flag_of_Cross_of_Burgundy.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Santa_Mar%C3%ADa_la_Antigua_del_Dari%C3%A9n",
+      "personajeIds": [
+        "alonso-ojeda"
+      ],
+      "rutaId": "tierra-firme-ojeda-nicuesa"
+    }
+  ],
+  "avisos": [
+    "diego-nicuesa: sin imagen"
+  ]
+}

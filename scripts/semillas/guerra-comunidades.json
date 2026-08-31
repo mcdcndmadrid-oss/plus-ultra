@@ -1,0 +1,30 @@
+{
+  "personajes": [
+    {
+      "id": "juan-padilla",
+      "titulo": "Juan López de Padilla",
+      "rol": "Líder comunero",
+      "periodoRelevancia": [1520, 1521]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "sitio-medina-campo",
+      "titulo": "Guerra de las Comunidades de Castilla",
+      "tipo": "rebelion",
+      "fechaAprox": 1520.65,
+      "coordenadas": [-4.9, 41.31],
+      "personajeIds": ["juan-padilla"],
+      "rutaId": "guerra-comunidades"
+    },
+    {
+      "id": "batalla-villalar",
+      "titulo": "Batalla de Villalar",
+      "tipo": "batalla",
+      "fechaAprox": 1521.32,
+      "coordenadas": [-5.1, 41.53],
+      "personajeIds": ["juan-padilla"],
+      "rutaId": "guerra-comunidades"
+    }
+  ]
+}

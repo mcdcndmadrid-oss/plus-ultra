@@ -1,0 +1,92 @@
+{
+  "personajes": [
+    {
+      "id": "ruy-lopez-villalobos",
+      "nombre": "Ruy López de Villalobos",
+      "nacimiento": 1500,
+      "muerte": 1546.25,
+      "periodoRelevancia": [
+        1542,
+        1546
+      ],
+      "rol": "Explorador, dio nombre a las Filipinas",
+      "resumen": "Ruy López de Villalobos (Málaga, España, 1500 - Isla de Ambon, 4 de abril de 1546) fue un hidalgo y marino español que exploró las islas Filipinas y trató, sin éxito, de colonizarlas y establecer una ruta comercial viable con los territorios españoles en América. Se le conoce porque fue su expedición la que dio nombre a esas islas como «Filipinas» en honor de Felipe II de España, a la sazón príncipe, de quien reciben su denominación actual.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Ruy_L%C3%B3pez_de_Villalobos",
+      "eventoIds": [
+        "expedicion-villalobos"
+      ]
+    },
+    {
+      "id": "inigo-ortiz-retes",
+      "nombre": "Íñigo Ortiz de Retes",
+      "muerte": 1544.9166666666667,
+      "periodoRelevancia": [
+        1545,
+        1545
+      ],
+      "rol": "Explorador, descubridor de Nueva Guinea",
+      "resumen": "Íñigo Ortiz de Retes (Retes de Llanteno, Valle de Ayala, Álava​ – ¿?) fue un marino y explorador español del siglo XVI que navegó por el océano Pacífico reconociendo la costa norte de la isla de Nueva Guinea, y al que se le atribuye haber dado el nombre a la isla.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/8/81/NovaGuinea1600map.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/%C3%8D%C3%B1igo_Ortiz_de_Retes",
+      "eventoIds": [
+        "expedicion-villalobos"
+      ]
+    },
+    {
+      "id": "sarmiento-gamboa",
+      "nombre": "Pedro Sarmiento de Gamboa",
+      "nacimiento": 1530.5833333333333,
+      "muerte": 1592,
+      "periodoRelevancia": [
+        1579,
+        1584
+      ],
+      "rol": "Explorador e historiador, fortificador del estrecho de Magallanes",
+      "resumen": "Pedro Sarmiento de Gamboa (¿Alcalá de Henares?, Corona de España, e/ 1530 y 1532 - océano Atlántico de la costa de Lisboa, Reino de Portugal de la Monarquía Hispánica, 17 de julio de 1592) era un marino, cosmógrafo, matemático, escritor, soldado, historiador, filólogo, astrónomo, científico, humanista, explorador y conquistador español del siglo XVI, que fuera nombrado por el rey Felipe II como gobernador y capitán general de las Tierras del Estrecho de Magallanes a finales de 1580.​\nEn el año 1584 fundó las primeras poblaciones de su incipiente gobernación —las ciudades del Nombre de Jesús y del Rey Felipe—, como parte del intento de colonización del estrecho de Magallanes, pero sus habitantes irían pereciendo de hambre por la escasez de alimentos y las condiciones climáticas extremas. El último sobreviviente de este último poblado, que internacionalmente había sido rebautizado como Puerto del Hambre, fue rescatado a principios de 1590 por la nave inglesa The Delight.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png/960px-Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_Sarmiento_de_Gamboa",
+      "eventoIds": [
+        "fortificacion-estrecho-magallanes"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "expedicion-villalobos",
+      "titulo": "Ruy López de Villalobos",
+      "tipo": "descubrimiento",
+      "fecha": 1543.1,
+      "coordenadas": [
+        124.65,
+        8.95
+      ],
+      "resumen": "Ruy López de Villalobos (Málaga, España, 1500 - Isla de Ambon, 4 de abril de 1546) fue un hidalgo y marino español que exploró las islas Filipinas y trató, sin éxito, de colonizarlas y establecer una ruta comercial viable con los territorios españoles en América. Se le conoce porque fue su expedición la que dio nombre a esas islas como «Filipinas» en honor de Felipe II de España, a la sazón príncipe, de quien reciben su denominación actual.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Ruy_L%C3%B3pez_de_Villalobos",
+      "personajeIds": [
+        "ruy-lopez-villalobos",
+        "inigo-ortiz-retes"
+      ],
+      "rutaId": "expedicion-villalobos"
+    },
+    {
+      "id": "fortificacion-estrecho-magallanes",
+      "titulo": "Pedro Sarmiento de Gamboa",
+      "tipo": "fundacion",
+      "fecha": 1584.05,
+      "coordenadas": [
+        -70.85,
+        -52.65
+      ],
+      "resumen": "Pedro Sarmiento de Gamboa (¿Alcalá de Henares?, Corona de España, e/ 1530 y 1532 - océano Atlántico de la costa de Lisboa, Reino de Portugal de la Monarquía Hispánica, 17 de julio de 1592) era un marino, cosmógrafo, matemático, escritor, soldado, historiador, filólogo, astrónomo, científico, humanista, explorador y conquistador español del siglo XVI, que fuera nombrado por el rey Felipe II como gobernador y capitán general de las Tierras del Estrecho de Magallanes a finales de 1580.​\nEn el año 1584 fundó las primeras poblaciones de su incipiente gobernación —las ciudades del Nombre de Jesús y del Rey Felipe—, como parte del intento de colonización del estrecho de Magallanes, pero sus habitantes irían pereciendo de hambre por la escasez de alimentos y las condiciones climáticas extremas. El último sobreviviente de este último poblado, que internacionalmente había sido rebautizado como Puerto del Hambre, fue rescatado a principios de 1590 por la nave inglesa The Delight.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png/960px-Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_Sarmiento_de_Gamboa",
+      "personajeIds": [
+        "sarmiento-gamboa"
+      ],
+      "rutaId": "fortificacion-estrecho-magallanes"
+    }
+  ],
+  "avisos": [
+    "ruy-lopez-villalobos: sin imagen"
+  ]
+}

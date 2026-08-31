@@ -1,0 +1,67 @@
+{
+  "personajes": [
+    {
+      "id": "gonzalo-pizarro",
+      "nombre": "Gonzalo Pizarro",
+      "nacimiento": 1502,
+      "muerte": 1548.25,
+      "periodoRelevancia": [
+        1532,
+        1548
+      ],
+      "rol": "Conquistador, gobernador de Quito",
+      "resumen": "Gonzalo Pizarro o bien Gonzalo Pizarro Alonso (Trujillo, Castilla, ca. 1510-Cuzco, Virreinato del Perú, 10 de abril de 1548) fue un conquistador español, hermano paterno menor de Francisco Pizarro y uno de los principales actores de la conquista del Perú y de las guerras civiles entre los conquistadores. Estableció el primer asentamiento hispano en el territorio de los yamparas con la misma ayuda de estos, con el nombre de Charcas (hoy Sucre, capital de Bolivia) en 1538 y descubridor de la mina de plata del cerro de Porco. Encabezó la Gran Rebelión de Encomenderos de 1544 contra la Corona española, en protesta por la dación de las Leyes Nuevas. Fue nombrado Gobernador del Perú (1544-1548). Derrotado por Pedro de la Gasca, en la batalla de Jaquijahuana (9 de abril de 1548), fue apresado, enjuiciado, condenado a muerte y decapitado.\nPese a la controversia Historiográfica que hay con su figura (por la ilegalidad de su rebelión y los intereses oscuros de los encomenderos que lo sostuvieron, aunado a tópicos de la Leyenda negra española), las críticas contemporáneas hacía su persona tuvieron un balance positivo. El mismísimo Pedro de la Gasca declararía que él «gobernaba bien para ser tirano», puesto que trato de legitimar su gobierno a través de actuar como un gobernador justo y racional, que repartió encomiendas según buen criterio (acorde a los aportes hechos por un encomendero a la sociedad, así como a las necesidades económicas de una población), hizo nombramientos según lo pactado previamente, y habría ordenado a los encomenderos que traten a los indios con respeto de sus derechos naturales como personas humanas.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gonzalo_Pizarro_por_Guaman_Poma.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Gonzalo_Pizarro",
+      "eventoIds": []
+    },
+    {
+      "id": "juan-pizarro",
+      "nombre": "Juan Pizarro",
+      "nacimiento": 1511,
+      "muerte": 1536,
+      "periodoRelevancia": [
+        1532,
+        1536
+      ],
+      "rol": "Capitán, hermano de Francisco Pizarro",
+      "resumen": "Juan Pizarro Alonso (Trujillo, España, ca.1510-Cuzco, Nueva Castilla (actual Perú), 1536) fue un conquistador español, uno de los hermanos de Francisco Pizarro. Tomó parte de las primeras acciones de la conquista del imperio incaico, hasta la defensa del Cuzco, sitiada por las tropas de Manco Inca. Allí resultó gravemente herido, al impactarle una pedrada en la cabeza, falleciendo poco después.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_Pizarro",
+      "eventoIds": []
+    },
+    {
+      "id": "pedro-candia",
+      "nombre": "Pedro de Candía",
+      "nacimiento": 1492,
+      "muerte": 1542.6666666666667,
+      "periodoRelevancia": [
+        1524,
+        1542
+      ],
+      "rol": "Capitán de artillería, uno de los Trece de la Fama",
+      "resumen": "Pedro de Candía, (Reino de Candía, República de Venecia [hoy Creta, Grecia], ¿1484? – Chupas, Virreinato del Perú, 16 de septiembre de 1542), apodado el Griego, fue un conquistador de origen griego nacido en la Creta veneciana y posteriormente naturalizado español, que fue uno de los principales actores de la conquista del Perú y de las guerras civiles entre los conquistadores quien, como encomendero español, fue designado alcalde ordinario del Cuzco y, en segundo voto legislativo, como alcalde de Lima desde 1534 al 1535. Fue uno de los Trece de la Fama y artillero mayor del Perú. Físicamente fue un hombre muy alto, corpulento, de tez blanca y ojos claros; de acuerdo con las descripciones y retratos de las crónicas hispanas de las Américas, de rostro clásico greco-romano.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Historia_de_la_conquista_del_Per%C3%BA%2C_1851_%22Pedro_de_Cand%C3%ADa%22._%283971678512%29.jpg/960px-Historia_de_la_conquista_del_Per%C3%BA%2C_1851_%22Pedro_de_Cand%C3%ADa%22._%283971678512%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_de_Cand%C3%ADa",
+      "eventoIds": []
+    },
+    {
+      "id": "nicolas-ribera",
+      "nombre": "Nicolás de Ribera y Laredo",
+      "nacimiento": 1486.9166666666667,
+      "muerte": 1562.9166666666667,
+      "periodoRelevancia": [
+        1524,
+        1535
+      ],
+      "rol": "Uno de los Trece de la Fama, primer alcalde de Lima",
+      "resumen": "Nicolás de Ribera y Laredo, El Viejo (Olvera, 1487-Lima, 1563) fue un conquistador castellano establecido en el Virreinato del Perú. Participó en los viajes de descubrimiento del Perú, siendo uno de los Trece de la Fama, encomendero en Ica, fundador y primer alcalde ordinario del Cabildo de Lima.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/6/60/Nicolas_de_Ribera_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_de_Ribera_y_Laredo",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [],
+  "avisos": [
+    "juan-pizarro: sin imagen"
+  ]
+}

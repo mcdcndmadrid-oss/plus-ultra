@@ -1,0 +1,29 @@
+{
+  "personajes": [
+    {
+      "id": "gonzalo-pizarro",
+      "titulo": "Gonzalo Pizarro",
+      "rol": "Conquistador, gobernador de Quito",
+      "periodoRelevancia": [1532, 1548]
+    },
+    {
+      "id": "juan-pizarro",
+      "titulo": "Juan Pizarro",
+      "rol": "Capitán, hermano de Francisco Pizarro",
+      "periodoRelevancia": [1532, 1536]
+    },
+    {
+      "id": "pedro-candia",
+      "titulo": "Pedro de Candía",
+      "rol": "Capitán de artillería, uno de los Trece de la Fama",
+      "periodoRelevancia": [1524, 1542]
+    },
+    {
+      "id": "nicolas-ribera",
+      "titulo": "Nicolás de Ribera",
+      "rol": "Uno de los Trece de la Fama, primer alcalde de Lima",
+      "periodoRelevancia": [1524, 1535]
+    }
+  ],
+  "eventos": []
+}

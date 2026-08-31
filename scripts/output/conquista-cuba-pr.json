@@ -1,0 +1,56 @@
+{
+  "personajes": [
+    {
+      "id": "ponce-leon",
+      "nombre": "Juan Ponce de León",
+      "nacimiento": 1460.25,
+      "muerte": 1521,
+      "periodoRelevancia": [
+        1508,
+        1521
+      ],
+      "rol": "Conquistador y gobernador",
+      "resumen": "Juan Ponce de León (probablemente Santervás de Campos, Valladolid, c. 1460-La Habana, julio de 1521) fue un explorador y conquistador español, recordado por liderar la primera expedición a Puerto Rico en 1508 y a La Florida en 1513. Nacido probablemente en Santervás de Campos, Valladolid, dentro de que se sabe de su origen es que era de ascendencia nobiliaria y que ingresó en la carrera militar muy joven. Viajó a América por primera vez como «caballero voluntario» en el segundo viaje de Colón en 1494. \nA comienzos de la década de 1500 Ponce de León ya ocupaba un alto rango en el escalafón militar del gobierno de La Española, donde ayudó a reprimir una rebelión de los indios taínos. Recibió autorización para explorar la vecina isla de Puerto Rico en 1508 y para ocupar el puesto de primer gobernador de la isla por nombramiento de la monarquía Española en 1509. Mientras se enriquecía con sus plantaciones y minas, tuvo que afrontar un enfrentamiento legal con Diego Colón, hijo de Cristóbal, sobre el derecho a gobernar Puerto Rico. Tras un largo proceso judicial, Colón le arrebató el puesto de gobernador y Ponce de León decidió seguir el consejo del rey Fernando II de Aragón de explorar las costas del mar Caribe. \nAsí, en 1513, el vallisoletano se puso al frente de la primera expedición europea oficial a La Florida, a la que puso nombre durante su primer viaje a la zona. Desembarcó en algún punto de la costa este de la península, cartografió la costa atlántica en dirección meridional hasta los cayos de la Florida y después en dirección septentrional a lo largo de la costa oeste. Aunque en la cultura popular se cuenta que supuestamente estaba buscando la Fuente de la juventud, no hay evidencias en ninguna documentación coetánea que confirme esta aseveración y la mayoría de historiadores lo consideran un mito.​ \nPonce de León regresó a España en 1514 y fue armado caballero por el rey Fernando, quien además lo reinstauró en el puesto de gobernador de Puerto Rico y le concedió autorización para asentarse en La Florida. Viajó de nuevo al Caribe en 1515, pero los planes para una segunda expedición a La Florida se pospusieron por el fallecimiento del rey Fernando en 1516, tras el cual Ponce de León debió regresar a España para defender sus concesiones y títulos, lo que le impidió pisar Puerto Rico los siguientes dos años.​ \nEn marzo de 1521 finalmente regresó al suroeste de La Florida con el primer intento a gran escala de establecer presencia española permanente en territorio de los actuales Estados Unidos. Sin embargo, los nativos calusa se resistieron a la incursión y Ponce de León resultó gravemente herido en una escaramuza. Así, el intento de asentamiento fue abandonado y el explorador murió de sus heridas a inicios de julio en la isla de Cuba. Fue inhumado en la Catedral de San Juan Bautista, en San Juan, Puerto Rico.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/7/77/Juan_Ponce_de_Le%C3%B3n.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n",
+      "eventoIds": []
+    },
+    {
+      "id": "velazquez-cuellar",
+      "nombre": "Diego Velázquez de Cuéllar",
+      "nacimiento": 1464.9166666666667,
+      "muerte": 1524.4166666666667,
+      "periodoRelevancia": [
+        1511,
+        1524
+      ],
+      "rol": "Gobernador de Cuba",
+      "resumen": "Diego Velázquez de Cuéllar (Cuéllar, ca. 1465-Santiago de Cuba, 1524) fue un conquistador, colonizador y administrador colonial castellano, considerado una de las principales figuras de la expansión española en el Caribe durante las primeras décadas del siglo XVI. Participó en el segundo viaje de Cristóbal Colón y dirigió la conquista y colonización de Cuba, de la que fue gobernador.​\nBajo su gobierno, la isla se convirtió en uno de los principales centros políticos y logísticos de la expansión castellana hacia Tierra Firme. Desde Cuba organizó y financió diversas expediciones hacia Yucatán y las costas de México, entre ellas las encabezadas por Francisco Hernández de Córdoba, Juan de Grijalva y Hernán Cortés.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/DiegoVelazquezCuellar.jpg/960px-DiegoVelazquezCuellar.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Diego_Vel%C3%A1zquez_de_Cu%C3%A9llar",
+      "eventoIds": [
+        "fundacion-baracoa"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-baracoa",
+      "titulo": "Baracoa",
+      "tipo": "fundacion",
+      "fecha": 1511.6,
+      "coordenadas": [
+        -74.5,
+        20.35
+      ],
+      "resumen": "Baracoa (en taíno: Presencia del mar), llamada también la \"Ciudad Primada de Cuba\" por haber sido la primera ciudad fundada en el país, es una ciudad y municipio situados en la provincia de Guantánamo, Cuba. \nLos principales productos de la región son el coco, el cacao y el café, aunque desde finales de la década del 90 del pasado siglo el turismo se ha convertido en una de sus principales fuentes de ingreso debido a su extraordinaria belleza y rica historia.\nLa ciudad fue fundada el 15 de agosto de 1511 con el nombre de Nuestra Señora de la Asunción de Baracoa por el conquistador español Diego Velázquez, que ostentaba entonces el título de Adelantado. Es el más antiguo asentamiento de la Isla después de la llegada de los colonizadores españoles y de ahí debe su nombre de Ciudad Primada. En 1518 recibió el nombramiento de ciudad. Fue la primera capital y el primer obispado de la Isla.\nDeclarada Monumento Nacional, la ciudad está situada entre los ríos Macaguanigua y Miel. Entre sus atracciones naturales se encuentra el río Toa, marcado por numerosas cascadas, siendo la más conocida El Saltadero con 17 metros de altura, y el Yunque, elevación que debe su nombre a la similitud de la misma con la pieza que usan los herreros. La llamada la Bella Durmiente, vista desde lejos, asemeja a una joven echada.\nEn esta ciudad se conserva dentro de una vitrina y con un pedestal de plata la Cruz de la Parra, símbolo de la cristianidad, que trajera Cristóbal Colón en su primer viaje.\nSe presume que el nombre de la ciudad provenga de un vocablo aborigen que significa “presencia de mar” en franca alusión al ambiente marino que contrasta con las montañas y los ríos de la región de gran belleza natural.\nEl acceso a la ciudad desde la capital provincial constituye una aventura ya que hay que recurrir a una vía muy peculiar que serpentea entre las montañas y que lleva el nombre de Viaducto de la Farola. Esta carretera cuenta con 11 puentes voladizos y su punto más elevado está en el Alto de Cotilla, un parteaguas a más de 600 metros sobre el nivel del mar donde se eleva un mirador desde el que se puede alcanzar a ver la costa Norte y la costa Sur, tocado por la leyenda de ver las luces de la Haití. En esta misma vía se celebra anualmente una carrera de maratón.\nEl acceso desde el oeste sucede a través de la carretera Holguín-Mayarí-Moa-Baracoa consistente en una carretera asfaltada en los 180 km hasta Moa y unos 16 km hasta Punta Gorda. El trecho restante de unos 60 km es un terraplén que cruza importantes ríos sobre puentes de hormigón.\nEl término municipal modificó su jurisdicción varias veces. Muchos de los actuales territorios de Moa pertenecieron a Baracoa y los nativos de esta parte holguinera comparten costumbres y rasgos muy similares con los baracoenses.\nLa región fue fuertemente afectada por el Huracán Matthew en octubre de 2016.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Cuidad_de_Baracoa.jpg/960px-Cuidad_de_Baracoa.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Baracoa",
+      "personajeIds": [
+        "velazquez-cuellar"
+      ],
+      "rutaId": "conquista-cuba-pr"
+    }
+  ],
+  "avisos": []
+}

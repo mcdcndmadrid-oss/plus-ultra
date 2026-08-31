@@ -1,0 +1,93 @@
+{
+  "personajes": [
+    {
+      "id": "legazpi",
+      "nombre": "Miguel López de Legazpi",
+      "nacimiento": 1502.4166666666667,
+      "muerte": 1572.5833333333333,
+      "periodoRelevancia": [
+        1564,
+        1572
+      ],
+      "rol": "Adelantado y gobernador de Filipinas",
+      "resumen": "Miguel López de Legazpi (Zumárraga, 1502-Manila, 20 de agosto de 1572), apodado «el Adelantado» y «el Viejo», fue un marino español que llegó al grado de almirante. Fue el primer gobernador de la Capitanía General de las Filipinas. \nMiguel López de Legazpi emprendió la conquista y colonización del archipiélago de las Filipinas en 1565 al fundar las ciudades de Cebú en 1565 y Manila en 1571.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Miguel_L%C3%B3pez_de_Legazpi%2C_en_La_Hormiga_de_Oro.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Miguel_L%C3%B3pez_de_Legazpi",
+      "eventoIds": [
+        "fundacion-san-miguel-cebu",
+        "fundacion-manila"
+      ]
+    },
+    {
+      "id": "urdaneta",
+      "nombre": "Andrés de Urdaneta",
+      "nacimiento": 1498.8333333333333,
+      "muerte": 1568.4166666666667,
+      "periodoRelevancia": [
+        1564,
+        1565
+      ],
+      "rol": "Navegante y religioso",
+      "resumen": "Andrés de Urdaneta y Ceráin (Villafranca de Ordizia,​ posiblemente 1508​-Ciudad de México, 3 de junio de 1568) fue un militar, cosmógrafo, marino, explorador y religioso agustino español. Participó en las peligrosas expediciones de García Jofre de Loaísa y Miguel López de Legazpi, y alcanzó fama universal por descubrir y documentar la ruta a través del océano Pacífico desde Filipinas hasta Acapulco, conocida como Ruta de Urdaneta o tornaviaje.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/6/63/Andres_de_Urdaneta.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta",
+      "eventoIds": [
+        "descubrimiento-tornaviaje"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-san-miguel-cebu",
+      "titulo": "Capitanía general de Filipinas",
+      "tipo": "fundacion",
+      "fecha": 1565.3,
+      "coordenadas": [
+        123.89,
+        10.32
+      ],
+      "resumen": "La capitanía general de Filipinas (en tagalo: Kapitaniya Heneral ng Pilipinas), también conocida como Reino de Filipinas, es un antiguo territorio español perteneciente al virreinato de Nueva España, con sede en Manila, que existió desde 1571 hasta 1898.​\nLa capitanía fue establecida por la Monarquía Hispánica en las Indias Orientales Españolas. Además del archipiélago filipino, incluía la isla de Palaos, las Islas Marianas (actuales territorios estadounidenses de Guam y Marianas del Norte) y las Islas Carolinas (actuales Estados Federados de Micronesia). El virrey de Nueva España, con sede en la Ciudad de México, ejercía sobre estos territorios atribuciones relativas a asuntos económicos, ya que en lo demás el capitán general trataba directamente con el rey y el Consejo de Indias.\nFilipinas fue territorio español hasta finales de 1898. El 12 de junio de 1898 los filipinos bajo el mando del general Emilio Aguinaldo declararon su efímera independencia. El 10 de diciembre de 1898, por el Tratado de París se puso fin a la guerra hispano-estadounidense, y las Filipinas y Guam fueron cedidas a los Estados Unidos. Las Marianas (salvo Guam), Carolinas y Palaos fueron vendidas al Imperio alemán por el Tratado germano-español de 12 de febrero de 1899.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg/960px-Flag_of_Spain_%281785%E2%80%931873%2C_1875%E2%80%931931%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Capitan%C3%ADa_general_de_Filipinas",
+      "personajeIds": [
+        "legazpi"
+      ],
+      "rutaId": "filipinas-legazpi"
+    },
+    {
+      "id": "descubrimiento-tornaviaje",
+      "titulo": "Tornaviaje",
+      "tipo": "descubrimiento",
+      "fecha": 1565.45,
+      "coordenadas": [
+        -121.9,
+        36.6
+      ],
+      "resumen": "El tornaviaje es, literalmente, el «viaje de regreso».​ Entre los tornaviajes históricos más destacados se encuentra el de Cristóbal Colón, quien, aprovechando los vientos alisios a la altura de las islas Canarias para su viaje hacia el Nuevo Continente, sabía que para su tornaviaje​ contaría con lo que más tarde, hacia finales del siglo XVIII, se llamaría la corriente del Golfo,​ aunque fue documentada por primera vez en 1513 por Antón de Alaminos, el piloto de Juan Ponce de León, poco después de descubrir las costas de Florida.​\n\n \n\nPor otra parte, una vez descubierto el archipiélago filipino y la ruta para llegar a él a través del paso en el extremo meridional de América por Magallanes en su expedición (1519-1522), interesaba descubrir la ruta de retorno hacia el este hasta América, ya que el Tratado de Tordesillas impedía a España el establecimiento de una ruta marítima por el oeste, porque pasaría por la zona de jurisdicción portuguesa.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Andres_Urdaneta_Tornaviaje.jpg/960px-Andres_Urdaneta_Tornaviaje.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Tornaviaje",
+      "personajeIds": [
+        "urdaneta"
+      ],
+      "rutaId": "filipinas-legazpi"
+    },
+    {
+      "id": "fundacion-manila",
+      "titulo": "Manila",
+      "tipo": "fundacion",
+      "fecha": 1571.45,
+      "coordenadas": [
+        120.98,
+        14.6
+      ],
+      "resumen": "Manila (en pampango: Menila; en zambal: Ibali), oficialmente Ciudad de Manila (Filipino: Lungsod ng Maynila), es la capital de Filipinas y la segunda ciudad del país por número de habitantes, después de Ciudad Quezon.​\nLa ciudad está situada en la costa oriental de la bahía de Manila, en la isla de Luzón, junto a la desembocadura del río Pásig; la ciudad limita al norte con las ciudades de Navotas y Caloocan; al nordeste con Ciudad Quezon; al este con San Juan y Mandaluyong; al sudeste con Makati y al sur con Pasay.\nManila tiene una población total de 1 652 171 de acuerdo con el censo de 2013,​ siendo la segunda ciudad más poblada del país después de la cercana Ciudad Quezon. La población habita un área de apenas 38,55 kilómetros cuadrados (14,88 mi²), lo que hace a Manila una de las ciudades más densamente pobladas del mundo.​\nEl Gran Manila es el área metropolitana más poblada de toda Filipinas ​ y la décima del mundo, con una población estimada en 20,5 millones.​\nLa ciudad se divide en seis distritos legislativos y consiste en dieciséis distritos geográficos: Binondo, Ermita, Intramuros, Malate, Paco, Pandacán, Port Area, Quiapo, Sampaloc, San Andrés, San Miguel, San Nicolás, Santa Ana, Santa Cruz, Santa Mesa y Tondo. El comercio más activo y algunos de los lugares más históricos y emblemáticos de gran importancia cultural en el país, como la sede del Ejecutivo filipino y la Suprema Corte de las Filipinas, se encuentran en esta ciudad. Manila es sede de varias instituciones científicas y educativas, numerosas instalaciones deportivas, así como de un amplio elenco de entidades culturales del país y otros lugares cultural e históricamente significativos.\nEl primer relato escrito acerca de la ciudad es la Inscripción de la Laguna Copperplate, que data del siglo X. La ciudad fue invadida por Bolkiah, sultán de Brunéi, y fue cristianizada ya en el siglo XVI, cuando los conquistadores españoles llegaron por primera vez. Fue incorporada el 24 de junio de 1571 por el conquistador español Miguel López de Legazpi. Manila se convirtió finalmente en el centro de las actividades españolas en Extremo Oriente y destino de la ruta comercial del Galeón de Acapulco a Manila, el cual conectaba a la América Española con Asia. \nLa ciudad recibió el apodo de la «perla de Oriente», como resultado de su ubicación central en las vitales rutas del comercio marítimo por el Pacífico. Varias insurrecciones chinas, revueltas locales, una ocupación británica y un motín cipayo se produjeron tiempo después de eso. Manila también vio el surgimiento de la Revolución filipina, que fue seguida por la ocupación estadounidense, contribuyendo a la planificación urbana de la ciudad y al desarrollo solo para que la mayoría de dichas mejoras se perdiera por la devastación de la Segunda Guerra Mundial. Después de esto, la ciudad ha sido reconstruida.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Manila_Harbour_View_by_night_%28Thomas_Yie%29_-_Flickr.jpg/960px-Manila_Harbour_View_by_night_%28Thomas_Yie%29_-_Flickr.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Manila",
+      "personajeIds": [
+        "legazpi"
+      ],
+      "rutaId": "filipinas-legazpi"
+    }
+  ],
+  "avisos": []
+}

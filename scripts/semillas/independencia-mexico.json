@@ -1,0 +1,36 @@
+{
+  "personajes": [
+    {
+      "id": "iturbide",
+      "titulo": "Agustín de Iturbide",
+      "rol": "General, artífice de la independencia",
+      "periodoRelevancia": [1820, 1824]
+    },
+    {
+      "id": "virrey-apodaca",
+      "titulo": "Juan Ruiz de Apodaca",
+      "rol": "Virrey de Nueva España",
+      "periodoRelevancia": [1816, 1821]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "plan-iguala",
+      "titulo": "Plan de Iguala",
+      "tipo": "tratado",
+      "fechaAprox": 1821.16,
+      "coordenadas": [-99.53, 18.35],
+      "personajeIds": ["iturbide"],
+      "rutaId": "independencia-mexico"
+    },
+    {
+      "id": "tratados-cordoba",
+      "titulo": "Tratados de Córdoba",
+      "tipo": "tratado",
+      "fechaAprox": 1821.65,
+      "coordenadas": [-96.93, 18.89],
+      "personajeIds": ["iturbide"],
+      "rutaId": "independencia-mexico"
+    }
+  ]
+}

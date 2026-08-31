@@ -1,0 +1,59 @@
+{
+  "personajes": [
+    {
+      "id": "felipe-v",
+      "nombre": "Felipe V de España",
+      "nacimiento": 1683.9166666666667,
+      "muerte": 1746.5,
+      "periodoRelevancia": [
+        1700,
+        1746
+      ],
+      "rol": "Rey de España",
+      "resumen": "Felipe V de España, llamado «el Animoso» (Versalles, 19 de diciembre de 1683-Madrid, 9 de julio de 1746), fue rey de España desde el 16 de noviembre de 1700 hasta su muerte en 1746, con una interrupción desde el 16 de enero hasta el 5 de septiembre de 1724 debida a la abdicación en favor de su hijo Luis I, que falleció a temprana edad el 31 de agosto de 1724.\nComo bisnieto de Felipe IV, fue el sucesor del último monarca de la Casa de Austria, su tío-abuelo Carlos II, por lo que se convirtió en el primer rey de la casa de Borbón en España. Su reinado de 45 años y 3 días (partido, como ya se ha señalado, en dos periodos separados) es el más prolongado en la historia de la monarquía española.\nAccedió al trono a tiempo para participar en la guerra de sucesión española, que culminó con su reconocimiento como monarca a cambio de la mayoría de territorios europeos de la Monarquía Hispánica. Su reinado estuvo marcado por la decreciente salud mental de Felipe y una cada vez mayor toma de decisiones por su segunda esposa Isabel Farnesio, cuyas ambiciones políticas sobre Francia y la península itálica condujeron a España a la fallida guerra de la Cuádruple Alianza. Una tentativa alianza entre Borbones y Austrias en el tratado de Viena de 1725 empujó a España contra el tratado de Hannover entre Francia y Gran Bretaña, conduciendo a una guerra anglo-española sin resultado.\nViéndose cada vez menos capaz de reinar, y posiblemente ambicionando hacerse con el vacante trono de Francia, Felipe abdicó en 1724 en su primogénito Luis, que sin embargo murió de viruela menos de un año después. Felipe debió entonces regresar al trono español en medio de una gran división por lo inusual del movimiento, impulsado por Isabel en nombre de sus intereses.\nA pesar de estos reveses, la guerra de sucesión polaca ofreció a Felipe e Isabel la oportunidad de recobrar el control de los antiguos territorios hispánicos en Nápoles y Sicilia, que quedaron convertidos en reinos borbónicos bajo el entronizado príncipe Carlos. La España de Felipe se caracerizó por un enorme desarrollo de la armada española y el corso guardacostas, que contribuyeron a la recuperación de Orán ante los otomanos y la defensa de los territorios de ultramar ante Gran Bretaña en la Guerra del Asiento. Los últimos designios políticos del matrimonio real ocurrieron en la guerra de sucesión austríaca, que devolvió también a su familia el ducado de Parma.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Felipe_V_de_Espa%C3%B1a.jpg/960px-Felipe_V_de_Espa%C3%B1a.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Felipe_V_de_Espa%C3%B1a",
+      "eventoIds": [
+        "guerra-sucesion-espanola",
+        "sitio-barcelona-1714"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "guerra-sucesion-espanola",
+      "titulo": "Guerra de sucesión española",
+      "tipo": "batalla",
+      "fecha": 1701.6,
+      "coordenadas": [
+        -3.7,
+        40.42
+      ],
+      "resumen": "La guerra de sucesión española​ fue una guerra internacional entre grandes potencias europeas que duró desde 1701 hasta la firma del Tratado de Utrecht en 1714. Tuvo como causa fundamental la muerte sin descendencia de Carlos II de España, último representante de la Casa de Habsburgo, en noviembre de 1700, lo que dio lugar a una lucha por el control del Imperio español entre los partidarios de las dinastías reclamantes de los Borbones y los Habsburgo. Su heredero oficial era Felipe de Anjou, nieto de Luis XIV de Francia, cuyos principales partidarios eran Francia y la mayor parte de España. Su rival, el archiduque Carlos de Austria, contaba con el apoyo de la Gran Alianza, cuyos principales miembros incluían a Austria, las Provincias Unidas y Gran Bretaña. La guerra dejó como principal consecuencia la instauración de la casa de Borbón en el trono de España.​ Entre los conflictos relacionados importantes se incluyen la Gran Guerra del Norte de 1700 a 1721 y la Guerra de la reina Ana en América del Norte.\nSi bien para 1701 España ya no era la potencia europea predominante, su imperio global todavía incluía los Países Bajos Españoles, grandes partes de Italia y América. La posibilidad de su adquisición por parte de Francia o Austria amenazaba el equilibrio de poder europeo, y la proclamación de Felipe como rey de España el 16 de noviembre de 1700 condujo a la guerra. Los franceses mantuvieron la ventaja en las primeras etapas, pero se vieron obligados a adoptar una postura defensiva después de 1706. Aunque los aliados continuaron avanzando en el norte de Francia, para 1709 Felipe había consolidado su posición en España, la causa aparente de la guerra.\nEn el interior del país, la guerra de sucesión evolucionó hasta convertirse en una guerra civil entre borbónicos, cuyo principal apoyo lo encontraron en Castilla, y austracistas, mayoritarios en Aragón, cuyos últimos rescoldos no se extinguieron hasta 1714, con la capitulación de Barcelona, y 1715, con la rendición de Mallorca ante las fuerzas de Felipe V. \nCuando el emperador José I murió en 1711, el archiduque Carlos sucedió a su hermano como emperador del Sacro Imperio Romano Germánico. En tanto una unión de España y Austria era tan mal recibida como una con Francia, el nuevo gobierno británico argumentó que no tenía sentido continuar. A esas alturas, sólo los subsidios británicos mantenían a sus aliados en la guerra, y su retirada condujo a la Paz de Utrecht en 1713, seguida de los tratados de Rastatt y Baden en 1714.\nFelipe fue confirmado como rey de España, pero renunció a su derecho y al de sus descendientes al trono francés. Para la Monarquía Hispánica, las principales consecuencias de la guerra fueron la pérdida de sus posesiones europeas, incluyendo gran parte de sus territorios italianos a favor de Saboya y Austria, junto con los Países Bajos Españoles, aunque permaneció prácticamente intacto fuera de Europa. Asimismo, la abolición de las leyes e instituciones de la Corona de Aragón, lo que puso fin al modelo «federal» de monarquía,​ o «monarquía compuesta»,​ de los austrias.​ Gran Bretaña recibió Gibraltar y Menorca y obtuvo importantes concesiones comerciales en las Américas españolas. Para los neerlandeses, a pesar de haber logrado su ansiado Tratado de la Barrera, la guerra se considera el comienzo de su declive como gran potencia europea. Aunque Luis XIV logró colocar a su nieto en el trono español, Francia quedó económicamente agotada.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Villars_a_Denain1.jpg/960px-Villars_a_Denain1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Guerra_de_sucesi%C3%B3n_espa%C3%B1ola",
+      "personajeIds": [
+        "felipe-v"
+      ],
+      "rutaId": "guerra-sucesion"
+    },
+    {
+      "id": "sitio-barcelona-1714",
+      "titulo": "Sitio de Barcelona (1713-1714)",
+      "tipo": "batalla",
+      "fecha": 1714.75,
+      "coordenadas": [
+        2.17,
+        41.38
+      ],
+      "resumen": "El sitio de Barcelona fue una de las últimas operaciones militares de la guerra de sucesión española. Se produjo entre el 25 de julio de 1713 y el 11 de septiembre de 1714. El combate enfrentó a los defensores de Barcelona formados por la coronela y partidarios de Carlos VI del Sacro Imperio Romano Germánico; con las tropas de Felipe V de España y sus aliados franceses.\nDesde 1980 en recuerdo de los caídos y la defensa por parte de los barceloneses, se conmemora como fiesta oficial de Cataluña (Diada Nacional de Catalunya), el Día Once de Septiembre.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Sitio-barcelona-11-septiembre-1714.jpg/960px-Sitio-barcelona-11-septiembre-1714.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Sitio_de_Barcelona_(1713-1714)",
+      "personajeIds": [
+        "felipe-v"
+      ],
+      "rutaId": "guerra-sucesion"
+    }
+  ],
+  "avisos": []
+}

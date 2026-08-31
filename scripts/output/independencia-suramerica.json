@@ -1,0 +1,149 @@
+{
+  "personajes": [
+    {
+      "id": "pablo-morillo",
+      "nombre": "Pablo Morillo",
+      "nacimiento": 1775.3333333333333,
+      "muerte": 1837.5,
+      "periodoRelevancia": [
+        1815,
+        1820
+      ],
+      "rol": "General en jefe del Ejército Expedicionario",
+      "resumen": "Pablo Morillo y Morillo (Fuentesecas, 5 de mayo de 1775-Barèges, 27 de julio de 1837),​ conde de Cartagena,​ marqués de La Puerta, apodado el León de Sampayo o el Pacificador, fue un militar y marino español que se destacó en las guerras contra el Imperio británico y el Imperio napoleónico, así como en las guerras de independencia hispanoamericanas. Por su destacado desempeño en el campo de batalla, recibió las más altas condecoraciones militares de su tiempo.\nDurante su etapa en la Real Armada Española participó en distintos combates, entre los que destacan la batalla del Cabo de San Vicente y la de Trafalgar.\nSirvió también en el Ejército español participando en la guerra de Independencia española, en las dos batallas más importantes de su inicio y de su final: Bailén, la primera derrota napoleónica y Vitoria, que forzó la retirada de las tropas francesas de España. También fue decisiva su intervención en la reconquista de Vigo y la batalla de Puentesampayo, al dirigir el ejército que derrotó al mariscal Ney y obligó al ejército francés a evacuar Galicia. Ascendió rápidamente en su carrera militar durante la guerra de Independencia española: capitán el 22 de enero de 1809, coronel el 27 de abril del mismo año, brigadier general el 14 de marzo de 1811 y mariscal de campo el 3 de julio de 1813.​ Nombrado mariscal por su actuación en la Vitoria como jefe de la 1.ª división del IV Ejército,​ de la que estaba al mando desde el 20 de abril de 1812.​ \nParticipó en las guerras de independencia de Venezuela y Nueva Granada como jefe de la expedición encargada de sofocar la rebelión. El 14 de agosto de 1814 fue nombrado capitán general de Venezuela y general en jefe del ejército expedicionario.​ El 1 de abril de 1815 era ascendido a teniente general por su papel en la organización de la expedición pacificadora.​ El 2 de junio de 1815 fue reemplazado como capitán general interino por el brigadier José Ceballos.​ En su haber destacan la toma de Cartagena de Indias (1815) y las posteriores acciones militares que llevaron a la caída de las Provincias Unidas de la Nueva Granada, así como el restablecimiento del virreinato. Su papel durante la Reconquista de la Nueva Granada ha sido objeto de controversias historiográficas.  En Venezuela consiguió detener el avance de Simón Bolívar hacia Caracas tras vencerlo en la tercera batalla de La Puerta (1818). Con el posterior Tratado de Armisticio y Regularización de la Guerra de 1820 consiguió establecer una tregua y se abolió la guerra a muerte proclamada por Bolívar en 1813. El 14 de diciembre de 1820 renuncia al mando supremo de las fuerzas realistas en Nueva Granada y Venezuela, siendo sucedido por el brigadier Miguel de la Torre.​ Parte a España 3 días después. El 4 de mayo de 1821, fue nombrado capitán general de Castilla la Nueva.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pablo-morillo.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pablo_Morillo",
+      "eventoIds": []
+    },
+    {
+      "id": "jose-serna",
+      "nombre": "José de la Serna",
+      "nacimiento": 1770,
+      "muerte": 1832.5,
+      "periodoRelevancia": [
+        1821,
+        1824
+      ],
+      "rol": "Último virrey del Perú",
+      "resumen": "José de la Serna y Martínez de Hinojosa, I conde de los Andes (Jerez de la Frontera, 1 de mayo de 1770 - Cádiz, 6 de julio de 1832), fue un noble, militar y administrador virreinal español que ostentó el cargo de virrey del Perú en la etapa final del Imperio español en América del Sur.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Retrato_del_conde_de_los_Andes.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_de_la_Serna",
+      "eventoIds": [
+        "batalla-ayacucho"
+      ]
+    },
+    {
+      "id": "mariano-osorio",
+      "nombre": "Mariano Osorio",
+      "nacimiento": 1776.9166666666667,
+      "muerte": 1819,
+      "periodoRelevancia": [
+        1814,
+        1818
+      ],
+      "rol": "Capitán general de Chile",
+      "resumen": "Mariano Osorio Pardo​ (Sevilla, España, 1777-La Habana, Capitanía General de Cuba, 1819) fue un militar español, poeta y gobernador de la Corona Española en la Gobernación de Chile. Es una de las figuras fundamentales de la Independencia de Chile y sobre todo del periodo de la Reconquista española, dado que fue el comandante de las fuerzas leales a España que triunfaron en la Batalla de Rancagua y Batalla de Cancha Rayada (1818). Fue el penúltimo Gobernador español entre 1814 y 1816.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/2/23/MarianoOsorio_%28cropped%29.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Mariano_Osorio",
+      "eventoIds": [
+        "batalla-chacabuco"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-boyaca",
+      "titulo": "Batalla de Boyacá",
+      "tipo": "batalla",
+      "fecha": 1819.65,
+      "coordenadas": [
+        -73.36,
+        5.46
+      ],
+      "resumen": "La batalla de Boyacá o  batalla del puente de Boyacá fue la confrontación más importante de la guerra de independencia de Colombia que garantizó el éxito de la Campaña Libertadora de Nueva Granada. Este acontecimiento tuvo lugar el día 7 de agosto de 1819 en el cruce del río Teatinos, en inmediaciones de Tunja. La batalla finaliza  con la rendición en masa de la división realista, y fue la culminación de 78 días de  campaña iniciada desde Venezuela para liberar la Nueva Granada.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Batalla_de_Boyaca_de_Martin_Tovar_y_Tovar.jpg/960px-Batalla_de_Boyaca_de_Martin_Tovar_y_Tovar.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Boyac%C3%A1",
+      "personajeIds": [],
+      "rutaId": "campanas-bolivar"
+    },
+    {
+      "id": "batalla-carabobo",
+      "titulo": "Batalla de Carabobo",
+      "tipo": "batalla",
+      "fecha": 1821.48,
+      "coordenadas": [
+        -67.95,
+        10.21
+      ],
+      "resumen": "Batalla de Carabobo puede estar haciendo referencia a:\n\nBatalla de Carabobo (1814), primera batalla de Carabobo.\nBatalla de Carabobo (1821), segunda batalla de Carabobo.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Carabobo",
+      "personajeIds": [],
+      "rutaId": "campanas-bolivar"
+    },
+    {
+      "id": "batalla-pichincha",
+      "titulo": "Batalla de Pichincha",
+      "tipo": "batalla",
+      "fecha": 1822.4,
+      "coordenadas": [
+        -78.55,
+        -0.18
+      ],
+      "resumen": "La batalla del Pichincha ocurrió el 24 de mayo de 1822 en las faldas del volcán Pichincha, cerca de la ciudad de Quito. Significó la independencia de la Real Audiencia de Quito (actual República del Ecuador) y su posterior unificación a la Gran Colombia.\nEl encuentro, que ocurrió en el contexto de las guerras de independencia hispanoamericanas, enfrentó al ejército independentista unido bajo el mando del general de brigada venezolano Antonio José de Sucre, conformado: por una División la de Gran Colombia, la División del Sur (actual Ecuador) y otra División peruana bajo el mando de Andrés de Santa Cruz, coronel del ejército del Perú, contra el ejército realista comandado por el comandante Melchor Aymerich. La derrota de las fuerzas españolas condujo a la liberación de Quito y aseguró la anexión de las provincias que pertenecían a la Real Audiencia de Quito, también conocida como la Presidencia de Quito, a la Gran Colombia y de la jurisdicción administrativa colombiana finalmente emergió la que hoy conocemos como República del Ecuador.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Batalladepichincha.jpg/960px-Batalladepichincha.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Pichincha",
+      "personajeIds": [],
+      "rutaId": "campanas-bolivar"
+    },
+    {
+      "id": "batalla-chacabuco",
+      "titulo": "Batalla de Chacabuco",
+      "tipo": "batalla",
+      "fecha": 1817.13,
+      "coordenadas": [
+        -70.65,
+        -33.05
+      ],
+      "resumen": "La batalla de Chacabuco fue una decisiva contienda de la Independencia de Chile en la cual combatieron el Ejército de los Andes, formado por tropas de las Provincias Unidas del Río de la Plata y chilenas exiliadas en Mendoza, y el Ejército Realista, resultando en una firme victoria para el bando independentista comandado por el general José de San Martín. La batalla tuvo lugar el 12 de febrero de 1817, en la Hacienda de Chacabuco (Colina), a 55 km al norte de la ciudad de Santiago",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Batalla_de_Chacabuco_-_Pedro_Subercaseaux_%28cropped%29.jpg/960px-Batalla_de_Chacabuco_-_Pedro_Subercaseaux_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Chacabuco",
+      "personajeIds": [
+        "mariano-osorio"
+      ],
+      "rutaId": "campanas-san-martin"
+    },
+    {
+      "id": "batalla-maipu",
+      "titulo": "Batalla de Maipú",
+      "tipo": "batalla",
+      "fecha": 1818.32,
+      "coordenadas": [
+        -70.75,
+        -33.52
+      ],
+      "resumen": "La batalla de Maipú, también conocida como batalla de Maipo, fue un enfrentamiento armado decisivo dentro del contexto de la guerra de la Independencia de Chile. Tuvo lugar el 5 de abril de 1818 en el sector conocido como Cerrillos del Maipo, al poniente de la ciudad de Santiago, donde se enfrentaron las fuerzas patriotas del Ejército Unido Libertador de Chile –formado por las tropas rioplatenses (de la actual Argentina) y chilenas– al mando del general José de San Martín, contra el ejército realista al mando del general Mariano Osorio, compuesto por expedicionarios del Virreinato del Perú y de España, así como por tropas de la Capitanía General de Chile.\nEs considerada uno de los enfrentamientos más decisivos de la guerra de la Independencia de Chile y un hito fundamental en la consolidación del proceso emancipador del Cono Sur.​ Su victoria aseguró la independencia de Chile y permitió al Ejército Unido (luego Ejército Libertador del Perú) continuar con las campañas libertadoras hacia el Virreinato del Perú. Además, tuvo un profundo significado simbólico y político, consolidando la figura del general José de San Martín como uno de los líderes más influyentes del proceso independentista sudamericano.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/1/17/BatallaDeMaipu.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Maip%C3%BA",
+      "personajeIds": [],
+      "rutaId": "campanas-san-martin"
+    },
+    {
+      "id": "batalla-ayacucho",
+      "titulo": "Batalla de Ayacucho",
+      "tipo": "batalla",
+      "fecha": 1824.83,
+      "coordenadas": [
+        -74.13,
+        -13.42
+      ],
+      "resumen": "La batalla de Ayacucho representó el enfrentamiento más grande e importante de las campañas finales de las guerras de independencia hispanoamericanas, librada entre los ejércitos de las repúblicas de Perú y Colombia y el del Reino de España. En esta campaña militar se consolidó la independencia de la República del Perú y de los nuevos estados sudamericanos de habla hispana.\nLa batalla se desarrolló en la Pampa de Quinua, a una altitud de 3400 m.s.n.m., y a 37 kilómetros de la ciudad de Ayacucho, Perú, el 9 de diciembre de 1824.​ \nLa victoria de los patriotas supuso la desaparición del contingente militar realista más importante que seguía en pie. El Ejército Real del Perú fue derrotado tras recibir la orden de combatir desde una posición militar completamente inadecuada: el cerro Condorcunca.​Este evento suele ser considerado el final de las guerras de independencia en América del Sur.​​​   \nLa capitulación del virrey del Perú selló la independencia del Perú de forma definitiva. La Armada española abandonó la zona de conflicto según lo pactado. Los últimos bastiones realistas se rendirán sucesivamente a partir de entonces. En 1825 el Alto Perú en la campaña de Sucre y batalla de Tumusla. En 1826 caen la isla de Chiloé y la fortaleza del Real Felipe del Callao, que resistió un asedio durante 718 días. Se extinguió el foco de guerrillas en la guerra de Iquicha (1825-1828). En 1828, el Brigadier realista Francisco Javier de Aguilera lideró el último levantamiento, ocupando la ciudad de Vallegrande en Bolivia. En 1831, se rinde el caudillo José Dionisio Cisneros en Venezuela. En Chile, la montonera de los Hermanos Pincheira sería destruida definitivamente en 1832. Finalmente en 1833, tras la muerte del rey Fernando VII, el gobierno español abandonó definitivamente los planes de reconquista. Tres años después, en 1836, las Cortes españolas renunciaron formalmente a cualquier reivindicación sobre la América continental. El reconocimiento del Perú se obtuvo de facto en 1865 y el tratado definitivo se firmó en 1879.​​​​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Batalla_de_Ayacucho_by_Mart%C3%ADn_Tovar_y_Tovar_%281827_-_1902%29.jpg/960px-Batalla_de_Ayacucho_by_Mart%C3%ADn_Tovar_y_Tovar_%281827_-_1902%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Ayacucho",
+      "personajeIds": [
+        "jose-serna"
+      ],
+      "rutaId": "campanas-san-martin"
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,92 @@
+{
+  "personajes": [
+    {
+      "id": "alonso-lugo",
+      "nombre": "Alonso Fernández de Lugo",
+      "nacimiento": 1456,
+      "muerte": 1525.3333333333333,
+      "periodoRelevancia": [
+        1492,
+        1496
+      ],
+      "rol": "Adelantado y conquistador",
+      "resumen": "Alonso Fernández de Lugo (Sanlúcar de Barrameda, c. 1455-San Cristóbal de La Laguna, 20 de mayo de 1525) fue un hidalgo y conquistador castellano responsable de la incorporación de las islas de La Palma y Tenerife a la Corona de Castilla a finales del siglo XV.​\nParticipó en la conquista de Gran Canaria y capitaneó las de La Palma y Tenerife, de las que sería posteriormente gobernador vitalicio. También fue nombrado por los Reyes Católicos capitán general y gobernador de Berbería desde el cabo de Aguer hasta el de Bojador, y le concedieron el título honorífico de adelantado mayor de las islas Canarias.​\nFue el primer colonizador europeo de Agaete en Gran Canaria, así como el fundador de las ciudades de Santa Cruz de Tenerife y San Cristóbal de La Laguna, en Tenerife, y de Santa Cruz de La Palma y Tazacorte en La Palma.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/2/24/Alonso_Fern%C3%A1ndez_de_Lugo_%28Isidoro_Salcedo%2C_1868%29.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Alonso_Fern%C3%A1ndez_de_Lugo",
+      "eventoIds": [
+        "conquista-la-palma",
+        "conquista-tenerife"
+      ]
+    },
+    {
+      "id": "pedro-vera",
+      "nombre": "Pedro de Vera",
+      "nacimiento": 1429.9166666666667,
+      "muerte": 1505.5,
+      "periodoRelevancia": [
+        1480,
+        1483
+      ],
+      "rol": "Gobernador y conquistador",
+      "resumen": "Pedro de Vera (Jerez de la Frontera, c. 1430-Jerez de la Frontera, julio de 1505) fue un hidalgo y conquistador castellano que culminó la conquista de la isla de Gran Canaria en las islas Canarias para la Corona de Castilla y participó activamente en la guerra de Granada a finales del siglo XV.​\nDesempeñó numerosos e importantes cargos durante los reinados tanto de Enrique IV de Castilla como de los Reyes Católicos, siendo los principales los de alcaide de varias plazas andaluzas, así como los de regidor de su Jerez natal y gobernador de Gran Canaria.​​\nA Pedro de Vera se le atribuye asimismo el ser el creador del primer concejo de realengo que se formó fuera de la península ibérica, y que serviría de base para los que se crearían en los territorios castellanos de ultramar.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pedro_de_Vera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_de_Vera",
+      "eventoIds": [
+        "conquista-gran-canaria"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "conquista-gran-canaria",
+      "titulo": "Conquista de Gran Canaria",
+      "tipo": "batalla",
+      "fecha": 1483.29,
+      "coordenadas": [
+        -15.58,
+        28.1
+      ],
+      "resumen": "La conquista de Gran Canaria fue un proceso histórico que tuvo lugar entre 1478 y 1483 durante el cual la isla de Gran Canaria, en el archipiélago atlántico de Canarias, fue incorporada a la Corona de Castilla mediante una ocupación militar del territorio habitado por los aborígenes canarios. Fue la primera de la denominada etapa realenga de la conquista de las islas Canarias, pues fue promovida y financiada directamente por los Reyes Católicos. Asimismo, formó parte en sus inicios de los conflictos habidos entre Castilla y Portugal durante la guerra de sucesión castellana.\nLa conquista duró casi cinco años debido tanto a la resistencia de los aborígenes, quienes se aprovecharon de la difícil orografía insular, como a las disensiones que se produjeron entre los conquistadores y la falta de refuerzos.​ Se distinguen dos fases principales: una primera entre 1478 y 1480 caracterizada por el estancamiento del proceso debido a los problemas internos entre la hueste conquistadora, y una segunda, entre 1480 y 1483, en que bajo el mando único del gobernador Pedro de Vera se intensificó la presión sobre los canarios.​\nComo resultado de la victoria castellana la isla pasó a formar parte de la Corona de Castilla, fue progresivamente colonizada por pobladores europeos y la cultura aborigen desapareció. Los antiguos canarios fueron en parte expatriados y en parte incorporados a la nueva sociedad.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Parlamento_04.jpg/960px-Parlamento_04.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Conquista_de_Gran_Canaria",
+      "personajeIds": [
+        "pedro-vera"
+      ],
+      "rutaId": "conquista-canarias"
+    },
+    {
+      "id": "conquista-la-palma",
+      "titulo": "Conquista de La Palma",
+      "tipo": "batalla",
+      "fecha": 1493.4,
+      "coordenadas": [
+        -17.92,
+        28.68
+      ],
+      "resumen": "La conquista de La Palma fue el proceso histórico por el cual la isla de La Palma, en el archipiélago de Canarias ―España―, fue incorporada a la corona de Castilla mediante la toma militar del territorio habitado por los aborígenes benahoaritas. Fue una empresa particular dirigida por el capitán andaluz Alonso Fernández de Lugo con el patrocinio de los Reyes Católicos y se desarrolló entre 1492 y 1493.\nLos derechos de conquista pertenecían a la Corona, por lo que la de La Palma se encuadra en la denominada etapa realenga de la conquista de las islas Canarias. Fue la penúltima isla del archipiélago en ser incorporada a Castilla, tras Gran Canaria (1478-1483) y justo antes de Tenerife (1494-1496).\nLa conquista fue breve, pues duró siete meses desde el primer desembarco hasta la rendición de los últimos focos de resistencia. La rapidez de la campaña se debió principalmente a la existencia de pactos previos de los castellanos con varios bandos aborígenes, que aceptaron convertirse al cristianismo y reconocer la autoridad de los reyes de Castilla. La resistencia aborigen fue escasa y se concentró en el bando de Aceró, cuyo caudillo Tanausú se negó a someterse a los conquistadores. Finalmente su captura por parte de Alonso de Lugo puso fin oficial a la conquista.\nLa victoria castellana provocó que la isla pasara a ser territorio de realengo bajo la gobernación de Alonso de Lugo, iniciándose su repoblación. Por su parte, la cultura aborigen colapsó y los supervivientes fueron integrándose poco a poco en la nueva sociedad.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Conquista_de_La_Palma",
+      "personajeIds": [
+        "alonso-lugo"
+      ],
+      "rutaId": "conquista-canarias"
+    },
+    {
+      "id": "conquista-tenerife",
+      "titulo": "Conquista de Tenerife",
+      "tipo": "batalla",
+      "fecha": 1496.6,
+      "coordenadas": [
+        -16.25,
+        28.47
+      ],
+      "resumen": "La conquista de Tenerife fue el proceso histórico por el cual la isla de Tenerife, en el archipiélago atlántico africano de Canarias ―España―, fue incorporada a la corona de Castilla entre 1494 y 1496 mediante la ocupación militar del territorio habitado por los aborígenes guanches. La llevó a cabo de manera particular el capitán andaluz Alonso Fernández de Lugo con la autorización de los Reyes Católicos, a quienes pertenecían los derechos de conquista.\nFue la última isla canaria en ser conquistada, justo después de la de La Palma (1492-1493), formando parte de la denominada etapa realenga de la conquista de Canarias pues fue asumida por los reyes de Castilla.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/e/eb/AcentejoBattle.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Conquista_de_Tenerife",
+      "personajeIds": [
+        "alonso-lugo"
+      ],
+      "rutaId": "conquista-canarias"
+    }
+  ],
+  "avisos": []
+}

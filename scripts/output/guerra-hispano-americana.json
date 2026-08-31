@@ -1,0 +1,71 @@
+{
+  "personajes": [
+    {
+      "id": "cervera",
+      "nombre": "Pascual Cervera y Topete",
+      "nacimiento": 1839.0833333333333,
+      "muerte": 1909.25,
+      "periodoRelevancia": [
+        1898,
+        1898
+      ],
+      "rol": "Almirante de la Armada",
+      "resumen": "Pascual Cervera y Topete (Medina Sidonia, 18 de febrero de 1839-Puerto Real, 3 de abril de 1909) fue un destacado almirante de la Armada de España.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Almirante_cervera.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pascual_Cervera_y_Topete",
+      "eventoIds": [
+        "batalla-santiago-cuba"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-cavite",
+      "titulo": "Batalla de Cavite",
+      "tipo": "batalla",
+      "fecha": 1898.36,
+      "coordenadas": [
+        120.9,
+        14.5
+      ],
+      "resumen": "La batalla de Cavite, llamado en los Estados Unidos como batalla de la Bahía de Manila,​ fue el enfrentamiento entre fuerzas navales estadounidenses y españolas ocurrido el 1 de mayo de 1898 en la bahía de Manila en el contexto de la guerra hispano-estadounidense.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/GuerraHispanoamericanaCombateDeCavite18980501.jpg/960px-GuerraHispanoamericanaCombateDeCavite18980501.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Cavite",
+      "personajeIds": [],
+      "rutaId": "guerra-hispano-americana"
+    },
+    {
+      "id": "batalla-santiago-cuba",
+      "titulo": "Batalla naval de Santiago de Cuba",
+      "tipo": "batalla",
+      "fecha": 1898.53,
+      "coordenadas": [
+        -75.82,
+        19.98
+      ],
+      "resumen": "La batalla naval de Santiago de Cuba tuvo lugar el 3 de julio de 1898 a la salida de la bahía de Santiago de Cuba durante la guerra hispano-estadounidense.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Combate_en_Santiago_de_Cuba%2C_1898.jpg/960px-Combate_en_Santiago_de_Cuba%2C_1898.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_naval_de_Santiago_de_Cuba",
+      "personajeIds": [
+        "cervera"
+      ],
+      "rutaId": "guerra-hispano-americana"
+    },
+    {
+      "id": "tratado-paris-1898",
+      "titulo": "Tratado de París (1898)",
+      "tipo": "tratado",
+      "fecha": 1898.9,
+      "coordenadas": [
+        2.35,
+        48.86
+      ],
+      "resumen": "El Tratado de París, firmado el 10 de diciembre de 1898, dio por finalizada la guerra hispano-estadounidense y por él España abandonó sus demandas sobre Cuba, Puerto Rico, Filipinas y Guam. Cuba declaró su independencia en 1902 pero se mantuvo bajo influencia dominante estadounidense por medio de la Enmienda Platt y otros tratados hasta la revolución comunista liderada por Fidel Castro en 1959. Filipinas fue oficialmente entregada a los Estados Unidos por veinte millones de dólares y se mantuvo bajo autoridad directa estadounidense como territorio hasta el establecimiento de la Mancomunidad Filipina en 1935, que terminó con la independencia de las islas con el Tratado de Manila en 1946. Puerto Rico quedó bajo el control directo político y la autoridad de los Estados Unidos para ser territorio estadounidense,​ logrando el establecimiento de un gobierno civil electo y la ciudadanía estadounidense con las leyes de Foraker en 1900 y Jones-Shafroth en 1917. Puerto Rico retuvo su estado político de territorio estadounidense no incorporado con el establecimiento del estado libre asociado en 1950. Al igual que Puerto Rico, Guam pasó a ser un territorio estadounidense no incorporado en 1950.\nAunque durante las negociaciones España intentó incluir numerosas enmiendas, finalmente no tuvo más remedio que aceptar todas y cada una de las imposiciones estadounidenses, puesto que había perdido la guerra y era consciente de que el superior poderío armamentístico estadounidense podría poner en peligro otras posesiones españolas en Europa y África.\nEl tratado se firmó sin la presencia de los representantes de los territorios traspasados a Estados Unidos, lo que provocó un gran descontento entre la población de los mismos, especialmente en el caso de Filipinas, que acabaría enfrentándose contra los Estados Unidos en la guerra filipino-estadounidense.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Kurz_and_Allison%2C_Spanish-American_Treaty_of_Peace%2C_Paris_1898.jpg/960px-Kurz_and_Allison%2C_Spanish-American_Treaty_of_Peace%2C_Paris_1898.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Tratado_de_Par%C3%ADs_(1898)",
+      "personajeIds": [],
+      "rutaId": "guerra-hispano-americana"
+    }
+  ],
+  "avisos": []
+}

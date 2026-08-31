@@ -1,0 +1,74 @@
+{
+  "personajes": [
+    {
+      "id": "iturbide",
+      "nombre": "Agustín de Iturbide",
+      "nacimiento": 1783.6666666666667,
+      "muerte": 1824.5,
+      "periodoRelevancia": [
+        1820,
+        1824
+      ],
+      "rol": "General, artífice de la independencia",
+      "resumen": "Agustín Cosme Damián de Iturbide y Arámburu (Valladolid, Nueva España, 27 de septiembre de 1783-Padilla, México, 19 de julio de 1824) fue un militar novohispano. Su padre, José Joaquín de Itúrbide,​ había nacido en la villa de Peralta perteneciente en lo que en aquel tiempo era el Reino de Navarra, y su madre, María Josefa de Aramburu, nacida en Valladolid, ciudad del Virreinato de Nueva España, descendia de Oyarzun (Guipúzcoa),​ por este motivo en 1821 escribió \"soy navarro y vizcaíno\".​ ​ Consumó la independencia de México con el Plan de Iguala y los Tratados de Córdoba, creando la bandera y el ejército nacional, quien tras ser proclamado como Emperador de México por el Congreso Constituyente, gobernó entre el 19 de mayo de 1822 y el 19 de marzo de 1823​ bajo el título de Agustín I de México.\nDurante las primeras cuatro etapas de la guerra de la Independencia de México, Iturbide militó en el Ejército realista combatiendo a los insurgentes; durante el marco del trienio liberal en España, fue designado comandante para combatir a Vicente Guerrero, jefe de los rebeldes en la Sierra Madre del Sur. En febrero de 1821 se unió al bando insurgente con el Abrazo de Acatempan y promulgando el Plan de Iguala en que ambos bandos se unían para formar el Ejército Trigarante, y ofrecer la corona de México a los Borbones.​ En agosto del mismo año firmó los Tratados de Córdoba con Juan O'Donojú y tras la entrada del Ejército Trigarante a la Ciudad de México el 27 de septiembre de 1821 se consumó la Independencia.\nPresidió la regencia del Imperio Mexicano. Logró formar una coalición de conservadores y liberales, y el 18 de mayo de 1822 fue aclamado emperador en las calles de la capital por el ejército y la población. El Congreso al día siguiente, el 19 de mayo, lo proclamó formalmente para jurar su investidura solemne el 22 de mayo siguiente,​ y fue coronado dos meses más tarde, el 21 de julio de 1822, con el nombre de Agustín I. Sin embargo, pocas semanas después de su coronación mandó encarcelar a diecinueve miembros del Congreso y a varios oficiales del ejército (Bazant, 1985, p. 428). La hostilidad de sus adversarios lo llevó a cerrar el Congreso el 31 de octubre de ese mismo año.​ En diciembre de 1822, Antonio López de Santa Anna proclamó el Plan de Veracruz, lo que provocó que los antiguos insurgentes de ideas republicanas e inconformes con el régimen imperial se levantaran en armas.\nEn febrero de 1823 se firmó el Plan de Casa Mata, como resultado del cual los borbonistas y republicanos unieron sus fuerzas para apoyar el derrocamiento de Iturbide. El emperador, enfrentado a la rebelión republicana de las fuerzas armadas, se vio obligado a abdicar el 19 de marzo de 1823​ y debió exiliarse en Europa. Durante su ausencia, el Congreso Mexicano, previamente reinstalado por Agustín I, lo declaró «traidor y fuera de la ley en caso de que se presente en el territorio mexicano, declarándolo como enemigo público del Estado, y a todo aquel que le ayude a su regreso». Iturbide, sin conocer esta resolución, regresó a México en julio de 1824 para advertir al gobierno sobre una conspiración para reconquistar México. Al desembarcar en Tamaulipas fue arrestado y posteriormente ejecutado por un pelotón de fusilamiento.\nEn 1838, sus restos mortales fueron trasladados a la Ciudad de México e inhumados con honores en la Capilla de San Felipe de Jesús en la catedral Metropolitana, donde se exhiben en una urna de cristal. Su nombre en asociación con la bandera nacional, fue conservado durante mucho tiempo en una estrofa de la letra original del Himno Nacional de México, la cual fue suprimida en 1943. Paradójicamente, el sable que utilizó Iturbide durante el desfile de entrada del Ejército Trigarante a Ciudad de México, fue colocado en el salón del Congreso junto con los nombres escritos en letras de oro de los insurgentes a quienes había combatido.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Agustin_I_of_Mexico.jpg/960px-Agustin_I_of_Mexico.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide",
+      "eventoIds": [
+        "plan-iguala",
+        "tratados-cordoba"
+      ]
+    },
+    {
+      "id": "virrey-apodaca",
+      "nombre": "Juan José Ruiz de Apodaca y Eliza",
+      "nacimiento": 1754.0833333333333,
+      "muerte": 1835,
+      "periodoRelevancia": [
+        1816,
+        1821
+      ],
+      "rol": "Virrey de Nueva España",
+      "resumen": "Juan José Ruiz de Apodaca y Eliza  (Cádiz, 3 de febrero de 1754 – Madrid, 11 de enero de 1835), I conde de Venadito, fue un marino y gobernante español, capitán general de la Real Armada Española, consejero de Estado y prócer del Reino,​ último virrey de la Nueva España (1816-1820), luego jefe político superior de la Nueva España (1820-1821), virrey del Reino de Navarra (1824-1826), gobernador y capitán general de Cuba, Florida y Puerto Rico (1812-1816), embajador de España en el Reino Unido, etcétera.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/JuanRuizdeApodaca.jpg/960px-JuanRuizdeApodaca.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_Jos%C3%A9_Ruiz_de_Apodaca_y_Eliza",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [
+    {
+      "id": "plan-iguala",
+      "titulo": "Plan de Iguala",
+      "tipo": "tratado",
+      "fecha": 1821.16,
+      "coordenadas": [
+        -99.53,
+        18.35
+      ],
+      "resumen": "El Plan de Iguala o Plan de Independencia de la América Septentrional​ fue un documento político proclamado por Agustín de Iturbide y Vicente Guerrero el 24 de febrero de 1821 en la ciudad de Iguala; en el cual se declaraba a la Nueva España como país soberano e independiente.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/4/49/Plan_de_Iguala_foja_1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Plan_de_Iguala",
+      "personajeIds": [
+        "iturbide"
+      ],
+      "rutaId": "independencia-mexico"
+    },
+    {
+      "id": "tratados-cordoba",
+      "titulo": "Tratados de Córdoba",
+      "tipo": "tratado",
+      "fecha": 1821.65,
+      "coordenadas": [
+        -96.93,
+        18.89
+      ],
+      "resumen": "Los Tratados de Córdoba es un documento en el que se acuerda la Independencia de México y la retirada de las tropas españolas de la capital del país, firmado en la ciudad de Córdoba, Veracruz, el 24 de agosto de 1821, por Agustín de Iturbide (comandante del Ejército Trigarante) y por Juan O'Donojú (jefe político superior de la Provincia de Nueva España), días después de la batalla de Azcapotzalco. El texto está compuesto por diecisiete artículos que representan una extensión al Plan de Iguala.​ Dicho acuerdo fue rechazado por el gobierno de España. El reconocimiento de la independencia mexicana ocurre mediante otro acuerdo, del 28 de diciembre de 1836, el «Tratado de paz y amistad entre México y España».",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tratados_de_C%C3%B3rdoba.JPG/960px-Tratados_de_C%C3%B3rdoba.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Tratados_de_C%C3%B3rdoba",
+      "personajeIds": [
+        "iturbide"
+      ],
+      "rutaId": "independencia-mexico"
+    }
+  ],
+  "avisos": []
+}

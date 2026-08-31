@@ -1,0 +1,36 @@
+{
+  "personajes": [
+    {
+      "id": "alonso-ojeda",
+      "titulo": "Alonso de Ojeda",
+      "rol": "Gobernador de Nueva Andalucía",
+      "periodoRelevancia": [1509, 1511]
+    },
+    {
+      "id": "diego-nicuesa",
+      "titulo": "Diego de Nicuesa",
+      "rol": "Gobernador de Castilla de Oro",
+      "periodoRelevancia": [1509, 1511]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-san-sebastian-uraba",
+      "titulo": "San Sebastián de Urabá",
+      "tipo": "fundacion",
+      "fechaAprox": 1509.85,
+      "coordenadas": [-77.35, 8.65],
+      "personajeIds": ["alonso-ojeda"],
+      "rutaId": "tierra-firme-ojeda-nicuesa"
+    },
+    {
+      "id": "fundacion-santa-maria-darien",
+      "titulo": "Santa María la Antigua del Darién",
+      "tipo": "fundacion",
+      "fechaAprox": 1510.75,
+      "coordenadas": [-77.13, 8.13],
+      "personajeIds": ["alonso-ojeda"],
+      "rutaId": "tierra-firme-ojeda-nicuesa"
+    }
+  ]
+}

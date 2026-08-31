@@ -1,0 +1,14 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "ejecucion-egmont-horn",
+      "titulo": "Guerra de los Ochenta Años",
+      "tipo": "rebelion",
+      "fechaAprox": 1568.42,
+      "coordenadas": [4.35, 50.85],
+      "personajeIds": ["duque-alba"],
+      "rutaId": "guerra-flandes"
+    }
+  ]
+}

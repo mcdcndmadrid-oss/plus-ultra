@@ -1,0 +1,21 @@
+{
+  "personajes": [
+    {
+      "id": "juan-austria",
+      "titulo": "Juan de Austria",
+      "rol": "Capitán general de la Liga Santa",
+      "periodoRelevancia": [1571, 1578]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-lepanto",
+      "titulo": "Batalla de Lepanto",
+      "tipo": "batalla",
+      "fechaAprox": 1571.77,
+      "coordenadas": [21.13, 38.31],
+      "personajeIds": ["juan-austria"],
+      "rutaId": "lepanto"
+    }
+  ]
+}

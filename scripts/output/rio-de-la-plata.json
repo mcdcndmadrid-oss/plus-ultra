@@ -1,0 +1,21 @@
+{
+  "personajes": [
+    {
+      "id": "pedro-mendoza",
+      "nombre": "Pedro de Mendoza",
+      "nacimiento": 1487,
+      "muerte": 1537.4166666666667,
+      "periodoRelevancia": [
+        1536,
+        1537
+      ],
+      "rol": "Adelantado del Río de la Plata",
+      "resumen": "Pedro de Mendoza y Luján (Guadix, Granada, 1499​-océano Atlántico, cerca de las Canarias, 23 de junio de 1537) fue un militar de familia noble, caballero de Alcántara desde 1524, almirante​ y conquistador español, nombrado por el emperador Carlos V como el primer adelantado del Río de la Plata y como gobernador de la Nueva Andalucía.​\nUna vez en Sudamérica y llegado a la margen occidental del Río de la Plata, sin cumplir las formalidades que implicarían la \"fundación\" de una ciudad, estableció un fuerte que se considera la primigenia urbe rioplatense-paraguaya —si bien Gaboto había hecho lo propio aguas arriba casi diez años antes en Santo Espíritu, otro asentamiento que tuvo una vida breve— aproximadamente en la misma ubicación donde Juan de Garay más tarde, en 1580, fundaría la \"Ciudad de la Trinidad\", que por eso fue conocida tradicionalmente como Buenos Aires. Este poblado original establecido el 3 de febrero de 1536 tropezaría con inconvenientes vitales desde el principio y se terminaría de extinguir en cinco años.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Guadix_-_Monumento_a_Pedro_de_Mendoza.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_de_Mendoza",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [],
+  "avisos": []
+}

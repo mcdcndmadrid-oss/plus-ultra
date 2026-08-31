@@ -1,0 +1,154 @@
+{
+  "personajes": [
+    {
+      "id": "juan-garay",
+      "nombre": "Juan de Garay",
+      "nacimiento": 1528,
+      "muerte": 1583,
+      "periodoRelevancia": [
+        1573,
+        1583
+      ],
+      "rol": "Conquistador, refundador de Buenos Aires",
+      "resumen": "Juan de Garay (1528-1583) fue un explorador, conquistador y gobernante virreinal español \nque tuvo un importante papel en la organización de la parte atlántica de Sudamérica, conocido por su actuación en la gobernación del Río de la Plata y del Paraguay por haber sido el fundador de la ciudad de Santa Fe en 1573 en su primera ubicación, por lo cual fue asignado al año siguiente como su teniente de gobernador, para convertirse en 1577 en el teniente de gobernador general de Asunción. Al ser ya gobernador del territorio desde el año 1578, fundó la ciudad de Buenos Aires en 1580 con el nombre de Ciudad de la Trinidad, en el lugar donde en 1536 Pedro de Mendoza había instalado —sin ninguna formalidad correspondiente a una «fundación» para el criterio español— un fuerte, de efímera vida, con el nombre de Real de Nuestra Señora Santa María del Buen Ayre.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/1/11/Garay.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_de_Garay",
+      "eventoIds": []
+    },
+    {
+      "id": "menendez-aviles",
+      "nombre": "Pedro Menéndez de Avilés",
+      "nacimiento": 1519.0833333333333,
+      "muerte": 1574.6666666666667,
+      "periodoRelevancia": [
+        1565,
+        1574
+      ],
+      "rol": "Adelantado de la Florida",
+      "resumen": "Pedro Menéndez de Avilés (Avilés, 15 de febrero de 1519 - Santander, 16 de septiembre de 1574) fue un militar y marino español y gobernante de Indias. En 1565 reconquistó la Florida, tras destruir Fort Caroline y otros asentamientos de hugonotes franceses que la ocupaban, y fundó la ciudad de San Agustín. Gobernó dicha provincia con título de adelantado mayor perpetuo, y también fue gobernador de la isla de Cuba entre 1567 y 1574.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/4/47/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s",
+      "eventoIds": [
+        "fundacion-san-agustin"
+      ]
+    },
+    {
+      "id": "francisco-orellana",
+      "nombre": "Francisco de Orellana",
+      "nacimiento": 1511,
+      "muerte": 1546,
+      "periodoRelevancia": [
+        1541,
+        1546
+      ],
+      "rol": "Explorador",
+      "resumen": "Francisco de Orellana (Trujillo, Cáceres; 1511-cerca del Río Amazonas, noviembre de 1546) fue un explorador, conquistador y adelantado español en la época del descubrimiento de América. Participó en la conquista del Imperio Inca y, en lo posterior, fue nombrado teniente gobernador en diversas poblaciones. Se lo consideró como uno de los conquistadores más ricos de la época. \nEn 1535 participó en la fundación de Puerto Viejo donde desempeñó los cargos de regidor, alcalde ordinario además de teniente gobernador y uno de los primeros vecinos. En 1537 refundó la ciudad de Guayaquil, que había sido destruida por los indígenas nativos en varias ocasiones y reubicada por diferentes colonizadores españoles. Al año siguiente recibió el título de teniente de gobernador de Guayaquil. Después de terminar la reconstrucción de la ciudad partió hacia Quito y, junto a Gonzalo Pizarro, organizó una expedición que terminaría con el descubrimiento del río Amazonas el 12 de febrero de 1542.\nTras sobrevivir a la travesía del viaje por la Amazonia, partió de regreso a España donde fue acusado de traición por cargos presentados por Pizarro. Tras ser absuelto, organizó otra expedición, pero no contó con el capital ni con la aprobación necesarias. Por esta razón, se dedicó a la piratería y se dirigió nuevamente al Amazonas, donde junto a la mayor parte de su tripulación fallecieron sin ubicación específica a lo largo del río.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Francisco_de_Orellana_Portrait.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Francisco_de_Orellana",
+      "eventoIds": [
+        "descubrimiento-amazonas"
+      ]
+    },
+    {
+      "id": "blas-de-lezo",
+      "nombre": "Blas de Lezo",
+      "nacimiento": 1689.0833333333333,
+      "muerte": 1741.6666666666667,
+      "periodoRelevancia": [
+        1737,
+        1741
+      ],
+      "rol": "Almirante",
+      "resumen": "Blas de Lezo y Olavarrieta​ (Pasajes, Guipúzcoa, España; 3 de febrero de 1689-Cartagena de Indias, Nueva Granada, Imperio Español; 7 de septiembre de 1741) fue un oficial de marina español. Su carrera cubrió la guerra de sucesión española, los conflictos hispano-otomanos y la guerra del Asiento.\nConocido por la singular estampa que le dieron sus numerosas heridas de guerra (tuerto, manco —un brazo inmovilizado— y cojo —una pierna amputada—),​​ es considerado uno de los mejores estrategas de la historia de la Armada española.​ Destacó por dirigir, junto con el virrey Sebastián de Eslava, la exitosa defensa de Cartagena de Indias durante el asedio británico de 1741. Fue así mismo cofundador de la Compañía de Armadores en Corso de Cartagena de Indias, promotora del prolífico sistema de corsarios españoles conocidos como guardacostas.​\nComo homenaje póstumo por sus servicios, se otorgó a sus descendientes el marquesado de Ovieco, título nobiliario que aún existe en la actualidad.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Don_Blas_de_Lezo_-Museo_Naval-.jpg/960px-Don_Blas_de_Lezo_-Museo_Naval-.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Blas_de_Lezo",
+      "eventoIds": [
+        "sitio-cartagena-1741"
+      ]
+    },
+    {
+      "id": "bernardo-galvez",
+      "nombre": "Bernardo de Gálvez",
+      "nacimiento": 1746.5,
+      "muerte": 1786.8333333333333,
+      "periodoRelevancia": [
+        1776,
+        1786
+      ],
+      "rol": "General y gobernador de Luisiana",
+      "resumen": "Bernardo Vicente de Gálvez Gallardo y Madrid, i conde de Gálvez  (Macharaviaya, provincia de Málaga, España; 23 de julio de 1746-Tacubaya; Ciudad de México, Virreinato de Nueva España, Imperio Español 30 de noviembre de 1786) fue un militar y político español, héroe de Pensacola, virrey de Nueva España y, a título póstumo, ciudadano honorífico estadounidense.​​\nSu fecha de nacimiento se celebra como el \"Día de Gálvez\" en varias ciudades de Estados Unidos. Sus importantes contribuciones a la independencia de las Trece Colonias de Norteamérica respecto a Reino Unido han sido reconocidas por varios grupos importantes, pero aún quedan fuera de la mayoría de los libros de texto.\nEn 1762, participó en la invasión de Portugal, campaña de la guerra de los Siete Años.​ Lo hizo en una unidad selecta franco-española, el Regimiento Royal-Cantabres, donde adquirió el dominio del francés, muy útil en su carrera posterior.​\nEn 1764 marchó a América, donde pasó los siguientes ocho años.​ Luchó contra los apaches en la frontera norte del Virreinato de Nueva España.​ De vuelta en Europa, tomó parte en el fallido desembarco de Argel de 1775.​\nSiendo gobernador de Luisiana, participó en la guerra de Independencia de los Estados Unidos con una serie de afortunadas incursiones contra los británicos (1779-1781) que le permitieron expulsarlos de la Florida Occidental.​ En su carrera contó con el importante apoyo de su poderoso tío, el ministro de Indias José de Gálvez y Gallardo.​ En 1784, se le concedió el título de Conde. \nPasó sus últimos años como virrey de Nueva España, donde tuvo que afrontar una terrible hambruna debida a las malas cosechas.​ Comenzó las obras del Palacio de Chapultepec (hoy Museo Nacional de Historia de México).​\nFue nombrado ciudadano honorífico de los Estados Unidos por el presidente Barack Obama por su contribución a la derrota inglesa y su participación activa en favor del Ejército Continental. Hoy su retrato figura con los del resto en la sala de fundadores del Congreso de los Estados Unidos.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bernardo_de_G%C3%A1lvez.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Bernardo_de_G%C3%A1lvez",
+      "eventoIds": []
+    },
+    {
+      "id": "francisco-toledo",
+      "nombre": "Francisco de Toledo",
+      "nacimiento": 1515.5,
+      "muerte": 1582.25,
+      "periodoRelevancia": [
+        1569,
+        1581
+      ],
+      "rol": "Virrey del Perú",
+      "resumen": "Francisco Álvarez de Toledo (Oropesa, 10 de julio de 1515-Escalona, 21 de abril de 1582), más conocido como Francisco de Toledo y apodado «el Solón virreinal»,​ fue un aristócrata y militar de la Corona de Castilla. Se desempeñó como quinto virrey del Perú entre el 30 de noviembre de 1569 hasta el 1 de mayo de 1581.\nEs considerado por gran parte de la historiografía como uno de los virreyes más importantes del Perú, y ha sido elogiado como el «supremo organizador» del virreinato por haberle dotado de una estructura administrativa y legal duradera, así como consolidar diversas instituciones indianas.​Sin embargo, otros autores han cuestionado su gobierno, especialmente por sus políticas hacia la población indígena, entre ellas la reorganización de la mita minera y la ejecución del último inca de Vilcabamba, Túpac Amaru I.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/8/83/Francisco_de_Toledo_Virrey.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Francisco_de_Toledo",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-san-agustin",
+      "titulo": "San Agustín (Florida)",
+      "tipo": "fundacion",
+      "fecha": 1565.65,
+      "coordenadas": [
+        -81.31,
+        29.9
+      ],
+      "resumen": "San Agustín (en inglés: Saint Augustine) es una ciudad del condado de San Juan de Florida, Estados Unidos, en la región conocida como «la Primera Costa de Florida». En el censo del año 2020, la ciudad tenía una población de 14 329 habitantes. Fue fundada en septiembre de 1565 por el explorador y almirante español Pedro Menéndez de Avilés y es la ciudad de origen español y europeo más antigua del territorio continental​ de Estados Unidos habitada de forma permanente.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/3/38/StAugustineC12.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Florida)",
+      "personajeIds": [
+        "menendez-aviles"
+      ],
+      "rutaId": "conquista-florida"
+    },
+    {
+      "id": "descubrimiento-amazonas",
+      "titulo": "Primera expedición española al río Amazonas",
+      "tipo": "descubrimiento",
+      "fecha": 1542.15,
+      "coordenadas": [
+        -50,
+        -1.5
+      ],
+      "resumen": "La primera expedición española al río Amazonas se realizó el 12 de febrero de 1542 por parte del conquistador español Francisco de Orellana, segundo al mando de la expedición liderada por Gonzalo Pizarro, quien siendo teniente gobernador de Quito partió desde allí en la Navidad de 1540 por orden de su hermano, Francisco Pizarro, para encontrar al país denominado de la \"Canela\".  La navegación completa del cauce más caudaloso y largo​ de la Tierra no fue algo intencionado, sino que se debió a una concatenación de acontecimientos desencadenados por los deseos de localizar los grandes bosques de canela, El Dorado y tal vez un nuevo reino indígena.\nAunque la desembocadura del río ya se conocía, Gonzalo Pizarro organizó una gran expedición para descubrir y explotar la supuesta canela y localizar el oro, pero al llegar a la zona indicada no encontraron nada de lo esperado. Debido a lo desconocido del terreno y lo falible de los guías indígenas, Orellana trató de recoger información y alimentos adelantándose con unos 70 hombres. Las condiciones del afluente tomado no les permitieron volver y debieron seguir avanzando, afrontando todo tipo de penurias. Dichas penurias han arrojado sombras sobre la veracidad del relato escrito por el dominico Gaspar de Carvajal, miembro de la expedición, entre las que destaca el contacto con un pueblo integrado por mujeres al que rendían vasallaje otros habitantes del lugar.\nTras dos meses avanzando por un afluente, el río Napo, y siete por el propio Amazonas, los españoles llegaron a la desembocadura en el Atlántico. Francisco de Orellana fue juzgado y acusado de traición, pero resultó absuelto de todo cargo. Regresó nuevamente al río al frente de otra expedición, con el objetivo de recorrerlo en sentido inverso, pero falleció en el intento.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Francisco_de_Orellana_Amazon_River_voyage_%281541-1542%29.svg/960px-Francisco_de_Orellana_Amazon_River_voyage_%281541-1542%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Primera_expedici%C3%B3n_espa%C3%B1ola_al_r%C3%ADo_Amazonas",
+      "personajeIds": [
+        "francisco-orellana"
+      ],
+      "rutaId": "descubrimiento-amazonas"
+    },
+    {
+      "id": "sitio-cartagena-1741",
+      "titulo": "Sitio de Cartagena de Indias (1741)",
+      "tipo": "batalla",
+      "fecha": 1741.25,
+      "coordenadas": [
+        -75.51,
+        10.4
+      ],
+      "resumen": "El sitio o batalla de Cartagena de Indias, del 13 de marzo al 20 de mayo de 1741, fue el episodio decisivo que marcó el desenlace de la guerra del Asiento (1739-1748), uno de los conflictos armados entre España y Gran Bretaña ocurridos durante el siglo XVIII.\nComo resultado de tensiones comerciales desde hacía tiempo, la guerra se libró principalmente en el mar Caribe; los británicos intentaron capturar puertos españoles clave en la región, incluidos Portobelo y Chagres en la actual Panamá, La Habana (actual Cuba) y Cartagena de Indias (actual Colombia).\nDos ataques navales anteriores fracasaron en 1740, mientras que el tercer intento en marzo de 1741 fue un asalto naval y terrestre combinado. Los británicos se vieron obligados a retirarse, tras haber perdido, según estimaciones, entre nueve mil quinientos y once mil quinientos hombres, influido por la fiebre amarilla; algunas unidades sufrieron tasas de mortalidad del 80 al 90 %. Fue una de las mayores derrotas en la historia de la Royal Navy. La victoria demostró la capacidad de España para defender su posición y puso fin, en gran medida, a las operaciones militares en esta área. Ambos países pusieron su atención en la guerra de sucesión austriaca y las hostilidades terminaron con el Tratado de Aix-la-Chapelle de 1748.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ataque_Cartagena_de_Indias.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Sitio_de_Cartagena_de_Indias_(1741)",
+      "personajeIds": [
+        "blas-de-lezo"
+      ],
+      "rutaId": "cartagena-de-indias"
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,39 @@
+{
+  "personajes": [
+    {
+      "id": "cervera",
+      "titulo": "Pascual Cervera y Topete",
+      "rol": "Almirante de la Armada",
+      "periodoRelevancia": [1898, 1898]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-cavite",
+      "titulo": "Batalla de Cavite",
+      "tipo": "batalla",
+      "fechaAprox": 1898.36,
+      "coordenadas": [120.9, 14.5],
+      "personajeIds": [],
+      "rutaId": "guerra-hispano-americana"
+    },
+    {
+      "id": "batalla-santiago-cuba",
+      "titulo": "Batalla de Santiago de Cuba",
+      "tipo": "batalla",
+      "fechaAprox": 1898.53,
+      "coordenadas": [-75.82, 19.98],
+      "personajeIds": ["cervera"],
+      "rutaId": "guerra-hispano-americana"
+    },
+    {
+      "id": "tratado-paris-1898",
+      "titulo": "Tratado de París (1898)",
+      "tipo": "tratado",
+      "fechaAprox": 1898.9,
+      "coordenadas": [2.35, 48.86],
+      "personajeIds": [],
+      "rutaId": "guerra-hispano-americana"
+    }
+  ]
+}

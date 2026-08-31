@@ -1,0 +1,39 @@
+{
+  "personajes": [
+    {
+      "id": "pedro-valdivia",
+      "titulo": "Pedro de Valdivia",
+      "rol": "Conquistador y gobernador",
+      "periodoRelevancia": [1540, 1553]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-santiago-chile",
+      "titulo": "Santiago de Chile",
+      "tipo": "fundacion",
+      "fechaAprox": 1541.15,
+      "coordenadas": [-70.65, -33.45],
+      "personajeIds": ["pedro-valdivia"],
+      "rutaId": "conquista-chile"
+    },
+    {
+      "id": "fundacion-concepcion",
+      "titulo": "Concepción (Chile)",
+      "tipo": "fundacion",
+      "fechaAprox": 1550.2,
+      "coordenadas": [-72.6, -36.68],
+      "personajeIds": ["pedro-valdivia"],
+      "rutaId": "conquista-chile"
+    },
+    {
+      "id": "batalla-tucapel",
+      "titulo": "Batalla de Tucapel",
+      "tipo": "batalla",
+      "fechaAprox": 1553.98,
+      "coordenadas": [-73.15, -37.75],
+      "personajeIds": ["pedro-valdivia"],
+      "rutaId": "conquista-chile"
+    }
+  ]
+}

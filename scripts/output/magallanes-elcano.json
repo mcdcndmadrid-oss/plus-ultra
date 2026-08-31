@@ -1,0 +1,129 @@
+{
+  "personajes": [
+    {
+      "id": "magallanes",
+      "nombre": "Fernando de Magallanes",
+      "nacimiento": 1479.9166666666667,
+      "muerte": 1521.25,
+      "periodoRelevancia": [
+        1519,
+        1521
+      ],
+      "rol": "Navegante al servicio de la Corona de Castilla",
+      "resumen": "Fernando de Magallanes, también conocido como Hernando de Magallanes (en portugués, Fernão de Magalhães, Oporto,​​​20 de noviembre de 1480-Mactán, 27 de abril de 1521),​ fue un militar, explorador y navegante de origen portugués, naturalizado español,​​​​ y de linaje noble. \nAl servicio de Carlos I de España, inició en 1519 la expedición para alcanzar las Indias Orientales atravesando el Pacífico para abrir una ruta comercial en la que descubrió el canal natural navegable que hoy recibe el nombre de estrecho de Magallanes, realizó la primera navegación de origen europeo desde el océano Atlántico hasta el océano Pacífico, llamado hasta entonces mar del Sur. Esta expedición, en la que Magallanes murió en 1521 en Filipinas, se convirtió en la primera circunnavegación de la Tierra cuando una de sus naos, capitaneada por Juan Sebastián Elcano, regresó a España en 1522 al decidir Elcano regresar navegando hacia el Oeste a través del océano Índico para bordear África.​\nNacido 20 de noviembre de 1480 en una familia menor de la nobleza portuguesa, Magallanes se convirtió en un hábil marinero y oficial naval al servicio de la Corona portuguesa en Asia. El rey Manuel I de Portugal se negó a apoyar el plan de Magallanes de llegar a las Molucas (o islas de las Especias), navegando hacia el oeste alrededor del continente americano. Magallanes propuso luego el mismo plan al rey Carlos I de España, quien lo aprobó. En Sevilla se casó, tuvo dos hijos y organizó la expedición.​ En 1518, por su lealtad a la Monarquía Hispánica, Magallanes fue nombrado almirante de la flota española y se le dio el mando de la expedición, la «Armada de las Molucas», compuesta por cinco barcos. También fue nombrado comandante de la Orden de Santiago, uno de los rangos militares más altos del Imperio español.​\nHabiendo recibido poderes especiales y privilegios de manos del rey, comandó la Armada desde Sanlúcar de Barrameda hacia el suroeste a través del océano Atlántico, hasta la costa oriental de Sudamérica y hacia el sur hasta la Patagonia. A pesar de una serie de tormentas y motines, la expedición atravesó con éxito el estrecho de Magallanes (bautizado en su honor) hasta el Mar del Sur, al que Magallanes rebautizó como Mar Pacífico.​ La expedición desembarcó en Guam después de una ardua travesía del Pacífico y luego llegó a las Filipinas. Allí, en abril de 1521, Magallanes murió en la batalla de Mactán. Bajo el mando del capitán Elcano, la expedición finalmente llegó a las Islas de las Especias. Los dos barcos restantes de la flota se separaron: uno intentó, infructuosamente, llegar a Nueva España navegando hacia el este a través del Pacífico. El otro, comandado por Elcano, navegó hacia el oeste a través del océano Índico y hacia el norte a lo largo de la costa atlántica de África, regresó finalmente a España en septiembre de 1522 y logró el primer circuito completo del globo.\nMientras estaba al servicio del Reino de Portugal, Magallanes ya había llegado al archipiélago malayo en el sudeste asiático en viajes anteriores hacia el este (entre 1505 y 1511 o 1512). Al visitar esta región nuevamente, pero esta vez viajando hacia el oeste, Magallanes logró una circunnavegación personal casi completa del globo por primera vez en la historia.​​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Retrato_de_Hernando_de_Magallanes.jpg/960px-Retrato_de_Hernando_de_Magallanes.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Fernando_de_Magallanes",
+      "eventoIds": [
+        "partida-expedicion",
+        "paso-estrecho",
+        "batalla-mactan"
+      ]
+    },
+    {
+      "id": "elcano",
+      "nombre": "Juan Sebastián Elcano",
+      "nacimiento": 1476.8333333333333,
+      "muerte": 1526.5833333333333,
+      "periodoRelevancia": [
+        1519,
+        1522
+      ],
+      "rol": "Navegante, completó la primera vuelta al mundo",
+      "resumen": "Juan Sebastián Elcano​ (Guetaria, hacia 1486​​-Océano Pacífico, 3​ o 6 de agosto de 1526 ​​) fue un marino castellano, célebre por haber culminado la primera Circunnavegación de la Tierra de la que se tiene constancia, completando así una de las mayores gestas marítimas de la historia de la navegación.​\nEn 1519 embarca en la expedición a las islas de las Especias de cuatro naos (Trinidad, San Antonio, Concepción y Victoria) y una carabela (Santiago) bajo el mando de Fernando de Magallanes. Navegaron hacia el oeste, pasando por Sudamérica. Magallanes murió en 1521 en una batalla en Filipinas. Elcano quedó como capitán de la nao Victoria, que fue la única nave que completó la vuelta al mundo navegando hacia el oeste, arribando a España el 6 de septiembre de 1522. En 1525 zarpó de nuevo en otra expedición a las islas de las Especias, dirigida por García Jofre de Loaísa, como capitán de la nao Santi Spiritus y piloto mayor de la expedición, muriendo en el océano Pacífico en 1526.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Las_Glorias_Nacionales%2C_1852_%22Juan_Sebastian_Elcano%22._%284013953698%29.jpg/960px-Las_Glorias_Nacionales%2C_1852_%22Juan_Sebastian_Elcano%22._%284013953698%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Elcano",
+      "eventoIds": [
+        "partida-expedicion",
+        "regreso-elcano"
+      ]
+    },
+    {
+      "id": "pigafetta",
+      "nombre": "Antonio Pigafetta",
+      "nacimiento": 1489.9166666666667,
+      "muerte": 1529.9166666666667,
+      "periodoRelevancia": [
+        1519,
+        1522
+      ],
+      "rol": "Cronista de la expedición",
+      "resumen": "Antonio Pigafetta o de Pigafetta (Vicenza, c. 1480 - Vicenza, c. 1534​) fue un noble italiano del Renacimiento, cronista de la expedición de Magallanes-Elcano. Fue caballero de la Orden de San Juan.​\nSe trasladó a España en 1518 acompañando al nuncio papal Francesco Chiericati. Allí tomó parte en la expedición de Magallanes, que culminaría con la primera circunnavegación del globo en 1522, realizada a bordo de la nao Victoria, única que regresó a España. Pigafetta fue uno de los 18 hombres que sobrevivieron al viaje y volvieron en la nao.​\nSu relato de los hechos se titula Relación del primer viaje alrededor del mundo (1524), también conocido como la Relación de Pigafetta. Es una de las fuentes principales de información sobre el viaje de Magallanes y Elcano, y casi la única sobre la propia vida de Pigafetta. Recoge el descubrimiento del estrecho de Magallanes, y la Patagonia así como las primeras noticias en Europa del idioma cebuano de Filipinas.\nUn miembro de su familia, Filippo Pigafetta (1533-1604), viajó a África en el siglo XVI y fue conocido por su libro sobre su viaje al Congo.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Antonio_pigafetta.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Antonio_Pigafetta",
+      "eventoIds": [
+        "partida-expedicion",
+        "regreso-elcano"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "partida-expedicion",
+      "titulo": "Expedición de Magallanes y Elcano",
+      "tipo": "descubrimiento",
+      "fecha": 1519.65,
+      "coordenadas": [
+        -6.35,
+        36.78
+      ],
+      "resumen": "La expedición de Magallanes y Elcano fue una expedición marítima española del siglo XVI.\nSupuso primera circunnavegación de la Tierra, el hallazgo del estrecho de Magallanes y el descubrimiento para los europeos de las islas Filipinas, además del descubrimiento de las islas Marianas, islas Desventuradas e isla Ámsterdam.​​ \nFue capitaneada inicialmente por Fernando de Magallanes, y completada por Juan Sebastián Elcano. \n\n \n\nLa expedición tenía el inédito propósito de abrir una ruta comercial con las islas de las especias (islas Molucas, Indonesia) por occidente, buscando un paso marítimo entre el océano Atlántico y el océano Pacífico. \nEstaba formada por cinco naves, las cuales bajaron el río Guadalquivir desde Sevilla el día 10 de agosto de 1519. Algunos días después, el capitán general y los capitanes de las otras naves se vinieron en las chalupas tras ultimar los preparativos, por lo que las naves partieron definitivamente de Sanlúcar de Barrameda el 20 de septiembre de 1519.​​ La escuadra, después de haber explorado durante meses el litoral americano al sur de Brasil, logró cruzar el estrecho de Magallanes el 28 de noviembre de 1520. En su travesía por el Pacífico llegó a las islas Filipinas, donde, el 27 de abril de 1521, muere Fernando de Magallanes en la batalla de Mactán. Los expedicionarios continuaron la navegación hasta las Molucas, objetivo de su viaje, donde eligieron a Juan Sebastián Elcano para capitanear el viaje de regreso. Navegando hacia el oeste por el océano Índico y dando la vuelta a África, el 6 de septiembre de 1522 la Victoria, única nave que quedaba en la expedición, retornó a Sanlúcar de Barrameda, convirtiéndose en la primera embarcación de la historia en dar la vuelta al mundo. Ese mismo día la nave fue remolcada río arriba hasta Sevilla, debido a las malas condiciones en las que se encontraba la nave, llegando dos días después (8 de septiembre de 1522)​​ con su carga de especias.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Magellan_Elcano_Circumnavigation-es.svg/960px-Magellan_Elcano_Circumnavigation-es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Expedici%C3%B3n_de_Magallanes_y_Elcano",
+      "personajeIds": [
+        "magallanes",
+        "elcano",
+        "pigafetta"
+      ]
+    },
+    {
+      "id": "paso-estrecho",
+      "titulo": "Estrecho de Magallanes",
+      "tipo": "descubrimiento",
+      "fecha": 1520.85,
+      "coordenadas": [
+        -70,
+        -53.5
+      ],
+      "resumen": "El estrecho de Magallanes es un paso marítimo localizado en el extremo sur de Chile,​ entre el territorio continental sudamericano, la isla Grande de Tierra del Fuego y varias islas ubicadas al oeste de esta hacia el océano Pacífico. Es el principal paso natural entre los océanos Pacífico y Atlántico. El estrecho que los navegantes bautizaron como «Estrecho de Todos los Santos» al descubrirlo en la fiesta a la que hacía honor, actualmente lleva el nombre del almirante Fernando de Magallanes, quien lo descubrió en 1520 durante la expedición española a las Molucas (1519-1522).\nAdministrativamente, pertenece a la región de Magallanes y de la Antártica Chilena, el territorio chileno más austral.​\nDe acuerdo con la Organización Hidrográfica Internacional, su boca oriental está determinada por la línea que une el cabo Vírgenes con el cabo del Espíritu Santo.​ Este límite de la OHI no coincide con lo establecido en el Tratado de 1984, firmado por Argentina y Chile, en su artículo 10.º: «el término oriental del Estrecho de Magallanes [está] determinado por punta Dungeness en el Norte y cabo del Espíritu Santo en el Sur»,​ considerándolo íntegramente dentro de la jurisdicción de Chile, en la región de Magallanes y de la Antártica Chilena.\nDe acuerdo con los tratados argentino-chilenos de 1881 y 1984, tanto el acceso a su boca oriental como la navegación en el estrecho se encuentran asegurados a los buques de todas las banderas en todo tiempo y circunstancia.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/StraitOfMagellan.jpg/960px-StraitOfMagellan.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Estrecho_de_Magallanes",
+      "personajeIds": [
+        "magallanes"
+      ]
+    },
+    {
+      "id": "batalla-mactan",
+      "titulo": "Batalla de Mactán",
+      "tipo": "batalla",
+      "fecha": 1521.3,
+      "coordenadas": [
+        123.97,
+        10.31
+      ],
+      "resumen": "La batalla de Mactán tuvo lugar el 27 de abril de 1521 en la isla de Mactán (Filipinas). Unos 1500 guerreros de la isla al mando de Lapu-Lapu, el caudillo de Mactán, vencieron a un grupo de 49 miembros de la expedición española al mando de Fernando de Magallanes, quien murió en combate.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Magellans_Ermordung.jpg/960px-Magellans_Ermordung.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Mact%C3%A1n",
+      "personajeIds": [
+        "magallanes"
+      ]
+    },
+    {
+      "id": "regreso-elcano",
+      "titulo": "Victoria (nao)",
+      "tipo": "descubrimiento",
+      "fecha": 1522.68,
+      "coordenadas": [
+        -6.35,
+        36.78
+      ],
+      "resumen": "La nao Victoria fue un buque de alto bordo (borde alto u oceánico) de la primera escuadra que la Monarquía Hispánica, concretamente la Corona de Castilla, previó para ir a las «islas de las especias», siempre que se hallaran comprendidas dentro de las demarcaciones españolas, esto es, para ser exactos, de la Corona de Castilla y sin tocar en las portuguesas. Fue llamada en su día la «Armada de la especiería» o «Armada de Magallanes». Las singladuras se concluyeron con la primera vuelta al mundo (1519-1522), siendo este el único navío que completó dicho periplo. La tradición cuenta que la nao Victoria se construyó en los astilleros de Zarauz (País Vasco), territorio integrante de la Corona de Castilla, de los que no queda ningún rastro. Aunque investigaciones recientes sugieren que pudo haber sido construida en Ondarroa, Vizcaya. Documentos notariales indican que en 1518, la nave, entonces llamada Santa María y propiedad de Domingo de Apallua, vecino de Ondárroa, fue adquirida por la Corona para la expedición de Magallanes y Elcano. Por tanto, aunque no existe consenso definitivo, existen evidencias que respaldan la hipótesis de que la nao Victoria fue construida en Ondarroa.​​​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ships_Through_the_Ages_%288%29.jpg/960px-Ships_Through_the_Ages_%288%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Victoria_(nao)",
+      "personajeIds": [
+        "elcano",
+        "pigafetta"
+      ]
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,54 @@
+{
+  "personajes": [
+    {
+      "id": "gonzalo-sandoval",
+      "titulo": "Gonzalo de Sandoval",
+      "rol": "Capitán de Cortés",
+      "periodoRelevancia": [1519, 1528]
+    },
+    {
+      "id": "cristobal-olid",
+      "titulo": "Cristóbal de Olid",
+      "rol": "Capitán de Cortés, conquistador de Michoacán",
+      "periodoRelevancia": [1519, 1524]
+    },
+    {
+      "id": "bernal-diaz",
+      "titulo": "Bernal Díaz del Castillo",
+      "rol": "Soldado y cronista de la conquista",
+      "periodoRelevancia": [1519, 1521]
+    },
+    {
+      "id": "juan-grijalva",
+      "titulo": "Juan de Grijalva",
+      "rol": "Explorador, precursor de la conquista de México",
+      "periodoRelevancia": [1518, 1518]
+    },
+    {
+      "id": "francisco-montejo",
+      "titulo": "Francisco de Montejo",
+      "rol": "Adelantado, conquistador de Yucatán",
+      "periodoRelevancia": [1527, 1546]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "expedicion-grijalva",
+      "titulo": "Juan de Grijalva",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1518.35,
+      "coordenadas": [-95.9, 18.15],
+      "personajeIds": ["juan-grijalva"],
+      "rutaId": "expedicion-grijalva"
+    },
+    {
+      "id": "conquista-yucatan",
+      "titulo": "Conquista de Yucatán",
+      "tipo": "batalla",
+      "fechaAprox": 1542.0,
+      "coordenadas": [-89.62, 20.97],
+      "personajeIds": ["francisco-montejo"],
+      "rutaId": "conquista-yucatan"
+    }
+  ]
+}

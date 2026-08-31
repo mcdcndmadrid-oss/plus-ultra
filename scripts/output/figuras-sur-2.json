@@ -1,0 +1,90 @@
+{
+  "personajes": [
+    {
+      "id": "garcia-hurtado",
+      "nombre": "García Hurtado de Mendoza",
+      "nacimiento": 1535.5,
+      "muerte": 1609.3333333333333,
+      "periodoRelevancia": [
+        1557,
+        1561
+      ],
+      "rol": "Gobernador de Chile",
+      "resumen": "García Hurtado de Mendoza y Manrique, IV marqués de Cañete (Cuenca, 21 de julio de 1535-Madrid, 15 de octubre de 1609​​) fue un militar español, que llegó a ser gobernador de Chile y VIII virrey del Perú. Fue gobernador de Chile (1556-1561), donde derrotó a Caupolicán (1557) y se encargó de organizar la administración española. Durante su etapa como virrey del Perú, apresó al pirata Hawkins (1594), mejoró las finanzas y la administración, y mandó la expedición transpacífica que descubrió las islas Marquesas, bautizadas en su honor.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/8/87/Garcia_Hurtado_de_Mendoza_2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Garc%C3%ADa_Hurtado_de_Mendoza",
+      "eventoIds": []
+    },
+    {
+      "id": "domingo-irala",
+      "nombre": "Domingo Martínez de Irala",
+      "nacimiento": 1509,
+      "muerte": 1556,
+      "periodoRelevancia": [
+        1539,
+        1556
+      ],
+      "rol": "Gobernador del Paraguay",
+      "resumen": "Domingo Martínez de Irala y Albisúa (Vergara, Corona de Castilla, 1509 - Asunción del Paraguay, Virreinato del Perú, 3 de octubre de 1556) fue un conquistador español, explorador y colonizador que, como lugarteniente de Juan de Ayolas, fue nombrado interinamente hasta que regresara como teniente de gobernador de La Candelaria en 1537, y que luego lo sería de hecho, y posteriormente elegido por el pueblo según real cédula, como teniente de gobernador general de Asunción.\nOcupó tres veces el cargo de gobernador interino del Río de la Plata y del Paraguay, en los períodos de 1539 a 1542, de 1544 hasta 1548 y por último desde 1549. El emperador Carlos V lo nombraría definitivamente como titular en el cargo gubernamental en el año 1555, que lo ostentaría hasta su fallecimiento. En 1543 fundó en el Chaco Boreal el Puerto de los Reyes, a orillas del río Paraguay y del pantano de los Jarayes, sobre las costas de la laguna La Gaiba.\nEstá considerado como una de las personalidades más notables de los primeros conquistadores de América y el padre fundador del actual Paraguay.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Domingo_Mart%C3%ADnez_de_Irala.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Domingo_Mart%C3%ADnez_de_Irala",
+      "eventoIds": []
+    },
+    {
+      "id": "diego-ordas",
+      "nombre": "Diego de Ordás",
+      "nacimiento": 1480,
+      "muerte": 1532,
+      "periodoRelevancia": [
+        1519,
+        1532
+      ],
+      "rol": "Capitán de Cortés, explorador del Orinoco",
+      "resumen": "Diego de Ordás, conocido también como Diego de Ordaz o de Ordax, (Castroverde de Campos, 1480-Océano atlántico, 1532​) fue un militar, adelantado y explorador español, acompañante también de Hernán Cortés en la Conquista de México.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ordaz.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Diego_de_Ord%C3%A1s",
+      "eventoIds": [
+        "exploracion-orinoco"
+      ]
+    },
+    {
+      "id": "jeronimo-ortal",
+      "nombre": "Jerónimo de Ortal",
+      "nacimiento": 1499.9166666666667,
+      "muerte": 1537.9166666666667,
+      "periodoRelevancia": [
+        1530,
+        1540
+      ],
+      "rol": "Explorador del Orinoco",
+      "resumen": "Jerónimo de Ortal (Zaragoza, España, c. 1500-Santo Domingo, República Dominicana, c. 1538) fue un expedicionario, conquistador y gobernador español.​",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Jer%C3%B3nimo_de_Ortal",
+      "eventoIds": [
+        "exploracion-orinoco"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "exploracion-orinoco",
+      "titulo": "Diego de Ordás",
+      "tipo": "descubrimiento",
+      "fecha": 1531.5,
+      "coordenadas": [
+        -63.6,
+        8.15
+      ],
+      "resumen": "Diego de Ordás, conocido también como Diego de Ordaz o de Ordax, (Castroverde de Campos, 1480-Océano atlántico, 1532​) fue un militar, adelantado y explorador español, acompañante también de Hernán Cortés en la Conquista de México.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/0/08/Ordaz.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Diego_de_Ord%C3%A1s",
+      "personajeIds": [
+        "diego-ordas",
+        "jeronimo-ortal"
+      ],
+      "rutaId": "exploracion-orinoco"
+    }
+  ],
+  "avisos": [
+    "jeronimo-ortal: sin imagen"
+  ]
+}

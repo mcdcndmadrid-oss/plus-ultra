@@ -1,0 +1,30 @@
+{
+  "personajes": [
+    {
+      "id": "pedro-alvarado",
+      "titulo": "Pedro de Alvarado",
+      "rol": "Conquistador y gobernador",
+      "periodoRelevancia": [1523, 1541]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-pinar",
+      "titulo": "Conquista de Guatemala",
+      "tipo": "batalla",
+      "fechaAprox": 1524.1,
+      "coordenadas": [-91.52, 14.83],
+      "personajeIds": ["pedro-alvarado"],
+      "rutaId": "conquista-guatemala"
+    },
+    {
+      "id": "fundacion-santiago-guatemala",
+      "titulo": "Santiago de los Caballeros de Guatemala",
+      "tipo": "fundacion",
+      "fechaAprox": 1524.6,
+      "coordenadas": [-90.73, 14.62],
+      "personajeIds": ["pedro-alvarado"],
+      "rutaId": "conquista-guatemala"
+    }
+  ]
+}

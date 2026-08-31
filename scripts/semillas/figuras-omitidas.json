@@ -1,0 +1,69 @@
+{
+  "personajes": [
+    {
+      "id": "juan-garay",
+      "titulo": "Juan de Garay",
+      "rol": "Conquistador, refundador de Buenos Aires",
+      "periodoRelevancia": [1573, 1583]
+    },
+    {
+      "id": "menendez-aviles",
+      "titulo": "Pedro Menéndez de Avilés",
+      "rol": "Adelantado de la Florida",
+      "periodoRelevancia": [1565, 1574]
+    },
+    {
+      "id": "francisco-orellana",
+      "titulo": "Francisco de Orellana",
+      "rol": "Explorador",
+      "periodoRelevancia": [1541, 1546]
+    },
+    {
+      "id": "blas-de-lezo",
+      "titulo": "Blas de Lezo",
+      "rol": "Almirante",
+      "periodoRelevancia": [1737, 1741]
+    },
+    {
+      "id": "bernardo-galvez",
+      "titulo": "Bernardo de Gálvez",
+      "rol": "General y gobernador de Luisiana",
+      "periodoRelevancia": [1776, 1786]
+    },
+    {
+      "id": "francisco-toledo",
+      "titulo": "Francisco de Toledo",
+      "rol": "Virrey del Perú",
+      "periodoRelevancia": [1569, 1581]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-san-agustin",
+      "titulo": "San Agustín (Florida)",
+      "tipo": "fundacion",
+      "fechaAprox": 1565.65,
+      "coordenadas": [-81.31, 29.9],
+      "personajeIds": ["menendez-aviles"],
+      "rutaId": "conquista-florida"
+    },
+    {
+      "id": "descubrimiento-amazonas",
+      "titulo": "Descubrimiento del río Amazonas",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1542.15,
+      "coordenadas": [-50.0, -1.5],
+      "personajeIds": ["francisco-orellana"],
+      "rutaId": "descubrimiento-amazonas"
+    },
+    {
+      "id": "sitio-cartagena-1741",
+      "titulo": "Batalla de Cartagena de Indias",
+      "tipo": "batalla",
+      "fechaAprox": 1741.25,
+      "coordenadas": [-75.51, 10.4],
+      "personajeIds": ["blas-de-lezo"],
+      "rutaId": "cartagena-de-indias"
+    }
+  ]
+}

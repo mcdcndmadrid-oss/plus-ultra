@@ -1,0 +1,95 @@
+{
+  "personajes": [
+    {
+      "id": "carlos-i",
+      "nombre": "Carlos I de España",
+      "nacimiento": 1500.0833333333333,
+      "muerte": 1558.6666666666667,
+      "periodoRelevancia": [
+        1516,
+        1556
+      ],
+      "rol": "Rey de España y emperador",
+      "resumen": "Carlos I de España y V del Sacro Imperio Romano Germánico (Gante, 24 de febrero de 1500-Cuacos de Yuste, 21 de septiembre de 1558), llamado «el César», reinó junto con su madre Juana —esta última de forma solo nominal y hasta 1555— en todos los reinos, estados y señoríos hispánicos con el nombre de Carlos I desde 1516 hasta 1556, reuniendo así por primera vez en una misma persona, de forma efectiva, las coronas de Castilla y Aragón, el Reino de Navarra incluido. Su madre Juana I de Castilla heredó de Isabel la Católica la Corona de Castilla en 1505 y de Fernando el Católico la Corona de Aragón y el Reino de Navarra en 1516, pero desde 1506 no ejerció ningún poder efectivo. Fue emperador del Sacro Imperio Romano Germánico como Carlos V de 1520 a 1558.​\nNació en Flandes, hijo de Juana I de Castilla y Felipe el Hermoso, y nieto por vía paterna del emperador Maximiliano I de Habsburgo y María de Borgoña, de quienes heredó el patrimonio borgoñón y el Archiducado de Austria con el derecho al trono imperial del Sacro Imperio Romano Germánico, y por vía materna de los Reyes Católicos, Isabel I de Castilla y Fernando II de Aragón, de quienes heredó la corona de Castilla, con los dominios en Navarra y las Indias Occidentales, y la corona de Aragón que comprendía los reinos de Nápoles, Sicilia, Cerdeña, Valencia, Mallorca, Aragón y el Principado de Cataluña.​​​\nCarlos revitalizó el concepto medieval de monarquía universal (el llamado neogibelinismo o la idea imperial de Carlos V). Sin fijar una capital, realizó 40 viajes por las diferentes entidades que gobernaba y dedicó una cuarta parte de su reinado a viajar dentro de sus reinos. Aunque su imperio le llegó pacíficamente, pasó la mayor parte de su vida librando guerras, agotando sus ingresos y dejando deudas en su intento de defender la integridad del Sacro Imperio Romano Germánico de la Reforma Protestante, la expansión del Imperio Otomano y en guerras con Francia. Carlos pidió prestado dinero a banqueros alemanes e italianos y, para devolverlo, dependió de la riqueza de los Países Bajos y del flujo de plata de Nueva España y Perú, que quedaron bajo su dominio tras la conquista española de los imperios azteca e inca, lo que provocó una inflación generalizada.​\nCoronado rey de Alemania en Aquisgrán, Carlos se alió con el papa León X y declaró proscrito a Martín Lutero en la Dieta de Worms en 1521. Derrotó una rebelión en Castilla. En 1521 Francisco I de Francia, rodeado por las posesiones de los Habsburgo, inició una guerra en Italia que lo llevó a su captura en la batalla de Pavía (1525).​ En 1527, Roma fue saqueada por un ejército de soldados amotinados de Carlos. Carlos defendió Viena de los turcos y obtuvo la coronación como rey de Italia y emperador del Sacro Imperio Romano Germánico del papa Clemente VII. En 1535, tomó posesión de Milán y capturó Túnez. Sin embargo, la pérdida de Buda durante la lucha por Hungría y la fallida expedición a Argel a principios de la década de 1540 frustraron sus políticas antiotomanas. Tras años de negociaciones, Carlos llegó a un acuerdo con el papa Pablo III para la organización del Concilio de Trento (1545).​ La negativa de la Liga Luterana de Esmalcalda a reconocer la validez del concilio desencadenó una guerra, ganada por Carlos. Sin embargo, Enrique II de Francia ofreció un nuevo apoyo a la causa luterana y fortaleció la alianza franco-otomana con Solimán el Magnífico.\nFinalmente, Carlos aceptó la Paz de Augsburgo y abandonó su proyecto multinacional con abdicaciones en 1556 que dividieron sus dominios hereditarios e imperiales entre los Habsburgo españoles, encabezados por su hijo Felipe II de España; y los Habsburgo austriacos, encabezados por su hermano Fernando I del Sacro Imperio Romano Germánico. En 1557, se retiró al Monasterio de Yuste, en Extremadura, donde falleció un año después.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg/960px-Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Carlos_I_de_Espa%C3%B1a",
+      "eventoIds": [
+        "batalla-pavia",
+        "saco-de-roma",
+        "paz-cambrai"
+      ]
+    },
+    {
+      "id": "marques-pescara",
+      "nombre": "Fernando de Ávalos",
+      "nacimiento": 1489,
+      "muerte": 1525.9166666666667,
+      "periodoRelevancia": [
+        1521,
+        1525
+      ],
+      "rol": "General imperial",
+      "resumen": "Fernando Francisco de Ávalos Aquino y Cardona, V marqués de Pescara (Nápoles, Reino de Nápoles, 1489 - Milán, Ducado de Milán, 2 de diciembre de 1525) fue un militar y poeta napolitano de orígenes españoles. Fue general de las tropas hispano-imperiales al servicio de Carlos I de España durante las guerras italianas.\nEn 1512, en la batalla de Rávena, fue tomado prisionero por los franceses, pero se le dejó libre al final de la guerra de la Liga de Cambrai. Reforzado por la experiencia, posteriormente derrotó a los franceses de Francisco I en las batallas de Bicoca y de Pavía. En estas victorias destacó por su diestro uso de la arcabucería, implementando ya entonces la táctica del fuego a volea que comúnmente se atribuye a las reformas militares holandesas de finales de siglo.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ritratto_di_Ferrante_d%27Avalos.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Fernando_de_%C3%81valos",
+      "eventoIds": [
+        "batalla-pavia"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-pavia",
+      "titulo": "Batalla de Pavía",
+      "tipo": "batalla",
+      "fecha": 1525.15,
+      "coordenadas": [
+        9.16,
+        45.18
+      ],
+      "resumen": "La batalla de Pavía se libró el 24 de febrero de 1525 entre el ejército francés al mando del rey Francisco I y las tropas germano-españolas del emperador Carlos I de España, con victoria de estas últimas, en las proximidades de la ciudad italiana de Pavía.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Battle_of_Pavia%2C_oil_on_panel.jpg/960px-Battle_of_Pavia%2C_oil_on_panel.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Pav%C3%ADa",
+      "personajeIds": [
+        "marques-pescara",
+        "carlos-i"
+      ],
+      "rutaId": "guerras-italianas"
+    },
+    {
+      "id": "saco-de-roma",
+      "titulo": "Saco de Roma",
+      "tipo": "batalla",
+      "fecha": 1527.4,
+      "coordenadas": [
+        12.48,
+        41.9
+      ],
+      "resumen": "El Saco de Roma​ (también conocida como El saqueo de Roma) es la denominación con la que se conoce el saqueo que llevaron a cabo en la ciudad de Roma las amotinadas tropas alemanas y españolas de Carlos V el 6 de mayo de 1527. Este hecho señaló una victoria imperial crucial en el conflicto entre el emperador y la Liga de Cognac (la alianza formada por el Papado, Francia, Milán, Venecia y Florencia firmada el 2 de mayo de 1526).\n«Saco» es la adaptación al castellano de la voz italiana sacco, que significa literalmente «saqueo».​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sack_of_Rome_1527.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Saco_de_Roma",
+      "personajeIds": [
+        "carlos-i"
+      ],
+      "rutaId": "guerras-italianas"
+    },
+    {
+      "id": "paz-cambrai",
+      "titulo": "Paz de Cambrai",
+      "tipo": "tratado",
+      "fecha": 1529.65,
+      "coordenadas": [
+        3.23,
+        50.18
+      ],
+      "resumen": "La Paz de Cambrai o Paz de las Damas fue el tratado firmado entre el Sacro Imperio y Francia en la ciudad homónima el 5 de agosto de 1529.\nLa paz de Cambrai fue firmada entre Luisa de Saboya, en nombre de su hijo Francisco I de Francia, y Margarita de Austria, en nombre de su sobrino el emperador Carlos V, por eso se le conoce también como la Paz de las Damas.\nCon ella se pretendía poner fin a la Guerra de la Liga de Cognac. El Emperador renunciaba a sus derechos sobre el ducado de Borgoña. Francisco I hacía lo propio sobre las regiones de Flandes, Artois y Lens.​  Abandonando además sus pretensiones sobre Italia.\nTambién se negoció la liberación de los príncipes franceses Francisco y Enrique (que luego sería Enrique II de Francia), hijos del rey francés, que estaban rehenes en Madrid en cumplimiento de tratado de Madrid (1526) a cambio del pago de dos millones de escudos.\nLuisa y Margarita estaban emparentadas ya que Margarita después de quedar viuda del Príncipe heredero Juan de Aragón y Castilla (hijo de los Reyes Católicos) fue desposada con Filiberto II de Saboya hermano de Luisa. Ambas eran cuñadas.\nMeses después del tratado las tropas españolas abandonarían en 1530 la Baja Navarra por su difícil defensa,​ recuperada por Enrique II de Navarra.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Bernaerd_van_Orley_002.jpg/960px-Bernaerd_van_Orley_002.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Paz_de_Cambrai",
+      "personajeIds": [
+        "carlos-i"
+      ],
+      "rutaId": "guerras-italianas"
+    }
+  ],
+  "avisos": []
+}

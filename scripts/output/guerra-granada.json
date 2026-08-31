@@ -1,0 +1,112 @@
+{
+  "personajes": [
+    {
+      "id": "isabel-i",
+      "nombre": "Isabel I de Castilla",
+      "nacimiento": 1451.25,
+      "muerte": 1504.8333333333333,
+      "periodoRelevancia": [
+        1474,
+        1504
+      ],
+      "rol": "Reina de Castilla",
+      "resumen": "Isabel I de Castilla (Madrigal de las Altas Torres, 22 de abril de 1451-Medina del Campo, 26 de noviembre de 1504) fue reina de Castilla​ desde 1474 hasta 1504, reina consorte de Sicilia desde 1469 y de Aragón desde 1479,​ por su matrimonio con Fernando de Aragón. También ejerció como señora de Vizcaya. Se la conoce también como Isabel la Católica, título que le fue otorgado a ella y a su marido por el papa Alejandro VI mediante la bula Si convenit, el 19 de diciembre de 1496.​ Es por lo que se conoce al matrimonio real con el nombre de Reyes Católicos, título que usarían en adelante prácticamente todos los reyes de España.\nSe casó el 19 de octubre de 1469 con el príncipe Fernando de Aragón. Por el hecho de ser primos segundos necesitaban una bula papal de dispensa que solo consiguieron de Sixto IV a través de su enviado el cardenal Rodrigo Borgia en 1472. Ella y su esposo Fernando conquistaron el Reino nazarí de Granada y acordaron una red de alianzas matrimoniales que hicieron que su nieto, Carlos V, heredase las coronas de Castilla y de Aragón, así como otros territorios europeos, y se convirtiese en emperador del Sacro Imperio Romano.​\nIsabel y Fernando se hicieron con el trono tras una larga lucha, primero contra el rey Enrique IV (véase Conflicto por la sucesión de Enrique IV de Castilla) y de 1475 a 1479 en la guerra de Sucesión castellana contra los partidarios de la otra pretendiente al trono, Juana.​ Isabel reorganizó el sistema de gobierno y la administración, centralizando competencias que antes ostentaban los nobles; reformó el sistema de seguridad ciudadana y llevó a cabo una reforma económica para reducir la deuda que el reino había heredado de su hermanastro y predecesor en el trono, Enrique IV. Tras ganar la guerra de Granada los Reyes Católicos expulsaron a los judíos de sus reinos.​\nConcedió apoyo a Cristóbal Colón en la búsqueda de las Indias Occidentales, lo que llevó al descubrimiento de América.​​ Dicho acontecimiento tendría como consecuencia la conquista de las tierras descubiertas y la creación del Imperio español.\nVivió cincuenta y tres años, de los cuales gobernó treinta como reina de Castilla y veintiséis como reina consorte de Aragón al lado de Fernando II. Desde 1974 es considerada sierva de Dios por la Iglesia católica, y su causa de beatificación está abierta.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Juan_de_Flandes_-_Isabel_la_Cat%C3%B3lica_%28Palacio_Real%2C_Madrid%2C_1500-04._%C3%93leo_sobre_tabla%2C_63_x_55_cm%29.jpg/960px-Juan_de_Flandes_-_Isabel_la_Cat%C3%B3lica_%28Palacio_Real%2C_Madrid%2C_1500-04._%C3%93leo_sobre_tabla%2C_63_x_55_cm%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Isabel_I_de_Castilla",
+      "eventoIds": [
+        "sitio-malaga",
+        "toma-granada"
+      ]
+    },
+    {
+      "id": "fernando-ii",
+      "nombre": "Fernando II de Aragón",
+      "nacimiento": 1452.1666666666667,
+      "muerte": 1516,
+      "periodoRelevancia": [
+        1479,
+        1516
+      ],
+      "rol": "Rey de Aragón",
+      "resumen": "Fernando II de Aragón, llamado el Católico (Sos, 10 de marzo de 1452-Madrigalejo, 23 de enero de 1516),​​ fue rey de Aragón (1479-1516), de Castilla (como Fernando V, 1474-1504),​ de Sicilia (como Fernando II, 1468-1516), de Nápoles (como Fernando III, 1504-1516) y de Jerusalén (desde 1506), de Cerdeña (como Fernando II, 1479-1516) y de Navarra (como Fernando I, 1512-1516). Fue además regente de la Corona castellana entre 1507 y 1516, debido a la inhabilitación de su hija Juana I, tras la muerte de Felipe el Hermoso. Fernando y su esposa Isabel fueron los primeros monarcas de Castilla y Aragón en ser llamados «Reyes Católicos» y «Reyes de España».​En el caso de «Reyes de España», no era un título oficial ya que no existía todavía un reino llamado así, y solo se usaba en ocasiones de manera simbólica.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Michel_Sittow_004.jpg/960px-Michel_Sittow_004.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Fernando_II_de_Arag%C3%B3n",
+      "eventoIds": [
+        "sitio-malaga",
+        "toma-granada"
+      ]
+    },
+    {
+      "id": "gran-capitan",
+      "nombre": "Gonzalo Fernández de Córdoba",
+      "nacimiento": 1453.6666666666667,
+      "muerte": 1515.9166666666667,
+      "periodoRelevancia": [
+        1482,
+        1492
+      ],
+      "rol": "Capitán, «El Gran Capitán»",
+      "resumen": "Gonzalo Fernández de Córdoba y Enríquez de Aguilar (Montilla, 1 de septiembre de 1453-Granada, 2 de diciembre de 1515), conocido como «el Gran Capitán», fue un noble y militar español que alcanzó el rango de capitán general de los ejércitos de Castilla y Aragón por sus batallas durante la guerra de Granada (1482-1492) y especialmente, por la primera guerra italiana (1494-1498) y la guerra de Nápoles (1501-1504), cuyos méritos le convirtieron en virrey de Nápoles entre 1504 y 1507, además de ser nombrado duque de Santángelo, Terranova, Andría, Montalto y Sessa. También fue caballero y comendador de la Orden de Santiago. Finalmente regresó a Castilla y sus últimos días ocupó la alcaldía de Loja, trasladándose a Granada unos meses antes de su fallecimiento.\nEstratega, táctico y estadista, se le considera el pionero de la guerra moderna, habiendo reformado extensivamente los ejércitos ibéricos para aprovechar el poder de las armas de fuego en manos de la infantería.​​ Sus innovaciones producirían el germen de los tercios españoles y la hegemonía en los campos de batalla de Europa durante más de siglo y medio.​ Convertido en un general de prestigio internacional, mantuvo estrechas relaciones diplomáticas no sólo con la corona de Castilla y Aragón, sino con los mandatarios de los Estados Pontificios, el Sacro Imperio Romano Germánico y las distintas repúblicas italianas, de manera que su persona fuera \"...la más estimada que hubo en aquellos tiempos, pues tales príncipes, o deseaban tenerle por amigo, o recelaban que les fuese enemigo.\"​\nEn su honor, el moderno tercio de la Legión Española acuartelado en Melilla lleva su nombre.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/El_gran_capit%C3%A1n_%28Museo_del_Prado%29.jpg/960px-El_gran_capit%C3%A1n_%28Museo_del_Prado%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Gonzalo_Fern%C3%A1ndez_de_C%C3%B3rdoba",
+      "eventoIds": [
+        "toma-granada"
+      ]
+    },
+    {
+      "id": "marques-cadiz",
+      "nombre": "Rodrigo Ponce de León (1443-1492)",
+      "nacimiento": 1442.9166666666667,
+      "muerte": 1492.5833333333333,
+      "periodoRelevancia": [
+        1482,
+        1492
+      ],
+      "rol": "Marqués de Cádiz",
+      "resumen": "Rodrigo Ponce de León (Mairena del Alcor, 1443-Sevilla, 27/28 de agosto de 1492)​​​ fue un noble y militar castellano, X señor de Marchena, III conde de Arcos, II y último marqués de Cádiz,​ I duque de Cádiz en 1484​ y I marqués de Zahara.​ Fue uno de los principales capitanes de los Reyes Católicos en la guerra de Granada.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Retrato_de_Rodrigo_Ponce_de_Le%C3%B3n_%28Ayuntamiento_de_Sevilla%29.jpg/960px-Retrato_de_Rodrigo_Ponce_de_Le%C3%B3n_%28Ayuntamiento_de_Sevilla%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Rodrigo_Ponce_de_Le%C3%B3n_(1443-1492)",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [
+    {
+      "id": "sitio-malaga",
+      "titulo": "Toma de Málaga (1487)",
+      "tipo": "batalla",
+      "fecha": 1487.65,
+      "coordenadas": [
+        -4.42,
+        36.72
+      ],
+      "resumen": "Se conoce como la toma de Málaga al asedio llevado a cabo en 1487​ mediante el cual los Reyes Católicos conquistaron la ciudad de Málaga a al Reino nazarí de Granada, en el contexto de la guerra de Granada. El asedio duró unos cuatro meses de duración y supuso un episodio sangriento en la guerra final por la conquista del Reino nazarí de Granada.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Malaga_Alcazaba_25-9-2007a.JPG/960px-Malaga_Alcazaba_25-9-2007a.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Toma_de_M%C3%A1laga_(1487)",
+      "personajeIds": [
+        "fernando-ii",
+        "isabel-i"
+      ],
+      "rutaId": "guerra-granada"
+    },
+    {
+      "id": "toma-granada",
+      "titulo": "Guerra de Granada",
+      "tipo": "tratado",
+      "fecha": 1492.04,
+      "coordenadas": [
+        -3.6,
+        37.18
+      ],
+      "resumen": "La guerra de Granada fue el conjunto de campañas militares que tuvieron lugar entre 1482 y 1492, emprendidas por la reina Isabel I de Castilla y su esposo, el rey Fernando II de Aragón, en el interior del reino nazarí de Granada, que culminaron con la rendición del sultán Boabdil, quien había oscilado entre la alianza, el doble juego, la contemporización y el enfrentamiento abierto con ambos bandos.\nLa victoria cristiana tuvo como consecuencias la integración en la Corona de Castilla del último reino musulmán de la península ibérica, finalizándose el proceso histórico de la Reconquista que los reinos cristianos habían comenzado en el siglo VIII. Ese hecho motivó que el papa Alejandro VI concediese a Isabel y Fernando el título de Reyes Católicos en 1496.\nLos diez años de guerra no fueron un esfuerzo continuo: solían marcar un ritmo estacional de campañas iniciadas en primavera y detenidas en el invierno. Además, el conflicto estuvo sujeto a numerosas vicisitudes bélicas y civiles. En el bando cristiano fue decisiva la capacidad de integración en una misión común que emprendió principalmente la Corona de Castilla, apoyada por la nobleza castellana y el imprescindible impulso del clero, bajo la autoridad de la emergente Monarquía Católica. La participación de la Corona de Aragón fue de menor importancia: aparte de la presencia del propio rey Fernando, su participación consistió en la colaboración naval, la aportación de expertos artilleros y el empréstito financiero. En el bando musulmán fueron notables los enfrentamientos internos entre distintas facciones que favorecieron el éxito de sus contrarios.\nLa protocolaria entrega de las llaves de la ciudad de Granada y la ciudad palatina de la Alhambra el 2 de enero de 1492 se sigue conmemorando todos los años en esa fecha, con un tremolar de banderas desde el Ayuntamiento de Granada.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg/960px-La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Guerra_de_Granada",
+      "personajeIds": [
+        "fernando-ii",
+        "isabel-i",
+        "gran-capitan"
+      ],
+      "rutaId": "guerra-granada"
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,39 @@
+{
+  "personajes": [
+    {
+      "id": "garcia-hurtado",
+      "titulo": "García Hurtado de Mendoza",
+      "rol": "Gobernador de Chile",
+      "periodoRelevancia": [1557, 1561]
+    },
+    {
+      "id": "domingo-irala",
+      "titulo": "Domingo Martínez de Irala",
+      "rol": "Gobernador del Paraguay",
+      "periodoRelevancia": [1539, 1556]
+    },
+    {
+      "id": "diego-ordas",
+      "titulo": "Diego de Ordás",
+      "rol": "Capitán de Cortés, explorador del Orinoco",
+      "periodoRelevancia": [1519, 1532]
+    },
+    {
+      "id": "jeronimo-ortal",
+      "titulo": "Jerónimo Ortal",
+      "rol": "Explorador del Orinoco",
+      "periodoRelevancia": [1530, 1540]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "exploracion-orinoco",
+      "titulo": "Diego de Ordás",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1531.5,
+      "coordenadas": [-63.6, 8.15],
+      "personajeIds": ["diego-ordas", "jeronimo-ortal"],
+      "rutaId": "exploracion-orinoco"
+    }
+  ]
+}

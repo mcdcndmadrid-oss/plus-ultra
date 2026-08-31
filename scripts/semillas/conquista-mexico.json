@@ -1,0 +1,88 @@
+{
+  "personajes": [
+    {
+      "id": "cortes",
+      "titulo": "Hernán Cortés",
+      "rol": "Conquistador",
+      "periodoRelevancia": [1519, 1521]
+    },
+    {
+      "id": "malinche",
+      "titulo": "La Malinche",
+      "rol": "Intérprete y mediadora",
+      "periodoRelevancia": [1519, 1521]
+    },
+    {
+      "id": "alvarado",
+      "titulo": "Pedro de Alvarado",
+      "rol": "Capitán de Cortés",
+      "periodoRelevancia": [1519, 1521]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-veracruz",
+      "titulo": "Villa Rica de la Vera Cruz",
+      "tipo": "fundacion",
+      "fechaAprox": 1519.15,
+      "coordenadas": [-96.13, 19.2],
+      "personajeIds": ["cortes"]
+    },
+    {
+      "id": "alianza-tlaxcala",
+      "titulo": "República de Tlaxcallan",
+      "tipo": "tratado",
+      "fechaAprox": 1519.65,
+      "coordenadas": [-98.24, 19.32],
+      "personajeIds": ["cortes", "malinche"]
+    },
+    {
+      "id": "matanza-cholula",
+      "titulo": "Matanza de Cholula",
+      "tipo": "batalla",
+      "fechaAprox": 1519.75,
+      "coordenadas": [-98.3, 19.06],
+      "personajeIds": ["cortes", "malinche"]
+    },
+    {
+      "id": "entrada-tenochtitlan",
+      "titulo": "Conquista de México",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1519.85,
+      "coordenadas": [-99.13, 19.43],
+      "personajeIds": ["cortes", "malinche"]
+    },
+    {
+      "id": "matanza-toxcatl",
+      "titulo": "Matanza de Tóxcatl",
+      "tipo": "batalla",
+      "fechaAprox": 1520.3,
+      "coordenadas": [-99.13, 19.435],
+      "personajeIds": ["alvarado"]
+    },
+    {
+      "id": "noche-triste",
+      "titulo": "Noche Triste",
+      "tipo": "batalla",
+      "fechaAprox": 1520.5,
+      "coordenadas": [-99.15, 19.44],
+      "personajeIds": ["cortes"]
+    },
+    {
+      "id": "batalla-otumba",
+      "titulo": "Batalla de Otumba",
+      "tipo": "batalla",
+      "fechaAprox": 1520.55,
+      "coordenadas": [-98.76, 19.7],
+      "personajeIds": ["cortes"]
+    },
+    {
+      "id": "caida-tenochtitlan",
+      "titulo": "Caída de Tenochtitlan",
+      "tipo": "batalla",
+      "fechaAprox": 1521.65,
+      "coordenadas": [-99.13, 19.43],
+      "personajeIds": ["cortes"]
+    }
+  ]
+}

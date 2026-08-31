@@ -1,0 +1,11 @@
+{
+  "personajes": [
+    {
+      "id": "alonso-avila",
+      "titulo": "Alonso Dávila y Guzmán",
+      "rol": "Capitán de Cortés",
+      "periodoRelevancia": [1519, 1524]
+    }
+  ],
+  "eventos": []
+}

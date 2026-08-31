@@ -1,0 +1,11 @@
+{
+  "personajes": [
+    {
+      "id": "pedro-mendoza",
+      "titulo": "Pedro de Mendoza",
+      "rol": "Adelantado del Río de la Plata",
+      "periodoRelevancia": [1536, 1537]
+    }
+  ],
+  "eventos": []
+}

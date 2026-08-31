@@ -1,0 +1,33 @@
+{
+  "personajes": [
+    {
+      "id": "juan-esquivel",
+      "titulo": "Juan de Esquivel",
+      "rol": "Conquistador y primer gobernador de Jamaica",
+      "periodoRelevancia": [1509, 1512]
+    },
+    {
+      "id": "juan-de-la-cosa",
+      "titulo": "Juan de la Cosa",
+      "rol": "Cartógrafo y navegante",
+      "periodoRelevancia": [1492, 1510]
+    },
+    {
+      "id": "rodrigo-bastidas",
+      "titulo": "Rodrigo de Bastidas",
+      "rol": "Explorador, fundador de Santa Marta",
+      "periodoRelevancia": [1500, 1527]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-santa-marta",
+      "titulo": "Santa Marta (Colombia)",
+      "tipo": "fundacion",
+      "fechaAprox": 1525.55,
+      "coordenadas": [-74.2, 11.24],
+      "personajeIds": ["rodrigo-bastidas"],
+      "rutaId": "fundacion-santa-marta"
+    }
+  ]
+}

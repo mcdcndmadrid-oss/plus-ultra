@@ -1,0 +1,71 @@
+{
+  "personajes": [
+    {
+      "id": "juan-esquivel",
+      "nombre": "Juan de Esquivel",
+      "nacimiento": 1480,
+      "muerte": 1513,
+      "periodoRelevancia": [
+        1509,
+        1512
+      ],
+      "rol": "Conquistador y primer gobernador de Jamaica",
+      "resumen": "Juan de Esquivel (Sevilla, Reino de Sevilla, Corona de Castilla, ca. 1470 – Isla de Santiago, Virreinato colombino, después de 1514) fue un militar y explorador castellano que conquistó para la Corona en 1503 el territorio oriental de la isla La Española, en donde fundó la villa de Salvaleón de Higüey, y la isla de Jamaica en 1509 y por lo cual fue asignado como su primer teniente de gobernador desde 1510 hasta 1513, en representación del virrey de Indias.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jamaica_1528.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_de_Esquivel",
+      "eventoIds": []
+    },
+    {
+      "id": "juan-de-la-cosa",
+      "nombre": "Juan de la Cosa",
+      "nacimiento": 1449.9166666666667,
+      "muerte": 1510.0833333333333,
+      "periodoRelevancia": [
+        1492,
+        1510
+      ],
+      "rol": "Cartógrafo y navegante",
+      "resumen": "Juan de la Cosa (Santoña, entre 1451 y 1460-Turbaco, 28 de febrero de 1510)​ fue un navegante y cartógrafo español conocido por haber participado en siete de los primeros viajes a América y por haber dibujado el mapa más antiguo conservado en el que aparece el continente americano.\nJuan de la Cosa tuvo un papel destacado en el primer y el segundo viaje de Cristóbal Colón a las Antillas y en 1499 participó como piloto mayor en la expedición de Alonso de Ojeda a las costas del continente sudamericano. A su regreso a España dibujó su famoso mapamundi y poco después volvió a embarcarse hacia las Indias, esta vez con Rodrigo de Bastidas. En los años siguientes alternó viajes a América bajo su propio mando con encargos especiales de la Corona de Castilla, incluyendo una misión como espía en Lisboa y la participación en la Junta de pilotos de Burgos de 1508. En 1509 emprendió la que sería su última expedición, de nuevo junto a Ojeda, para tomar posesión de las costas de la actual Colombia. De la Cosa murió en la bahía de Calamar en un enfrentamiento armado con indígenas antes de poder llegar a ejercer su cargo de alguacil mayor de Urabá.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Juan-de-la-cosa.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_de_la_Cosa",
+      "eventoIds": []
+    },
+    {
+      "id": "rodrigo-bastidas",
+      "nombre": "Rodrigo de Bastidas",
+      "nacimiento": 1473.9166666666667,
+      "muerte": 1527.5,
+      "periodoRelevancia": [
+        1500,
+        1527
+      ],
+      "rol": "Explorador, fundador de Santa Marta",
+      "resumen": "Rodrigo I de Bastidas, a veces escrito como Rodrigo de la Bastida​ (Triana, circa 1475​–Santiago de Cuba, 28 de julio de 1527) fue un adelantado y conquistador español. Exploró el litoral de Venezuela, Colombia y Panamá en 1502​ y fundó la ciudad de Santa Marta en 1525.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bastidas.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Rodrigo_de_Bastidas",
+      "eventoIds": [
+        "fundacion-santa-marta"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "fundacion-santa-marta",
+      "titulo": "Santa Marta (Colombia)",
+      "tipo": "fundacion",
+      "fecha": 1525.55,
+      "coordenadas": [
+        -74.2,
+        11.24
+      ],
+      "resumen": "Santa Marta, oficialmente Distrito Turístico, Cultural e Histórico de Santa Marta, es un distrito de Colombia, capital del departamento del Magdalena en la Región Caribe. Fue fundada el 29 de julio de 1525 por el español Rodrigo de Bastidas, lo que la convierte en la ciudad en pie más antigua de Colombia y la segunda más antigua de América del Sur. Esta ciudad, emplazada en la bahía de su mismo nombre, es uno de los principales destinos turísticos del país por sus numerosas playas, reservas naturales, su patrimonio cultural e histórico y por ser uno de los accesos a la montaña más alta del mundo en zona costera, la Sierra Nevada de Santa Marta y a sus antiguas comunidades indígenas.​ Desde 1991 fue organizada constitucionalmente como Distrito Turístico, Cultural e Histórico.​ \nEs conocida por sus actividades turísticas, la historia de sus calles y sus playas.​ El balneario El Rodadero es uno de los principales destinos del Caribe colombiano. Su casco urbano se encuentra entre la Sierra Nevada de Santa Marta y el mar Caribe, y el parque Tayrona y Ciudad Perdida se encuentra bajo su jurisdicción. Entre sus atracciones culturales e históricas están la Casa de la Aduana, la Catedral Basílica, la Biblioteca Banco de la República, el Seminario San Juan Nepomuceno, el Paseo Bastidas, la Quinta de San Pedro Alejandrino, la plaza de Bolívar y el parque Los Novios.\nSu núcleo más poblado y de mayor actividad comercial es la zona central, desde donde se desarrolló la ciudad a partir del siglo XVII. El plano comprendido entre la carrera Primera y las avenidas Santa Rita y del Ferrocarril enmarca su centro histórico y su núcleo comercial, encontrándose además su núcleo de turismo de playa en la zona de El Rodadero. \nSanta Marta es conocida por haber sido el lugar en el que Simón Bolívar falleció en 1830 en la Quinta de San Pedro Alejandrino, en esa época quedaba a las afueras de la ciudad.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Arrecifes.jpg/960px-Arrecifes.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Santa_Marta_(Colombia)",
+      "personajeIds": [
+        "rodrigo-bastidas"
+      ],
+      "rutaId": "fundacion-santa-marta"
+    }
+  ],
+  "avisos": []
+}

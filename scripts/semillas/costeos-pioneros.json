@@ -1,0 +1,33 @@
+{
+  "personajes": [
+    {
+      "id": "alvarez-pineda",
+      "titulo": "Alonso Álvarez de Pineda",
+      "rol": "Explorador, primer cartógrafo del golfo de México",
+      "periodoRelevancia": [1519, 1519]
+    },
+    {
+      "id": "cabrillo",
+      "titulo": "Juan Rodríguez Cabrillo",
+      "rol": "Explorador, primer europeo en la costa de California",
+      "periodoRelevancia": [1542, 1543]
+    },
+    {
+      "id": "vespucio",
+      "titulo": "Américo Vespucio",
+      "rol": "Navegante al servicio de la Corona de Castilla",
+      "periodoRelevancia": [1499, 1500]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "costeo-california-cabrillo",
+      "titulo": "Juan Rodríguez Cabrillo",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1542.75,
+      "coordenadas": [-117.24, 32.71],
+      "personajeIds": ["cabrillo"],
+      "rutaId": "costeo-california"
+    }
+  ]
+}

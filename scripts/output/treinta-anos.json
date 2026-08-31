@@ -1,0 +1,58 @@
+{
+  "personajes": [
+    {
+      "id": "spinola",
+      "nombre": "Ambrosio Spínola",
+      "nacimiento": 1569,
+      "muerte": 1630.6666666666667,
+      "periodoRelevancia": [
+        1602,
+        1630
+      ],
+      "rol": "General al servicio de España",
+      "resumen": "Ambrosio Spínola Doria (en italiano: Ambrogio Spinola Doria; Génova, 1569-Castelnuovo Scrivia, 25 de septiembre de 1630) fue un aristócrata genovés al servicio de la Monarquía Hispánica, capitán general de Flandes durante la guerra de los Ochenta Años. Organizó la toma de numerosas ciudades holandesas y es recordado como uno de los últimos grandes jefes militares del Siglo de Oro español. Fue I duque de Sesto (1612), I marqués de los Balbases (1621) y grande de España, y se lo nombró caballero de la Orden de Santiago y del Toisón de Oro.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Studio_of_Peter_Paul_Rubens_-_Marquis_Ambrogio_Spinola.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Ambrosio_Sp%C3%ADnola",
+      "eventoIds": [
+        "guerra-treinta-anos",
+        "sitio-breda"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "guerra-treinta-anos",
+      "titulo": "Guerra de los Treinta Años",
+      "tipo": "batalla",
+      "fecha": 1618.4,
+      "coordenadas": [
+        14.42,
+        50.09
+      ],
+      "resumen": "La guerra de los Treinta Años fue una guerra librada en la Europa Central (principalmente el Sacro Imperio Romano Germánico) entre los años 1618 y 1648, en la que intervinieron la mayoría de las grandes potencias europeas de la época. Este conflicto marcó el futuro del conjunto de Europa en los siglos posteriores.​​ Conflictos relacionados incluyen la guerra de los Ochenta Años, la guerra de Sucesión de Mantua, la guerra franco-española, la guerra de Torstenson, la guerra luso-neerlandesa y la guerra de Restauración portuguesa.\nAunque inicialmente se trataba de un conflicto político-religioso entre Estados partidarios de la reforma y la contrarreforma dentro del propio Sacro Imperio Romano Germánico (SIRG), la intervención paulatina de las distintas potencias europeas convirtió gradualmente el conflicto en una guerra general por toda Europa, por razones no necesariamente relacionadas con la religión:​ búsqueda de una situación de equilibrio político, alcanzar la hegemonía en el escenario europeo, enfrentamiento con una potencia rival, etc.\nLa Paz de Augsburgo de 1555 había intentado resolver el conflicto religioso dentro del Sacro Imperio dividiéndolo en Estados católicos y luteranos, pero esta resolución fue desestabilizada posteriormente por la expansión del protestantismo más allá de esos límites. Combinado con desacuerdos sobre los límites de la autoridad imperial, la religión fue de esta manera un factor importante en el estallido de la guerra. Sin embargo, su alcance fue en gran medida consecuencia de fuerzas externas como la rivalidad Francia-Habsburgo y la Revuelta neerlandesa.\nLa guerra empezó en 1618, cuando el emperador católico Fernando II fue reemplazado como rey de Bohemia por el protestante Federico V del Palatinado. Si bien Federico fue derrocado prontamente, su participación significó que los combates se expandieron hacia el Palatinado. Su importancia estratégica provino de las Provincias Unidas de los Países Bajos y el Imperio español, para entonces envueltos en la guerra de los Ochenta Años, mientras que la adquisición de territorios imperiales le dio a gobernantes como Cristián IV de Dinamarca o Gustavo Adolfo de Suecia motivos renovados para intervenir. Estos factores, junto con los miedos protestantes de que su religión estaba amenazada, transformaron una disputa dinástica interna en un conflicto más amplio.\nLa guerra de los Treinta Años llegó a su final con la Paz de Westfalia y la Paz de los Pirineos, y supuso el punto culminante de la rivalidad entre Francia y los territorios de los Habsburgo (el Imperio español y el Sacro Imperio Romano Germánico) por la hegemonía en Europa, que conduciría en años posteriores a nuevas guerras entre ambas potencias.\nEl mayor impacto de esta guerra, en la que se usaron mercenarios de forma generalizada, fue la total devastación de lugares enteros que fueron esquilmados por los ejércitos necesitados de suministros. Los continuos episodios de hambrunas y enfermedades diezmaron la población civil de los Estados alemanes y, en menor medida, de los Países Bajos e Italia, además de llevar a la bancarrota a muchas de las potencias implicadas.​ Aunque la guerra duró treinta años, los conflictos que la generaron siguieron sin resolverse durante mucho tiempo.​\nDurante el curso de esta, la población del Sacro Imperio se vio reducida en un 30 %.​ En Brandeburgo se llegó al 50 %, y en otras regiones incluso a dos tercios. La población masculina en Alemania disminuyó a la mitad. En los Países Checos la población cayó en un tercio a causa de la guerra, el hambre, las enfermedades y la expulsión masiva de checos protestantes. Solo los ejércitos suecos destruyeron durante la guerra dos mil castillos, dieciocho mil villas y mil quinientos pueblos en Alemania.​​​​\nEn el territorio del Sacro Imperio Romano Germánico, que se convirtió en el principal teatro de operaciones, la larga serie de conflictos que forman la guerra pueden dividirse en cinco etapas diferenciadas:\n\nrevuelta bohemia e intervención imperial (1618-1620)\ncampañas militares en el Palatinado (1620-1624)\nintervención danesa (1625-1629)\nintervención sueca (1630-1635)\nintervención francesa (1635-1648)\nLos conflictos fuera de Alemania tomaron la forma de guerras locales: \n\nguerra de los Ochenta Años\nguerra de la Valtelina\nguerra anglo-española\nguerra genovesa-saboyana\nguerra polaco-sueca\nguerra anglo-francesa\nguerra de Sucesión de Mantua\nguerra ruso-polaca\nguerra polaco-otomana\nguerra franco-española\nguerra de Restauración portuguesa\nguerra de Torstenson\nSigfried Steinberg también marca la guerra de los Treinta Años como doce guerras interrumpidas por la tregua y la paz.​ La guerra de los Treinta Años no fue un único conflicto de 30 años de duración sin interrupciones. Durante este período se desencadenaron 13 guerras y se firmaron 10 tratados de paz.​ Los historiadores de la época del siglo XVII consideraron cada uno de estos conflictos por separado en lugar de una única guerra. El nombre «Guerra de los Treinta Años» se acuñó a finales del siglo XVII.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Batalla_de_N%C3%B6rdlingen_III%2C_Peter_Snayers.jpg/960px-Batalla_de_N%C3%B6rdlingen_III%2C_Peter_Snayers.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Guerra_de_los_Treinta_A%C3%B1os",
+      "personajeIds": [
+        "spinola"
+      ],
+      "rutaId": "treinta-anos"
+    },
+    {
+      "id": "sitio-breda",
+      "titulo": "Sitio de Breda",
+      "tipo": "batalla",
+      "fecha": 1624.7,
+      "coordenadas": [
+        4.78,
+        51.59
+      ],
+      "resumen": "Sitio de Breda puede referirse a diversos asedios sufridos por esta ciudad neerlandesa, en la provincia de Brabante:\n\nAsedio de Breda de 1577: las fuerzas de los Estados Generales de los Países Bajos sitian la ciudad y pactan su rendición.\nToma de Breda de 1581: los tercios españoles de Claude de Berlaymont toman la ciudad con la connivencia de Charles de Gavre, del consejo de estado holandés.\nToma de Breda de 1590: un pequeño grupo de soldados holandeses bajo el mando de Charles de Heraugiere, con el apoyo de Mauricio de Nassau, toman la ciudad por asalto, dispersando a los soldados italianos de la guarnición defensora.\nAsedio de Breda de 1625: Ambrosio Spinola, al frente de los tercios españoles, rinde la ciudad bajo el gobierno del holandés Justino de Nassau.\nAsedio de Breda de 1637: Federico Enrique de Orange-Nassau, al mando del ejército holandés, sitia y rinde la ciudad.\nAsedio de Breda de 1813. Entre el 19-22 diciembre. Victoria tropas ruso-neerlandesas. Frente al ejército francés que había abandonado la ciudad el día 10 y que fracasa en su intento de recuperarla. Durante la guerra de la sexta coalición.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Sitio_de_Breda",
+      "personajeIds": [
+        "spinola"
+      ],
+      "rutaId": "treinta-anos"
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,59 @@
+{
+  "personajes": [
+    {
+      "id": "juan-padilla",
+      "nombre": "Juan de Padilla",
+      "nacimiento": 1490.8333333333333,
+      "muerte": 1521.25,
+      "periodoRelevancia": [
+        1520,
+        1521
+      ],
+      "rol": "Líder comunero",
+      "resumen": "Juan López de Padilla y Dávalos (Toledo, 10 de noviembre de 1490-Villalar, 24 de abril de 1521) fue un hidalgo castellano marido de María Pacheco, conocido por su decisiva participación en la guerra de las Comunidades de Castilla, en la cual apoyó al bando sublevado en armas contra el monarca Carlos I. Murió decapitado tras la derrota comunera en Villalar.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/9/90/1853%2C_Los_m%C3%A1rtires_de_la_libertad_espa%C3%B1ola%2C_vol_I%2C_Juan_de_Padilla_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_de_Padilla",
+      "eventoIds": [
+        "sitio-medina-campo",
+        "batalla-villalar"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "sitio-medina-campo",
+      "titulo": "Guerra de las Comunidades de Castilla",
+      "tipo": "rebelion",
+      "fecha": 1520.65,
+      "coordenadas": [
+        -4.9,
+        41.31
+      ],
+      "resumen": "La guerra de las Comunidades de Castilla fue el levantamiento armado de los llamados comuneros, acaecido en la Corona de Castilla desde el año 1520 hasta 1522, es decir, a comienzos del reinado de Carlos I. Las ciudades protagonistas fueron las del interior de la Meseta Central, situándose a la cabeza del alzamiento las de Segovia, Toledo y Valladolid. Su carácter ha sido objeto de agitado debate historiográfico, con posturas y enfoques contradictorios.​ Así, algunos estudiosos califican las Comunidades como una revuelta antiseñorial; otros, como una de las primeras revoluciones burguesas de la Era Moderna,​ y otra postura defiende que se trató más bien de un movimiento antifiscal y particularista, de índole medievalizante.\nEl levantamiento se produjo en un momento de inestabilidad política de la Corona, que se arrastraba desde la muerte de Isabel la Católica en 1504. En octubre de 1517, el rey Carlos I llegó a Asturias proveniente de Flandes, donde se había autoproclamado rey de sus posesiones hispánicas en 1516. A las Cortes de Valladolid de 1518 llegó sin saber hablar apenas castellano y trayendo consigo un gran número de nobles y clérigos flamencos como corte, lo que produjo recelos entre las élites sociales castellanas, que sintieron que su advenimiento les acarrearía una pérdida de poder y estatus social. Este descontento fue transmitiéndose a las capas populares y, como primera protesta pública, aparecieron pasquines en las iglesias donde podía leerse:\n\n \n\nLas demandas fiscales, coincidentes con la salida del rey para la elección imperial en Alemania tras las Cortes de Santiago y La Coruña de 1520, produjeron una serie de revueltas urbanas que se coordinaron e institucionalizaron, encontrando un candidato alternativo a la corona en la «reina propietaria de Castilla», la madre de Carlos, Juana, cuya incapacidad o locura podía ser objeto de revisión, aunque la propia Juana, de hecho, no colaborara. Tras prácticamente un año de rebelión, se habían reorganizado los partidarios del emperador —particularmente la alta nobleza y los territorios periféricos castellanos, como los reinos andaluces y Granada— y las tropas imperiales asestaron un golpe casi definitivo a las comuneras en Villalar el 23 de abril de 1521. Allí mismo, al día siguiente, se decapitó a los líderes comuneros: Padilla, Bravo y Maldonado. El ejército comunero quedaba, así, descompuesto. Solamente Toledo mantuvo viva su rebeldía, hasta su rendición definitiva casi un año después, el 3 de febrero de 1522.\nLas Comunidades han sido siempre motivo de atento estudio histórico en España, y su significado a veces ha sido mitificado y utilizado políticamente, en particular a partir de la visita del Empecinado a Villalar el 23 de abril de 1821, con motivo del tercer centenario de la derrota, tal como era sentida por los liberales. Pintores como Antonio Gisbert retrataron a los comuneros en algunas de sus obras, y se firmaron documentos como el Pacto Federal Castellano, con claras referencias a las Comunidades. Los intelectuales conservadores o reaccionarios adoptaron interpretaciones mucho más favorables a la postura imperial y críticas hacia los comuneros. A partir de la segunda mitad del siglo xx, se revitalizaron los estudios históricos utilizando una metodología renovada.\nMás recientemente, en el plano político, desde principios de la transición a la democracia, se comenzó a conmemorar la derrota cada 23 de abril, alcanzando finalmente, con la conformación de Castilla y León como autonomía, el estatus de Día de la Comunidad. Asimismo, su utilización como elemento simbólico está muy presente en los movimientos castellanistas y regionalistas castellanoleoneses. Ha tenido una notable difusión popular mediante el poema épico Los comuneros, de Luis López Álvarez, musicalizado por el Nuevo Mester de Juglaría.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Los_comuneros_Padilla%2C_Bravo_y_Maldonado_en_el_pat%C3%ADbulo_por_Antonio_Gisbert.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Guerra_de_las_Comunidades_de_Castilla",
+      "personajeIds": [
+        "juan-padilla"
+      ],
+      "rutaId": "guerra-comunidades"
+    },
+    {
+      "id": "batalla-villalar",
+      "titulo": "Batalla de Villalar",
+      "tipo": "batalla",
+      "fecha": 1521.32,
+      "coordenadas": [
+        -5.1,
+        41.53
+      ],
+      "resumen": "La batalla de Villalar fue un enfrentamiento armado librado durante la guerra de las Comunidades de Castilla que enfrentó el 23 de abril de 1521 en Villalar a las fuerzas realistas partidarias del rey Carlos I de España, capitaneadas por Íñigo Fernández de Velasco y Mendoza, condestable castellano que ejercía de gobernador del reino por la ausencia del monarca,​ y las comuneras de la Santa Junta conformada en Ávila en julio del año anterior.\nLas consecuencias del enfrentamiento fueron profundas, ya que la derrota comunera y el ajusticiamiento de sus líderes un día después puso fin casi por completo al conflicto —excepto en Toledo, donde la resistencia se prolongó hasta febrero de 1522—.​",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/BatallaDeVillalar.jpg/960px-BatallaDeVillalar.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Batalla_de_Villalar",
+      "personajeIds": [
+        "juan-padilla"
+      ],
+      "rutaId": "guerra-comunidades"
+    }
+  ],
+  "avisos": []
+}

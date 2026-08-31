@@ -1,0 +1,48 @@
+{
+  "personajes": [
+    {
+      "id": "palafox",
+      "titulo": "José de Palafox",
+      "rol": "General, defensor de Zaragoza",
+      "periodoRelevancia": [1808, 1814]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "dos-mayo-1808",
+      "titulo": "Levantamiento del 2 de mayo de 1808",
+      "tipo": "rebelion",
+      "fechaAprox": 1808.33,
+      "coordenadas": [-3.7, 40.42],
+      "personajeIds": [],
+      "rutaId": "guerra-independencia-espanola"
+    },
+    {
+      "id": "sitio-zaragoza",
+      "titulo": "Sitios de Zaragoza",
+      "tipo": "batalla",
+      "fechaAprox": 1808.5,
+      "coordenadas": [-0.88, 41.65],
+      "personajeIds": ["palafox"],
+      "rutaId": "guerra-independencia-espanola"
+    },
+    {
+      "id": "batalla-bailen",
+      "titulo": "Batalla de Bailén",
+      "tipo": "batalla",
+      "fechaAprox": 1808.58,
+      "coordenadas": [-3.78, 38.1],
+      "personajeIds": [],
+      "rutaId": "guerra-independencia-espanola"
+    },
+    {
+      "id": "batalla-vitoria",
+      "titulo": "Batalla de Vitoria",
+      "tipo": "batalla",
+      "fechaAprox": 1813.48,
+      "coordenadas": [-2.67, 42.85],
+      "personajeIds": [],
+      "rutaId": "guerra-independencia-espanola"
+    }
+  ]
+}

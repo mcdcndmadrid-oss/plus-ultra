@@ -1,0 +1,30 @@
+{
+  "personajes": [
+    {
+      "id": "felipe-v",
+      "titulo": "Felipe V de España",
+      "rol": "Rey de España",
+      "periodoRelevancia": [1700, 1746]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "guerra-sucesion-espanola",
+      "titulo": "Guerra de Sucesión Española",
+      "tipo": "batalla",
+      "fechaAprox": 1701.6,
+      "coordenadas": [-3.7, 40.42],
+      "personajeIds": ["felipe-v"],
+      "rutaId": "guerra-sucesion"
+    },
+    {
+      "id": "sitio-barcelona-1714",
+      "titulo": "Sitio de Barcelona (1713-1714)",
+      "tipo": "batalla",
+      "fechaAprox": 1714.75,
+      "coordenadas": [2.17, 41.38],
+      "personajeIds": ["felipe-v"],
+      "rutaId": "guerra-sucesion"
+    }
+  ]
+}

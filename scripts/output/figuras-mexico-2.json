@@ -1,0 +1,120 @@
+{
+  "personajes": [
+    {
+      "id": "gonzalo-sandoval",
+      "nombre": "Gonzalo de Sandoval",
+      "nacimiento": 1497,
+      "muerte": 1528,
+      "periodoRelevancia": [
+        1519,
+        1528
+      ],
+      "rol": "Capitán de Cortés",
+      "resumen": "Gonzalo de Sandoval (Medellín, 1497 – Niebla, 1528) fue un conquistador español nacido en Medellín (provincia de Badajoz, Extremadura, España) en 1497. Era hijo de Juan Sandoval, un hidalgo local de modestos recursos. Siendo un adolescente, cruzó el océano Atlántico y se estableció en la isla de Cuba, donde para 1518 ya ostentaba el rango de capitán. Al año siguiente inició la conquista de México con su paisano Hernán Cortés. Durante algún tiempo fue cogobernador de Nueva España mientras Cortés estuvo lejos de la capital, del 2 de marzo al 22 de agosto de 1527.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gonzalo-de-sandoval.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Gonzalo_de_Sandoval",
+      "eventoIds": []
+    },
+    {
+      "id": "cristobal-olid",
+      "nombre": "Cristóbal de Olid",
+      "nacimiento": 1487,
+      "muerte": 1523.9166666666667,
+      "periodoRelevancia": [
+        1519,
+        1524
+      ],
+      "rol": "Capitán de Cortés, conquistador de Michoacán",
+      "resumen": "Cristóbal de Olid (Linares, Jaén, Corona castellana, 1489 - Naco, Virreinato de Nueva España, Imperio español, 1524) fue un explorador y conquistador español que participó, acompañando a Hernán Cortés, en la conquista de México y de Honduras.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/6/69/Crist%C3%B3bal_de_Olid.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Crist%C3%B3bal_de_Olid",
+      "eventoIds": []
+    },
+    {
+      "id": "bernal-diaz",
+      "nombre": "Bernal Díaz del Castillo",
+      "nacimiento": 1492,
+      "muerte": 1583.9166666666667,
+      "periodoRelevancia": [
+        1519,
+        1521
+      ],
+      "rol": "Soldado y cronista de la conquista",
+      "resumen": "Bernal Díaz del Castillo (Medina del Campo, 1496(?)-Santiago de los Caballeros de Guatemala, 3 de febrero de 1584) fue un conquistador español que participó en la conquista de México y fue más tarde regidor de Santiago de los Caballeros de Guatemala. Se le atribuye la autoría de la Historia verdadera de la conquista de la Nueva España, la cual comenzó a redactar como un monumento de guerras; más tarde fue revisada y expandida en respuesta a la publicación de Francisco López de Gómara, que Díaz del Castillo consideraba muy imprecisa, además de que no reconocía los esfuerzos que realizaron los soldados comunes durante la conquista de México.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Supuesto_retrato_de_Bernal_D%C3%ADaz_Del_Castillo_por_Genaro_Garc%C3%ADa_basado_en_el_retrato_del_rey_franc%C3%A9s_Enrique_IV_1904.jpeg/960px-Supuesto_retrato_de_Bernal_D%C3%ADaz_Del_Castillo_por_Genaro_Garc%C3%ADa_basado_en_el_retrato_del_rey_franc%C3%A9s_Enrique_IV_1904.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Bernal_D%C3%ADaz_del_Castillo",
+      "eventoIds": []
+    },
+    {
+      "id": "juan-grijalva",
+      "nombre": "Juan de Grijalva",
+      "nacimiento": 1489.9166666666667,
+      "muerte": 1527,
+      "periodoRelevancia": [
+        1518,
+        1518
+      ],
+      "rol": "Explorador, precursor de la conquista de México",
+      "resumen": "Juan de Grijalva (Cuéllar (Castilla), 1489-Olancho, Honduras, 1527) fue un descubridor y conquistador español que participó en la exploración y conquista de Cuba con el adelantado Diego Velázquez de Cuéllar (1511), de quien, además de su sobrino, fue su capitán. ​También participó en la exploración a las costas mexicanas —en la que destacaron la exploración de Yucatán y de Tabasco (1518)—; en la exploración de Francisco de Garay de las costas y territorios del Norte en el actual Estado de Veracruz y golfo de México (1522-1523) y finalmente en la conquista de Honduras con Pedrarias Dávila (1527), en la que pereció.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Juan_de_Grijalva.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_de_Grijalva",
+      "eventoIds": [
+        "expedicion-grijalva"
+      ]
+    },
+    {
+      "id": "francisco-montejo",
+      "nombre": "Francisco de Montejo \"El Adelantado\"",
+      "nacimiento": 1479,
+      "muerte": 1553,
+      "periodoRelevancia": [
+        1527,
+        1546
+      ],
+      "rol": "Adelantado, conquistador de Yucatán",
+      "resumen": "Francisco de Montejo (Salamanca, 1479-Salamanca, 1553) fue un militar y explorador español que en su calidad de adelantado del imperio español y en compañía de su hijo y de su sobrino, los tres del mismo nombre, conquistó la península de Yucatán en el siglo XVI, entonces dominio de los pueblos mayas en el sureste del actual México.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Monumento_a_los_Montejo.jpg/960px-Monumento_a_los_Montejo.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Francisco_de_Montejo_%22El_Adelantado%22",
+      "eventoIds": [
+        "conquista-yucatan"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "expedicion-grijalva",
+      "titulo": "Juan de Grijalva",
+      "tipo": "descubrimiento",
+      "fecha": 1518.35,
+      "coordenadas": [
+        -95.9,
+        18.15
+      ],
+      "resumen": "Juan de Grijalva (Cuéllar (Castilla), 1489-Olancho, Honduras, 1527) fue un descubridor y conquistador español que participó en la exploración y conquista de Cuba con el adelantado Diego Velázquez de Cuéllar (1511), de quien, además de su sobrino, fue su capitán. ​También participó en la exploración a las costas mexicanas —en la que destacaron la exploración de Yucatán y de Tabasco (1518)—; en la exploración de Francisco de Garay de las costas y territorios del Norte en el actual Estado de Veracruz y golfo de México (1522-1523) y finalmente en la conquista de Honduras con Pedrarias Dávila (1527), en la que pereció.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Juan_de_Grijalva.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_de_Grijalva",
+      "personajeIds": [
+        "juan-grijalva"
+      ],
+      "rutaId": "expedicion-grijalva"
+    },
+    {
+      "id": "conquista-yucatan",
+      "titulo": "Conquista de Yucatán",
+      "tipo": "batalla",
+      "fecha": 1542,
+      "coordenadas": [
+        -89.62,
+        20.97
+      ],
+      "resumen": "La llamada conquista de Yucatán está referida a la exploración y establecimiento del dominio español sobre los territorios septentrionales y centrales de la península de Yucatán, incluyendo los actuales estados de Chiapas y Tabasco en México, además de los actuales estados independientes de Guatemala, Belice, Honduras y El Salvador, en Centroamérica. Este episodio se inició en 1527, finalizando en 1697 cuando los españoles tomaron Tayasal, en lo que ahora es El Petén (Guatemala).\nLa conquista fue un proceso trabajoso y alargado en el tiempo que solo pudo llevarse a término mediante el auxilio de guerreros nahúas una vez finalizada la conquista de Tenochtitlán por Hernán Cortés.​ Aun así, la resistencia de la población fue característica definitoria de los pobladores mayas de este territorio que, incluso bajo el nuevo estado mexicano independiente, siguió mostrando signos de rebeldía. Buen ejemplo de este carácter fue el levantamiento que tuvo lugar ya bien avanzado el siglo XIX y que fue conocido como Guerra de Castas.",
+      "imagenWiki": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Yucatan_peninsula_250m.jpg/960px-Yucatan_peninsula_250m.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Conquista_de_Yucat%C3%A1n",
+      "personajeIds": [
+        "francisco-montejo"
+      ],
+      "rutaId": "conquista-yucatan"
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,36 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "guerra-segadors",
+      "titulo": "Sublevación de Cataluña",
+      "tipo": "rebelion",
+      "fecha": 1640.5,
+      "coordenadas": [
+        2.15,
+        41.39
+      ],
+      "resumen": "La sublevación de Cataluña, revuelta de los catalanes, guerra de Cataluña o guerra de los Segadores (en catalán: guerra dels Segadors) afectó a gran parte de Cataluña entre los años 1640 y 1652 y llegó a su fin en 1659. Tuvo como efecto más duradero la firma del Tratado de los Pirineos entre la monarquía española y la francesa, por el que el condado del Rosellón y la mitad del condado de Cerdaña, hasta aquel momento partes integrantes del principado de Cataluña, uno de los territorios de España, pasaron a la soberanía del Reino de Francia.\nLa sublevación comienza con el Corpus de Sangre del 7 de junio de 1640, explosión de violencia en Barcelona (cuyo hecho más trascendente es el asesinato del conde de Santa Coloma, noble catalán y virrey de Cataluña) protagonizada por campesinos y segadores que se sublevaron debido a los abusos cometidos por el ejército real, compuesto por mercenarios de diversas procedencias, desplegado en el Principado a causa de la guerra con la Monarquía de Francia, enmarcada dentro de la guerra de los Treinta Años (1618-1648).\nLos sublevados justificaron la rebelión principalmente con argumentos religiosos, acusando al Ejército Real de haber cometido sacrilegios. Se acusó, de modo especial, al tercio mandado por el napolitano Leonardo Molas​ de haber robado e incendiado la iglesia de Riudarenas con el Santísimo Sacramento. Polemistas de la época como Francisco de Quevedo o Pedro Calderón de la Barca (que fue uno de los soldados allí acantonados) negaron esta imputación,​ afirmando que nada tenía que ver la rebelión de los catalanes con la defensa de la religión, pues los Tercios combatían por ella, y que el origen del conflicto había sido la negativa de los paisanos a dar alojamiento a los soldados.​",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/2/21/Asediodebarcelona1652_nuevo.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Sublevaci%C3%B3n_de_Catalu%C3%B1a",
+      "personajeIds": [],
+      "rutaId": "rebeliones-1640"
+    },
+    {
+      "id": "restauracion-portugal",
+      "titulo": "Guerra de Restauración portuguesa",
+      "tipo": "rebelion",
+      "fecha": 1640.98,
+      "coordenadas": [
+        -9.14,
+        38.71
+      ],
+      "resumen": "La guerra de Restauración portuguesa (en portugués: Guerra da Restauração) enfrentó a Portugal con el resto de reinos, estados y señoríos hispánicos. Esta contienda comenzó con el levantamiento a favor de la restauración de la independencia el 1 de diciembre de 1640 —que puso fin a la monarquía dual de los Habsburgo, que databa de 1580— y terminó con el Tratado de Lisboa de 1668, firmado por Alfonso VI de Portugal y Carlos II de España, en el cual se reconoció la total independencia de Portugal. El alzamiento de 1640 y la dilatada guerra que desencadenó pusieron fin a un periodo de sesenta años de dominio de la Casa de Austria en Portugal.​​\nEl período de 1640 a 1668 se caracterizó por enfrentamientos periódicos entre Portugal y España, tanto pequeñas contiendas como graves conflictos armados, muchos de los cuales implicaron a potencias no ibéricas. España participó en la guerra de los Treinta Años hasta 1648 y en la guerra franco-española hasta 1659, mientras que Portugal participó en la guerra luso-neerlandesa hasta 1663. El frente se mantuvo estático y, por parte española, fundamentalmente a la defensiva hasta 1660, dada la prioridad que la corte hispánica otorgó a sofocar la sublevación de Cataluña.​ Las principales plazas no cambiaron de manos.​\nLa guerra estableció la Casa de Braganza como nueva dinastía reinante de Portugal, en sustitución de los Austrias. Esto puso fin a la llamada Unión Ibérica.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/7/79/Joao_IV_proclaimed_king-modificated.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Guerra_de_Restauraci%C3%B3n_portuguesa",
+      "personajeIds": [],
+      "rutaId": "rebeliones-1640"
+    }
+  ],
+  "avisos": []
+}

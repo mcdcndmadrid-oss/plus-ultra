@@ -1,0 +1,40 @@
+{
+  "personajes": [
+    {
+      "id": "onez-loyola",
+      "nombre": "Martín García Óñez de Loyola",
+      "nacimiento": 1549,
+      "muerte": 1598.9166666666667,
+      "periodoRelevancia": [
+        1572,
+        1598
+      ],
+      "rol": "Capitán, gobernador de Chile",
+      "resumen": "Martín García Óñez de Loyola (Azpeitia, 1549-Curalaba, 23 de diciembre de 1598) fue un funcionario español, que participó en importantes acciones militares y ejerció altos cargos políticos en el Virreinato del Perú, entre ellos el de gobernador del Reino de Chile.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Retrato_O%C3%B1ez_de_Loyola.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Garc%C3%ADa_%C3%93%C3%B1ez_de_Loyola",
+      "eventoIds": [
+        "caida-vilcabamba"
+      ]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "caida-vilcabamba",
+      "titulo": "Vilcabamba",
+      "tipo": "batalla",
+      "fecha": 1572.5,
+      "coordenadas": [
+        -73.03,
+        -13.13
+      ],
+      "resumen": "Vilcabamba puede referirse a:",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Vilcabamba",
+      "personajeIds": [
+        "onez-loyola"
+      ],
+      "rutaId": "resistencia-vilcabamba"
+    }
+  ],
+  "avisos": []
+}

@@ -1,0 +1,45 @@
+{
+  "personajes": [
+    {
+      "id": "carlos-iii",
+      "titulo": "Carlos III de España",
+      "rol": "Rey de España",
+      "periodoRelevancia": [1759, 1788]
+    },
+    {
+      "id": "malaspina",
+      "titulo": "Alejandro Malaspina",
+      "rol": "Marino y explorador",
+      "periodoRelevancia": [1789, 1794]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "expulsion-jesuitas",
+      "titulo": "Expulsión de los jesuitas de España",
+      "tipo": "tratado",
+      "fechaAprox": 1767.15,
+      "coordenadas": [-3.7, 40.42],
+      "personajeIds": ["carlos-iii"],
+      "rutaId": "reformas-borbonicas"
+    },
+    {
+      "id": "expedicion-malaspina",
+      "titulo": "Expedición Malaspina",
+      "tipo": "descubrimiento",
+      "fechaAprox": 1789.6,
+      "coordenadas": [-6.28, 36.53],
+      "personajeIds": ["malaspina"],
+      "rutaId": "expedicion-malaspina"
+    },
+    {
+      "id": "toma-habana-1762",
+      "titulo": "Toma de La Habana",
+      "tipo": "batalla",
+      "fechaAprox": 1762.5,
+      "coordenadas": [-82.35, 23.13],
+      "personajeIds": [],
+      "rutaId": "guerra-siete-anos"
+    }
+  ]
+}

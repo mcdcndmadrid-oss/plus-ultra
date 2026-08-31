@@ -1,0 +1,45 @@
+{
+  "personajes": [
+    {
+      "id": "carlos-i",
+      "titulo": "Carlos I de España",
+      "rol": "Rey de España y emperador",
+      "periodoRelevancia": [1516, 1556]
+    },
+    {
+      "id": "marques-pescara",
+      "titulo": "Fernando de Ávalos",
+      "rol": "General imperial",
+      "periodoRelevancia": [1521, 1525]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-pavia",
+      "titulo": "Batalla de Pavía",
+      "tipo": "batalla",
+      "fechaAprox": 1525.15,
+      "coordenadas": [9.16, 45.18],
+      "personajeIds": ["marques-pescara", "carlos-i"],
+      "rutaId": "guerras-italianas"
+    },
+    {
+      "id": "saco-de-roma",
+      "titulo": "Saco de Roma",
+      "tipo": "batalla",
+      "fechaAprox": 1527.4,
+      "coordenadas": [12.48, 41.9],
+      "personajeIds": ["carlos-i"],
+      "rutaId": "guerras-italianas"
+    },
+    {
+      "id": "paz-cambrai",
+      "titulo": "Paz de Cambrai",
+      "tipo": "tratado",
+      "fechaAprox": 1529.65,
+      "coordenadas": [3.23, 50.18],
+      "personajeIds": ["carlos-i"],
+      "rutaId": "guerras-italianas"
+    }
+  ]
+}

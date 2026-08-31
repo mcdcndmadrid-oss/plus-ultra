@@ -1,0 +1,78 @@
+{
+  "personajes": [
+    {
+      "id": "pablo-morillo",
+      "titulo": "Pablo Morillo",
+      "rol": "General en jefe del Ejército Expedicionario",
+      "periodoRelevancia": [1815, 1820]
+    },
+    {
+      "id": "jose-serna",
+      "titulo": "José de la Serna",
+      "rol": "Último virrey del Perú",
+      "periodoRelevancia": [1821, 1824]
+    },
+    {
+      "id": "mariano-osorio",
+      "titulo": "Mariano Osorio",
+      "rol": "Capitán general de Chile",
+      "periodoRelevancia": [1814, 1818]
+    }
+  ],
+  "eventos": [
+    {
+      "id": "batalla-boyaca",
+      "titulo": "Batalla de Boyacá",
+      "tipo": "batalla",
+      "fechaAprox": 1819.65,
+      "coordenadas": [-73.36, 5.46],
+      "personajeIds": [],
+      "rutaId": "campanas-bolivar"
+    },
+    {
+      "id": "batalla-carabobo",
+      "titulo": "Batalla de Carabobo",
+      "tipo": "batalla",
+      "fechaAprox": 1821.48,
+      "coordenadas": [-67.95, 10.21],
+      "personajeIds": [],
+      "rutaId": "campanas-bolivar"
+    },
+    {
+      "id": "batalla-pichincha",
+      "titulo": "Batalla de Pichincha",
+      "tipo": "batalla",
+      "fechaAprox": 1822.4,
+      "coordenadas": [-78.55, -0.18],
+      "personajeIds": [],
+      "rutaId": "campanas-bolivar"
+    },
+    {
+      "id": "batalla-chacabuco",
+      "titulo": "Batalla de Chacabuco",
+      "tipo": "batalla",
+      "fechaAprox": 1817.13,
+      "coordenadas": [-70.65, -33.05],
+      "personajeIds": ["mariano-osorio"],
+      "rutaId": "campanas-san-martin"
+    },
+    {
+      "id": "batalla-maipu",
+      "titulo": "Batalla de Maipú",
+      "tipo": "batalla",
+      "fechaAprox": 1818.32,
+      "coordenadas": [-70.75, -33.52],
+      "personajeIds": [],
+      "rutaId": "campanas-san-martin"
+    },
+    {
+      "id": "batalla-ayacucho",
+      "titulo": "Batalla de Ayacucho",
+      "tipo": "batalla",
+      "fechaAprox": 1824.83,
+      "coordenadas": [-74.13, -13.42],
+      "personajeIds": ["jose-serna"],
+      "rutaId": "campanas-san-martin"
+    }
+  ]
+}

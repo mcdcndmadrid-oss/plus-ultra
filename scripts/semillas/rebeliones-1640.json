@@ -1,0 +1,23 @@
+{
+  "personajes": [],
+  "eventos": [
+    {
+      "id": "guerra-segadors",
+      "titulo": "Guerra dels Segadors",
+      "tipo": "rebelion",
+      "fechaAprox": 1640.5,
+      "coordenadas": [2.15, 41.39],
+      "personajeIds": [],
+      "rutaId": "rebeliones-1640"
+    },
+    {
+      "id": "restauracion-portugal",
+      "titulo": "Guerra de Restauración Portuguesa",
+      "tipo": "rebelion",
+      "fechaAprox": 1640.98,
+      "coordenadas": [-9.14, 38.71],
+      "personajeIds": [],
+      "rutaId": "rebeliones-1640"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "personajes": [
+    {
+      "id": "alvarez-pineda",
+      "nombre": "Alonso Álvarez de Pineda",
+      "nacimiento": 1494,
+      "muerte": 1519.9166666666667,
+      "periodoRelevancia": [
+        1519,
+        1519
+      ],
+      "rol": "Explorador, primer cartógrafo del golfo de México",
+      "resumen": "Alonso Álvarez de Pineda (Aldeacentenera, Cáceres, 1494-1520) fue un marino, explorador y cartógrafo español de principios del siglo XVI que reconoció la costa del golfo de México por encargo del entonces gobernador español Su expedición completó el reconocimiento de la costa del Golfo y cartografió unas 800 millas, además de refutar la idea de la existencia en sus aguas de una ruta marítima a Asia. También verificó que la Florida era una península en lugar de una isla, y permitió a Álvarez de Pineda ser el primer europeo en ver las áreas costeras del oeste de Florida, Alabama, Misisipi, Luisiana y Texas, tierras que él llamó «Amichel».​",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Alonso_%C3%81lvarez_de_Pineda",
+      "eventoIds": []
+    },
+    {
+      "id": "cabrillo",
+      "nombre": "Juan Rodríguez Cabrillo",
+      "nacimiento": 1496.9166666666667,
+      "muerte": 1543,
+      "periodoRelevancia": [
+        1542,
+        1543
+      ],
+      "rol": "Explorador, primer europeo en la costa de California",
+      "resumen": "Juan Rodríguez Cabrillo o Juan de Palma (1497- 3 de enero de 1543) fue un marino y explorador español conocido por haber realizado una de las primeras expediciones europeas de la costa oeste de América del Norte al servicio de la Corona Española, navegando cerca de la costa del actual estado de California y participando en la fundación de la ciudad de Oaxaca, en México.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Juan_Rodr%C3%ADguez_Cabrillo.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_Rodr%C3%ADguez_Cabrillo",
+      "eventoIds": [
+        "costeo-california-cabrillo"
+      ]
+    },
+    {
+      "id": "vespucio",
+      "nombre": "Américo Vespucio",
+      "nacimiento": 1454.1666666666667,
+      "muerte": 1512.0833333333333,
+      "periodoRelevancia": [
+        1499,
+        1500
+      ],
+      "rol": "Navegante al servicio de la Corona de Castilla",
+      "resumen": "Américo Vespucio (en italiano: Amerigo Vespucci​ [/ameˈriɡo vesˈputtʃi/]) (Florencia, 9 de marzo de 1454​-Sevilla, 22 de febrero de 1512) fue un comerciante, explorador y cosmógrafo florentino, naturalizado castellano en 1505,​ que participó en al menos dos viajes de exploración al Nuevo Mundo, continente que hoy en día se llama América en su honor. Desempeñó cargos importantes en la Casa de contratación de Sevilla, de la que fue nombrado piloto mayor en 1508; pero su fama universal se debe a dos obras publicadas bajo su nombre entre 1503 y 1505: el Mundus Novus y la Carta a Soderini, que le atribuyen un papel protagonista en el Descubrimiento de América y su identificación como un nuevo continente. Por esta razón el cartógrafo Martín Waldseemüller en su mapa Universalis Cosmographia de 1507 acuñó el nombre de «América» en su honor como designación para el Nuevo Mundo. El relato a menudo fantasioso y contradictorio de sus viajes lo han ubicado como una de las figuras más controvertidas de la era de los descubrimientos.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_of_Amerigo_Vespucci.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Am%C3%A9rico_Vespucio",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [
+    {
+      "id": "costeo-california-cabrillo",
+      "titulo": "Juan Rodríguez Cabrillo",
+      "tipo": "descubrimiento",
+      "fecha": 1542.75,
+      "coordenadas": [
+        -117.24,
+        32.71
+      ],
+      "resumen": "Juan Rodríguez Cabrillo o Juan de Palma (1497- 3 de enero de 1543) fue un marino y explorador español conocido por haber realizado una de las primeras expediciones europeas de la costa oeste de América del Norte al servicio de la Corona Española, navegando cerca de la costa del actual estado de California y participando en la fundación de la ciudad de Oaxaca, en México.",
+      "imagenWiki": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Juan_Rodr%C3%ADguez_Cabrillo.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Juan_Rodr%C3%ADguez_Cabrillo",
+      "personajeIds": [
+        "cabrillo"
+      ],
+      "rutaId": "costeo-california"
+    }
+  ],
+  "avisos": [
+    "alvarez-pineda: sin imagen"
+  ]
+}

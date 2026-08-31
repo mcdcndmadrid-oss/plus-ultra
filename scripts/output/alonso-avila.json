@@ -1,0 +1,22 @@
+{
+  "personajes": [
+    {
+      "id": "alonso-avila",
+      "nombre": "Alonso Dávila y Guzmán",
+      "nacimiento": 1600.5833333333333,
+      "muerte": 1668.5,
+      "periodoRelevancia": [
+        1519,
+        1524
+      ],
+      "rol": "Capitán de Cortés",
+      "resumen": "Alonso Dávila y Guzmán (Jaca, 10 de agosto de 1600-Madrid, 23 de julio de 1668) fue un militar español, capitán general de las islas Canarias y presidente de su Real Audiencia entre 1650 y 1659.",
+      "articuloWiki": "https://es.wikipedia.org/wiki/Alonso_D%C3%A1vila_y_Guzm%C3%A1n",
+      "eventoIds": []
+    }
+  ],
+  "eventos": [],
+  "avisos": [
+    "alonso-avila: sin imagen"
+  ]
+}
