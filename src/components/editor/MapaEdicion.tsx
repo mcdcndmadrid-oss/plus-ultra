@@ -1,4 +1,4 @@
-import { Map as Maplibre, NavigationControl } from 'maplibre-gl'
+import { Map as Maplibre, NavigationControl, setWorkerUrl } from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import { useEffect, useRef } from 'react'
 import {
@@ -10,6 +10,11 @@ import {
 } from 'terra-draw'
 import { TerraDrawMapLibreGLAdapter } from 'terra-draw-maplibre-gl-adapter'
 import type { Geometry } from 'geojson'
+
+// Ver la nota en MapaHistorico.tsx: el worker de MapLibre no se empaqueta
+// de forma fiable en el build de producción, así que se sirve como
+// asset estático propio.
+setWorkerUrl(`${import.meta.env.BASE_URL}maplibre-gl-worker.mjs`)
 
 type ModoDibujo = 'point' | 'linestring' | 'polygon'
 

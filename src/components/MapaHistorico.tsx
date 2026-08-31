@@ -3,7 +3,7 @@ import type {
   Map as MapLibreMap,
   MapLayerMouseEvent,
 } from 'maplibre-gl'
-import { Map as Maplibre, NavigationControl } from 'maplibre-gl'
+import { Map as Maplibre, NavigationControl, setWorkerUrl } from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
 import { useEffect, useRef } from 'react'
 import {
@@ -23,6 +23,15 @@ import {
 import { colorPorReino } from './coloresTerritorio'
 import { estiloParaCapa } from './estilosMapa'
 import type { Evento, Ruta, Territorio, TipoEvento } from '../types/historia'
+
+// El build de producción (Vite/Rolldown) no siempre consigue empaquetar
+// el worker interno de MapLibre en la ruta que este espera por defecto,
+// lo que rompe el renderizado de tiles vectoriales en el despliegue
+// (aunque en desarrollo funciona). Se sirve como asset estático propio
+// (public/maplibre-gl-worker.mjs) y se apunta ahí explícitamente, con
+// BASE_URL para que funcione igual en la raíz del dominio o en un
+// subdirectorio (GitHub Pages).
+setWorkerUrl(`${import.meta.env.BASE_URL}maplibre-gl-worker.mjs`)
 
 const RUTA_ANCHO_NORMAL = 3.5
 const RUTA_ANCHO_RESALTADO = 6
