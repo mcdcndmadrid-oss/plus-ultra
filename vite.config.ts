@@ -53,7 +53,7 @@ export default defineConfig({
         // como "cacheables por wildcard". Solo se precachea el propio
         // bundle de la app; el resto sigue funcionando en línea como
         // hasta ahora, sin caché offline.
-        globPatterns: ['**/*.{js,css,html,svg,png,ico}'],
+        globPatterns: ['**/*.{js,mjs,css,html,svg,png,ico}'],
         // El bundle principal incluye MapLibre GL y supera el límite por
         // defecto de precaché (2 MiB); se sube a 4 MiB para poder
         // precachearlo sin tener que trocear el build todavía.
